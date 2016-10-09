@@ -15,13 +15,15 @@ body:after {
   background-size: cover;
   background-position: center center;
   background-color: black;
+  background-attachment: fixed;
   opacity: 0.5;
   top: 0;
   left: 0;
-  bottom: 0;
+  /*bottom: 0;*/
   right: 0;
   position: absolute;
   z-index: -1;
+  height: 100%
 }
 
 h1,h2,h3,h4,h5,h6{
@@ -141,6 +143,7 @@ h1,h2,h3,h4,h5,h6{
   -webkit-flex-direction: column;
   -webkit-justify-content: center;
   -webkit-align-items: center;
+  padding-top:70px;
 }
 
 #home > .row{

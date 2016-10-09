@@ -19,16 +19,16 @@
         "typology": "Terziario",
         "cod_prog": "A120",
         "zona": "4",
-        "panoId": "J6xiHZJxMssb5gBctak_lg",
-        "category": "area_dismessa",
-        "focus": true,
+        "panoId": "qtmt8Qi-KCx2cYXkI5YoIA",
+        "category": "privato",
+        "focus":true,
         "timemachine": [
           {
-            "date":"2014/02",
+            "year":2014,
             "panoid" :"IvKTxdCcx2o_D3uUPoJmAw"
           },
           {
-            "date":"2013/05",
+            "year":2013,
             "panoid": "82vEiHNvcK7wO0baUsechw"
           }
         ]
@@ -40,8 +40,7 @@
         "type": "Point",
         "coordinates": [
           9.247131,
-          45.445144,
-          0
+          45.445144
         ]
       },
       "properties": {
@@ -53,8 +52,9 @@
         "typology": "Produttivo",
         "cod_prog": "A124",
         "zona": "4",
-        "panoId": "vDxpYl6TrpOiApeJow0q2Q",
-        "category": "area_dismessa"
+        "panoId": "LAYeGUKyYZZGPV_IvFfvcg",
+        "category": null,
+        "focus":false
       }
     },
     {
@@ -63,8 +63,7 @@
         "type": "Point",
         "coordinates": [
           9.222874,
-          45.448577,
-          0
+          45.448577
         ]
       },
       "properties": {
@@ -76,8 +75,32 @@
         "typology": "Edifici rurali",
         "cod_prog": "A137",
         "zona": "4",
-        "panoId": "oR5TZVhdUuVll9kGTPmctQ",
-        "category": "scalo"
+        "panoId": "xv0RdQYaw4Nm6dAzZsfnpw",
+        "category": "rurale",
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.239754,
+          45.448313
+        ]
+      },
+      "properties": {
+        "name": "Via Salomone Oreste 40-70-72",
+        "address": "Via Salomone Oreste 40-70-72",
+        "FID": "3",
+        "condition": "Degrado/Inutilizzo",
+        "condition_desc": "Area in zona  industriale artigianale",
+        "typology": "Produttivo",
+        "cod_prog": "A193",
+        "zona": "4",
+        "panoId": null,
+        "category": null,
+        "focus":false
       }
     },
     {
@@ -86,8 +109,7 @@
         "type": "Point",
         "coordinates": [
           9.23226,
-          45.438013,
-          0
+          45.438013
         ]
       },
       "properties": {
@@ -99,8 +121,4032 @@
         "typology": "Produttivo",
         "cod_prog": "A195",
         "zona": "4",
-        "panoId": "a28WlJKyBI6ZNnT8xMwZ4Q",
-        "category": "scalo"
+        "panoId": "3hcGECWu42jfRnmeDHIFQA",
+        "category": null,
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.242045,
+          45.44809
+        ]
+      },
+      "properties": {
+        "name": "Via Salomone Oreste 77",
+        "address": "Via Salomone Oreste 77",
+        "FID": "5",
+        "condition": "Degrado/Inutilizzo",
+        "condition_desc": "Area in zona  industriale artigianale",
+        "typology": "Produttivo",
+        "cod_prog": "A197",
+        "zona": "4",
+        "panoId": "hK4MasFl2MlKNv_anL0EwA",
+        "category": null,
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.249559,
+          45.453277
+        ]
+      },
+      "properties": {
+        "name": "Via Mecenate 77-79",
+        "address": "Via Mecenate 77-79",
+        "FID": "6",
+        "condition": "Degrado/Inutilizzo",
+        "condition_desc": "Area in zona  industriale artigianale",
+        "typology": "Produttivo",
+        "cod_prog": "A199",
+        "zona": "4",
+        "panoId": null,
+        "category": null,
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.249072,
+          45.451286
+        ]
+      },
+      "properties": {
+        "name": "Via Mecenate 84",
+        "address": "Via Mecenate 84",
+        "FID": "7",
+        "condition": "Degrado/Inutilizzo",
+        "condition_desc": "Area in zona mista",
+        "typology": "Produttivo",
+        "cod_prog": "A200",
+        "zona": "4",
+        "panoId": null,
+        "category": null,
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.243858,
+          45.448218
+        ]
+      },
+      "properties": {
+        "name": "Via Cassio Dione 6-8-10-12",
+        "address": "Via Cassio Dione 6-8-10-12",
+        "FID": "8",
+        "condition": "Degrado/Inutilizzo",
+        "condition_desc": "Area in zona  industriale artigianale",
+        "typology": "Produttivo",
+        "cod_prog": "A201",
+        "zona": "4",
+        "panoId": null,
+        "category": null,
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.231592,
+          45.442665
+        ]
+      },
+      "properties": {
+        "name": "Via Toffetti 71-73",
+        "address": "Via Toffetti 71-73",
+        "FID": "9",
+        "condition": "Degrado/Inutilizzo",
+        "condition_desc": "Area in zona  industriale artigianale",
+        "typology": "Produttivo",
+        "cod_prog": "A202",
+        "zona": "4",
+        "panoId": null,
+        "category": null,
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.22275,
+          45.446654
+        ]
+      },
+      "properties": {
+        "name": "Via Verne 1",
+        "address": "Via Verne 1",
+        "FID": "10",
+        "condition": "Degrado/Inutilizzo",
+        "condition_desc": "Area in zona  industriale artigianale",
+        "typology": "Produttivo",
+        "cod_prog": "A203",
+        "zona": "4",
+        "panoId": "IcrgJdc3F-4aMMdYsY85eQ",
+        "category": null,
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.240627000000002,
+          45.431986
+        ]
+      },
+      "properties": {
+        "name": "Via Rogoredo 16",
+        "address": "Via Rogoredo 16",
+        "FID": "11",
+        "condition": "Riqualificazione",
+        "condition_desc": "Cascina Palma",
+        "typology": "Edifici rurali",
+        "cod_prog": "R206",
+        "zona": "4",
+        "panoId": "cHPsmkA4kKxIKGZEPt8w9A",
+        "category": "rurale",
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.218059,
+          45.461185
+        ]
+      },
+      "properties": {
+        "name": "Via Umbria 120",
+        "address": "Via Umbria 120",
+        "FID": "12",
+        "condition": "Degrado/Inutilizzo",
+        "condition_desc": "Edificio artigianale",
+        "typology": "Produttivo",
+        "cod_prog": "A220",
+        "zona": "4",
+        "panoId": "TyC8-zPqGX9uZXRXErLplQ",
+        "category": null,
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.212111,
+          45.45179
+        ]
+      },
+      "properties": {
+        "name": "Via Sigieri 24",
+        "address": "Via Sigieri 24",
+        "FID": "13",
+        "condition": "Degrado/Inutilizzo",
+        "condition_desc": "Edificio industriale",
+        "typology": "Produttivo",
+        "cod_prog": "A221",
+        "zona": "4",
+        "panoId": "Vv3dJ8f3jwzYevpDemkEzw",
+        "category": null,
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.214173,
+          45.450486
+        ]
+      },
+      "properties": {
+        "name": "Via Tertulliano 7",
+        "address": "Via Tertulliano 7",
+        "FID": "14",
+        "condition": "Riqualificazione",
+        "condition_desc": "Ex ristorante",
+        "typology": "Produttivo",
+        "cod_prog": "R222",
+        "zona": "4",
+        "panoId": "9Xsv_7DQ-aen6LJlu8NOsw",
+        "category": null,
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.221116,
+          45.447596
+        ]
+      },
+      "properties": {
+        "name": "Via Cadolini Giovanni 26",
+        "address": "Via Cadolini Giovanni 26",
+        "FID": "15",
+        "condition": "Vuoto",
+        "condition_desc": "Ex Plasmon",
+        "typology": "Produttivo",
+        "cod_prog": "A223",
+        "zona": "4",
+        "panoId": "-AA7tlzDhNukdxmr4h4kXA",
+        "category": null,
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.21787,
+          45.46205
+        ]
+      },
+      "properties": {
+        "name": "Cso XXII  Marzo 30",
+        "address": "Cso XXII  Marzo 30",
+        "FID": "16",
+        "condition": "Degrado/Inutilizzo",
+        "condition_desc": "Abitazione",
+        "typology": "Residenza",
+        "cod_prog": "A225",
+        "zona": "4",
+        "panoId": "aIPjxw0eHz4hY12z3EgqGQ",
+        "category": null,
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.218524,
+          45.465025
+        ]
+      },
+      "properties": {
+        "name": "Via Hajech Camillo 28",
+        "address": "Via Hajech Camillo 28",
+        "FID": "17",
+        "condition": "Degrado/Inutilizzo",
+        "condition_desc": "Abitazione",
+        "typology": "Residenza",
+        "cod_prog": "A226",
+        "zona": "4",
+        "panoId": "o5dRmTetVulUygXt-AAUzw",
+        "category": null,
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.217999,
+          45.447287
+        ]
+      },
+      "properties": {
+        "name": "Via Tacito Cornelio 10",
+        "address": "Via Tacito Cornelio 10",
+        "FID": "18",
+        "condition": "Degrado/Inutilizzo",
+        "condition_desc": "Vuoto urbano",
+        "typology": "Area libera",
+        "cod_prog": "A228",
+        "zona": "4",
+        "panoId": "1FRZiQab7Une9dlapoDaCQ",
+        "category": "area_dismessa",
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.226955,
+          45.455178
+        ]
+      },
+      "properties": {
+        "name": "Via Maspero Paolo 19",
+        "address": "Via Maspero Paolo 19",
+        "FID": "19",
+        "condition": "Riqualificazione",
+        "condition_desc": "Area in zona  industriale artigianale",
+        "typology": "Produttivo",
+        "cod_prog": "R230",
+        "zona": "4",
+        "panoId": "4nBA1jDe58K8RjgPLIA9vA",
+        "category": null,
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.231437,
+          45.444595
+        ]
+      },
+      "properties": {
+        "name": "Via Toffetti 121",
+        "address": "Via Toffetti 121",
+        "FID": "20",
+        "condition": "Degrado/Inutilizzo",
+        "condition_desc": "Palazzo INPS",
+        "typology": "Terziario",
+        "cod_prog": "A264",
+        "zona": "4",
+        "panoId": "gqRZBU1w5zGWLBgIydMS7g",
+        "category": "pubblico",
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.237133,
+          45.43429700000001
+        ]
+      },
+      "properties": {
+        "name": "Via Cassinis Giovanni Battista 73",
+        "address": "Via Cassinis Giovanni Battista 73",
+        "FID": "21",
+        "condition": "Degrado/Inutilizzo",
+        "condition_desc": "Edificio artigianale con uffici",
+        "typology": "Produttivo",
+        "cod_prog": "A235",
+        "zona": "4",
+        "panoId": "_35jrBP8TO2bIKZBRd2QQg",
+        "category": null,
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.231564,
+          45.437574
+        ]
+      },
+      "properties": {
+        "name": "Via Pietro Gaggia 5",
+        "address": "Via Pietro Gaggia 5",
+        "FID": "22",
+        "condition": "Degrado/Inutilizzo",
+        "condition_desc": "Parcheggio sotterraneo",
+        "typology": "Parcheggi interrati",
+        "cod_prog": "A236",
+        "zona": "4",
+        "panoId": "FgrmPFZiT8BEqdIZfDeHSw",
+        "category": null,
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.233953,
+          45.440354
+        ]
+      },
+      "properties": {
+        "name": "Via Toffetti 94",
+        "address": "Via Toffetti 94",
+        "FID": "23",
+        "condition": "Degrado/Inutilizzo",
+        "condition_desc": "Magazzini",
+        "typology": "Produttivo",
+        "cod_prog": "A238",
+        "zona": "4",
+        "panoId": "mLGtqb30zs088ItlXT6c3A",
+        "category": null,
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.234224,
+          45.437275
+        ]
+      },
+      "properties": {
+        "name": "Via Toffetti 19",
+        "address": "Via Toffetti 19",
+        "FID": "24",
+        "condition": "Degrado/Inutilizzo",
+        "condition_desc": "Vuoto urbano",
+        "typology": "Area libera",
+        "cod_prog": "A239",
+        "zona": "4",
+        "panoId": "yBB_Gbsbs-ciHA_QRGhYqQ",
+        "category": "area_dismessa",
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.250022,
+          45.451832
+        ]
+      },
+      "properties": {
+        "name": "Via Mecenate 91",
+        "address": "Via Mecenate 91",
+        "FID": "25",
+        "condition": "Degrado/Inutilizzo",
+        "condition_desc": "Ex Fabbri Editore",
+        "typology": "Terziario",
+        "cod_prog": "A252",
+        "zona": "4",
+        "panoId": "LVDEj-fe0CZnaFQFNog-Gg",
+        "category": null,
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.24921,
+          45.452368
+        ]
+      },
+      "properties": {
+        "name": "Via Mecenate 83",
+        "address": "Via Mecenate 83",
+        "FID": "26",
+        "condition": "Degrado/Inutilizzo",
+        "condition_desc": "Spazi di vendita",
+        "typology": "Commercio",
+        "cod_prog": "A263",
+        "zona": "4",
+        "panoId": "pPDxf-FaxcqMfUHExWVwsw",
+        "category": null,
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.24386,
+          45.45398
+        ]
+      },
+      "properties": {
+        "name": "Via Malipiero Gianfranco 10",
+        "address": "Via Malipiero Gianfranco 10",
+        "FID": "27",
+        "condition": "Degrado/Inutilizzo",
+        "condition_desc": "Ex Bodeguita",
+        "typology": "Commercio",
+        "cod_prog": "A244",
+        "zona": "4",
+        "panoId": "W1ccciKE-dUl76nk3YL-aQ",
+        "category": null,
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.246924,
+          45.449147
+        ]
+      },
+      "properties": {
+        "name": "Via Quintiliano Marco Fabio 34",
+        "address": "Via Quintiliano Marco Fabio 34",
+        "FID": "28",
+        "condition": "Terreno",
+        "condition_desc": "Residenza Universitaria Lavazza non realizzata",
+        "typology": "Area libera",
+        "cod_prog": "A246",
+        "zona": "4",
+        "panoId": "u-1t0GbNL1EIMkmRxzgNCQ",
+        "category": "area_dismessa",
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.244575,
+          45.451588
+        ]
+      },
+      "properties": {
+        "name": "Via Quintiliano Marco Fabio 15",
+        "address": "Via Quintiliano Marco Fabio 15",
+        "FID": "29",
+        "condition": "Degrado/Inutilizzo",
+        "condition_desc": "Azienda di trasporti",
+        "typology": "Produttivo",
+        "cod_prog": "A247",
+        "zona": "4",
+        "panoId": "odTJ4IqJtb422bkI-ZlBbg",
+        "category": null,
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.261438,
+          45.441565
+        ]
+      },
+      "properties": {
+        "name": "Via Vittorini Elio 6",
+        "address": "Via Vittorini Elio 6",
+        "FID": "30",
+        "condition": "Degrado/Inutilizzo",
+        "condition_desc": "Molino Spazzola",
+        "typology": "Edifici rurali",
+        "cod_prog": "A253",
+        "zona": "4",
+        "panoId": "DbT4UJVYdGAA19CLvf4waw",
+        "category": "rurale",
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.236766,
+          45.445246
+        ]
+      },
+      "properties": {
+        "name": "Via Bonfadini Romualdo 40",
+        "address": "Via Bonfadini Romualdo 40",
+        "FID": "31",
+        "condition": "Degrado",
+        "condition_desc": "Baracche",
+        "typology": "Area libera",
+        "cod_prog": "A265",
+        "zona": "4",
+        "panoId": "IA2R5VRJ4O6TWdsaA84WEg",
+        "category": "area_dismessa",
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.245825,
+          45.432132
+        ]
+      },
+      "properties": {
+        "name": "Via Freikofel 26",
+        "address": "Via Freikofel 26",
+        "FID": "32",
+        "condition": "Degrado/Inutilizzo",
+        "condition_desc": "Abitazione",
+        "typology": "Residenza",
+        "cod_prog": "A258",
+        "zona": "4",
+        "panoId": "Pcqqnm7-0OuUNyrb3KqKAg",
+        "category": null,
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.239004,
+          45.43968
+        ]
+      },
+      "properties": {
+        "name": "Via Medici del Vascello 40",
+        "address": "Via Medici del Vascello 40",
+        "FID": "33",
+        "condition": "Degrado/Inutilizzo",
+        "condition_desc": "Uffici",
+        "typology": "Terziario",
+        "cod_prog": "A262",
+        "zona": "4",
+        "panoId": "cJW31-wfOPwhJ5a6D36cIw",
+        "category": null,
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.237549,
+          45.442589
+        ]
+      },
+      "properties": {
+        "name": "Via Medici del vascello 14",
+        "address": "Via Medici del vascello 14",
+        "FID": "34",
+        "condition": "Degrado/Inutilizzo",
+        "condition_desc": "Uffici",
+        "typology": "Produttivo",
+        "cod_prog": "A268",
+        "zona": "4",
+        "panoId": "-i_mXeRmZetMcVHFRb5Big",
+        "category": null,
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.237875,
+          45.440185
+        ]
+      },
+      "properties": {
+        "name": "Via Dei Pestagalli 33",
+        "address": "Via Dei Pestagalli 33",
+        "FID": "35",
+        "condition": "Degrado/Inutilizzo",
+        "condition_desc": "Area Ex Pirelli",
+        "typology": "Terziario",
+        "cod_prog": "A269",
+        "zona": "4",
+        "panoId": null,
+        "category": null,
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.210093,
+          45.46189400000001
+        ]
+      },
+      "properties": {
+        "name": "Cso XXII Marzo 14",
+        "address": "Cso XXII Marzo 14",
+        "FID": "36",
+        "condition": "Degrado/Inutilizzo",
+        "condition_desc": "Ex Cinema Luce",
+        "typology": "Terziario",
+        "cod_prog": "A115",
+        "zona": "4",
+        "panoId": "eiNswcpA5lcReLxrXvrkbg",
+        "category": null,
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.213597,
+          45.448355
+        ]
+      },
+      "properties": {
+        "name": "Via Lattanzio 4",
+        "address": "Via Lattanzio 4",
+        "FID": "37",
+        "condition": "Degrado/Inutilizzo",
+        "condition_desc": "Abitazione",
+        "typology": "Residenza",
+        "cod_prog": "A227",
+        "zona": "4",
+        "panoId": "6KqbFaQC6OxkeyP966F-uw",
+        "category": null,
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.236659,
+          45.436469
+        ]
+      },
+      "properties": {
+        "name": "Via Carlo Boncompagni 101",
+        "address": "Via Carlo Boncompagni 101",
+        "FID": "38",
+        "condition": "Scheletro",
+        "condition_desc": "Abitazione",
+        "typology": "Residenza",
+        "cod_prog": "A85",
+        "zona": "4",
+        "panoId": null,
+        "category": null,
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.235507,
+          45.445395
+        ]
+      },
+      "properties": {
+        "name": "Via Dei Pestagalli 1-3-5",
+        "address": "Via Dei Pestagalli 1-3-5",
+        "FID": "39",
+        "condition": "Degrado/Inutilizzo",
+        "condition_desc": "Uffici con industria",
+        "typology": "Terziario",
+        "cod_prog": "A255",
+        "zona": "4",
+        "panoId": "WvKSXdnOzPbi29P4CYUynA",
+        "category": null,
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.219843000000001,
+          45.441248
+        ]
+      },
+      "properties": {
+        "name": "Via Oglio 8",
+        "address": "Via Oglio 8",
+        "FID": "40",
+        "condition": "Degrado/Inutilizzo",
+        "condition_desc": "Uffici",
+        "typology": "Terziario",
+        "cod_prog": "A271",
+        "zona": "4",
+        "panoId": "LKZdRM5OM6Vu-q2zUGrbhg",
+        "category": null,
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.237243,
+          45.441853
+        ]
+      },
+      "properties": {
+        "name": "Via Dei Pestagalli 25",
+        "address": "Via Dei Pestagalli 25",
+        "FID": "41",
+        "condition": "Degrado",
+        "condition_desc": "Spazi residuali e verde incolto",
+        "typology": "Area libera",
+        "cod_prog": "A257",
+        "zona": "4",
+        "panoId": "GTszQae4qaJMrz6lwV8GKA",
+        "category": "area_dismessa",
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.25087,
+          45.451621
+        ]
+      },
+      "properties": {
+        "name": "Via Fantoli Gaudenzio 3",
+        "address": "Via Fantoli Gaudenzio 3",
+        "FID": "42",
+        "condition": "Degrado/Inutilizzo",
+        "condition_desc": "Uffici",
+        "typology": "Terziario",
+        "cod_prog": "A242",
+        "zona": "4",
+        "panoId": "LgeYEadEUtzNkJf_qfMpvA",
+        "category": null,
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.242231,
+          45.453389
+        ]
+      },
+      "properties": {
+        "name": "Via Quintiliano Marco Fabio 1",
+        "address": "Via Quintiliano Marco Fabio 1",
+        "FID": "43",
+        "condition": "Terreno",
+        "condition_desc": "Spazi residuali e verde incolto",
+        "typology": "Area libera",
+        "cod_prog": "A249",
+        "zona": "4",
+        "panoId": "_ka1MrKOx0dBansPXeaHqg",
+        "category": "area_dismessa",
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.244159,
+          45.454404000000004
+        ]
+      },
+      "properties": {
+        "name": "Via Malipiero Gianfranco",
+        "address": "Via Malipiero Gianfranco",
+        "FID": "44",
+        "condition": "Scheletro",
+        "condition_desc": "Residenza Universitaria",
+        "typology": "Terziario",
+        "cod_prog": "A245",
+        "zona": "4",
+        "panoId": "8RsjxQeJAyYGGg3rENMYeA",
+        "category": null,
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.246399,
+          45.462412
+        ]
+      },
+      "properties": {
+        "name": "Vle Forlanini Enrico 37",
+        "address": "Vle Forlanini Enrico 37",
+        "FID": "45",
+        "condition": "Degrado",
+        "condition_desc": "Campo nomadi abusivo",
+        "typology": "Area libera",
+        "cod_prog": "A243",
+        "zona": "4",
+        "panoId": "dSyq-70Tf9O1JVClbpzxqQ",
+        "category": null,
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.231638,
+          45.440379
+        ]
+      },
+      "properties": {
+        "name": "Via Pecori Giraldi Guglielmo 5",
+        "address": "Via Pecori Giraldi Guglielmo 5",
+        "FID": "46",
+        "condition": "Non operativo",
+        "condition_desc": "Abitazione",
+        "typology": "Residenza",
+        "cod_prog": "A237",
+        "zona": "4",
+        "panoId": "VIed1tsYumWcVzA_X1Ku2Q",
+        "category": null,
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.178755,
+          45.458854
+        ]
+      },
+      "properties": {
+        "name": "Via Gian Giacomo Mora 13",
+        "address": "Via Gian Giacomo Mora 13",
+        "FID": "47",
+        "condition": "Terreno",
+        "condition_desc": "Spazi residuali e verde incolto",
+        "typology": "Area libera",
+        "cod_prog": "A27",
+        "zona": "1",
+        "panoId": "QuKV43-9sZ18yFzJHxK-UA",
+        "category": "area_dismessa",
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.177064,
+          45.459795
+        ]
+      },
+      "properties": {
+        "name": "Via Caminadella 15",
+        "address": "Via Caminadella 15",
+        "FID": "48",
+        "condition": "Degrado/Inutilizzo",
+        "condition_desc": "Ex cinema De Amicis",
+        "typology": "Terziario",
+        "cod_prog": "A30",
+        "zona": "1",
+        "panoId": "CNOAxD-det5ouTXqUJgDZw",
+        "category": null,
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.202642000000003,
+          45.458296
+        ]
+      },
+      "properties": {
+        "name": "Via Fanti Manfredo 19",
+        "address": "Via Fanti Manfredo 19",
+        "FID": "49",
+        "condition": "Non operativo in parte",
+        "condition_desc": "Ex Scuola professionale Bauer",
+        "typology": "Terziario",
+        "cod_prog": "A59",
+        "zona": "1",
+        "panoId": "IVkKCfGOXXsbDFtKGhTO7A",
+        "category": "Pubblico",
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.200771,
+          45.456117
+        ]
+      },
+      "properties": {
+        "name": "Via Alfonso Lamarmora 26",
+        "address": "Via Alfonso Lamarmora 26",
+        "FID": "50",
+        "condition": "Degrado/Inutilizzo in parte",
+        "condition_desc": "Abitazione",
+        "typology": "Residenza",
+        "cod_prog": "A79",
+        "zona": "1",
+        "panoId": null,
+        "category": null,
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.20055,
+          45.437407
+        ]
+      },
+      "properties": {
+        "name": "Via Ripamonti Giuseppe 137",
+        "address": "Via Ripamonti Giuseppe 137",
+        "FID": "51",
+        "condition": "Riqualificazione",
+        "condition_desc": "Edificio industriale",
+        "typology": "Produttivo",
+        "cod_prog": "R306",
+        "zona": "5",
+        "panoId": "6Kd1gj7CnZ8j9lIhM_8w_w",
+        "category": null,
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.200375,
+          45.430777
+        ]
+      },
+      "properties": {
+        "name": "Via Noto 10",
+        "address": "Via Noto 10",
+        "FID": "52",
+        "condition": "Non operativo",
+        "condition_desc": "Abitazione",
+        "typology": "Residenza",
+        "cod_prog": "A308",
+        "zona": "5",
+        "panoId": "g9Ynrz6Bkw821SH5MvhUiQ",
+        "category": null,
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.207928,
+          45.435823
+        ]
+      },
+      "properties": {
+        "name": "Via Cortina d'Ampezzo 10",
+        "address": "Via Cortina d'Ampezzo 10",
+        "FID": "53",
+        "condition": "Degrado/Inutilizzo",
+        "condition_desc": "Edificio industriale",
+        "typology": "Produttivo",
+        "cod_prog": "A309",
+        "zona": "5",
+        "panoId": "kaEEZ5qqpvq0oPGicHn2LQ",
+        "category": null,
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.209332,
+          45.435346
+        ]
+      },
+      "properties": {
+        "name": "Via Passo Pordoi 14",
+        "address": "Via Passo Pordoi 14",
+        "FID": "54",
+        "condition": "Degrado/Inutilizzo",
+        "condition_desc": "Edificio industriale",
+        "typology": "Produttivo",
+        "cod_prog": "A310",
+        "zona": "5",
+        "panoId": "bsMSJzTXISVasB4n_Gpu1Q",
+        "category": null,
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.194408,
+          45.440694
+        ]
+      },
+      "properties": {
+        "name": "Via Morivione 5",
+        "address": "Via Morivione 5",
+        "FID": "55",
+        "condition": "Degrado/Inutilizzo",
+        "condition_desc": "Ex Kennametal",
+        "typology": "Produttivo",
+        "cod_prog": "A311",
+        "zona": "5",
+        "panoId": "I0kkwsF62T8HejsY0FY8RQ",
+        "category": null,
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.200624,
+          45.43689800000001
+        ]
+      },
+      "properties": {
+        "name": "Via Ripamonti Giuseppe 139",
+        "address": "Via Ripamonti Giuseppe 139",
+        "FID": "56",
+        "condition": "Degrado/Inutilizzo",
+        "condition_desc": "Abitazione",
+        "typology": "Residenza",
+        "cod_prog": "A313",
+        "zona": "5",
+        "panoId": "XsJ1fMnf_IQsmj1zAIFS-A",
+        "category": null,
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.184,
+          45.46786
+        ]
+      },
+      "properties": {
+        "name": "Via Rovello 14",
+        "address": "Via Rovello 14",
+        "FID": "57",
+        "condition": "Riqualificazione",
+        "condition_desc": "Parcheggio Rovello",
+        "typology": "Produttivo",
+        "cod_prog": "R98",
+        "zona": "1",
+        "panoId": "ay7V5cQ9gM9uNl4LYJtx9w",
+        "category": null,
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.190512,
+          45.47519400000001
+        ]
+      },
+      "properties": {
+        "name": "Via Montebello 21",
+        "address": "Via Montebello 21",
+        "FID": "58",
+        "condition": "Degrado/Inutilizzo",
+        "condition_desc": "Palazzo Via Montebello 21",
+        "typology": "Residenza",
+        "cod_prog": "A215",
+        "zona": "1",
+        "panoId": "AbW3HgvGVbO_EMTGlkm51Q",
+        "category": null,
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.201868,
+          45.486921
+        ]
+      },
+      "properties": {
+        "name": "Pza Quattro Novembre 3",
+        "address": "Pza Quattro Novembre 3",
+        "FID": "59",
+        "condition": "Riqualificazione",
+        "condition_desc": "Uffici",
+        "typology": "Terziario",
+        "cod_prog": "R43",
+        "zona": "2",
+        "panoId": "hu5iUR6qQIyIYU-x80V0BQ",
+        "category": null,
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.220598,
+          45.497904
+        ]
+      },
+      "properties": {
+        "name": "Vle Monza 94",
+        "address": "Vle Monza 94",
+        "FID": "60",
+        "condition": "Non operativo",
+        "condition_desc": "Uffici",
+        "typology": "Terziario",
+        "cod_prog": "A72",
+        "zona": "2",
+        "panoId": "sHiSrEWikLJTp2fdWIXfmg",
+        "category": null,
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.212901,
+          45.502098
+        ]
+      },
+      "properties": {
+        "name": "Via Carlo Conti 26",
+        "address": "Via Carlo Conti 26",
+        "FID": "61",
+        "condition": "Riqualificazione",
+        "condition_desc": "Cascina Conti",
+        "typology": "Edifici rurali",
+        "cod_prog": "R86",
+        "zona": "2",
+        "panoId": "7NIGvhgwTNGTCdRwIdZYAw",
+        "category": "rurale",
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.211485,
+          45.492125
+        ]
+      },
+      "properties": {
+        "name": "Via Giovanni Battista Sammartini 55",
+        "address": "Via Giovanni Battista Sammartini 55",
+        "FID": "62",
+        "condition": "Degrado/Inutilizzo",
+        "condition_desc": "Spazi di vendita",
+        "typology": "Commercio",
+        "cod_prog": "A90",
+        "zona": "2",
+        "panoId": "V7w6PGDl0PspjCMfQWbURQ",
+        "category": null,
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.194145,
+          45.494123
+        ]
+      },
+      "properties": {
+        "name": "Vle Zara 62",
+        "address": "Vle Zara 62",
+        "FID": "63",
+        "condition": "Degrado/Inutilizzo",
+        "condition_desc": "Abitazione",
+        "typology": "Residenza",
+        "cod_prog": "A111",
+        "zona": "2",
+        "panoId": "Cr0B0WgO0shRWxXhhnW-cA",
+        "category": null,
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.236052,
+          45.498021
+        ]
+      },
+      "properties": {
+        "name": "Via Oropa 3",
+        "address": "Via Oropa 3",
+        "FID": "64",
+        "condition": "Degrado/Inutilizzo",
+        "condition_desc": "Ex Ciba Palmanova/Derna/Benadir/Oropa",
+        "typology": "Produttivo",
+        "cod_prog": "A121",
+        "zona": "2",
+        "panoId": "mWO3m8uiqE9zk9s2vku9zA",
+        "category": null,
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.22716,
+          45.51507
+        ]
+      },
+      "properties": {
+        "name": "Via Lucio Giunio Columella 22",
+        "address": "Via Lucio Giunio Columella 22",
+        "FID": "65",
+        "condition": "Degrado/Inutilizzo",
+        "condition_desc": "Magazzino",
+        "typology": "Produttivo",
+        "cod_prog": "A132",
+        "zona": "2",
+        "panoId": "1-jhu4Z37XuyAywiKNdfQg",
+        "category": null,
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.205796,
+          45.498434
+        ]
+      },
+      "properties": {
+        "name": "Via Fava Angelo 20",
+        "address": "Via Fava Angelo 20",
+        "FID": "66",
+        "condition": "Non operativo",
+        "condition_desc": "Uffici",
+        "typology": "Terziario",
+        "cod_prog": "A139",
+        "zona": "2",
+        "panoId": "i4_Nxc4q_iMb6y4fYEg-_g",
+        "category": null,
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.227807,
+          45.512507
+        ]
+      },
+      "properties": {
+        "name": "Via Cislaghi 17",
+        "address": "Via Cislaghi 17",
+        "FID": "67",
+        "condition": "Degrado/Inutilizzo",
+        "condition_desc": "Edificio artigianale",
+        "typology": "Produttivo",
+        "cod_prog": "A219",
+        "zona": "2",
+        "panoId": "oa1e40B01VUAxAnQu5BaRg",
+        "category": null,
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.245089,
+          45.504901
+        ]
+      },
+      "properties": {
+        "name": "Via Flumendosa 19",
+        "address": "Via Flumendosa 19",
+        "FID": "68",
+        "condition": "Degrado/Inutilizzo",
+        "condition_desc": "Edificio artigianale",
+        "typology": "Produttivo",
+        "cod_prog": "A387",
+        "zona": "2",
+        "panoId": "AOnBwetx2xIM0YrDNdlM7g",
+        "category": null,
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.206421,
+          45.496385000000004
+        ]
+      },
+      "properties": {
+        "name": "Via del Progresso 10",
+        "address": "Via del Progresso 10",
+        "FID": "69",
+        "condition": "Rudere",
+        "condition_desc": "Abitazione",
+        "typology": "Residenza",
+        "cod_prog": "A286",
+        "zona": "2",
+        "panoId": "PlT89_jcvMvgmS2TLhR5rw",
+        "category": null,
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.206878,
+          45.496289
+        ]
+      },
+      "properties": {
+        "name": "Via del Progresso 6",
+        "address": "Via del Progresso 6",
+        "FID": "70",
+        "condition": "Degrado/Inutilizzo",
+        "condition_desc": "Abitazione",
+        "typology": "Residenza",
+        "cod_prog": "A287",
+        "zona": "2",
+        "panoId": "4MIrghvmCapqzzUECZHIWQ",
+        "category": null,
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.242595,
+          45.478849
+        ]
+      },
+      "properties": {
+        "name": "Via Dei Canzi 13",
+        "address": "Via Dei Canzi 13",
+        "FID": "71",
+        "condition": "Degrado/Inutilizzo",
+        "condition_desc": "Edifici industriali",
+        "typology": "Produttivo",
+        "cod_prog": "A44",
+        "zona": "3",
+        "panoId": "Raqpw84wa7IXHeoBad_MzQ",
+        "category": "pubblico",
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.222446,
+          45.480669
+        ]
+      },
+      "properties": {
+        "name": "Vle Gran Sasso 50",
+        "address": "Vle Gran Sasso 50",
+        "FID": "72",
+        "condition": "Degrado/Inutilizzo",
+        "condition_desc": "Ex cinema Splendor",
+        "typology": "Terziario",
+        "cod_prog": "A60",
+        "zona": "3",
+        "panoId": "_IpoKpaZbeda-ViLS7h_5w",
+        "category": "privato",
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.254706,
+          45.479692
+        ]
+      },
+      "properties": {
+        "name": "Via Raffaele Rubattino 75",
+        "address": "Via Raffaele Rubattino 75",
+        "FID": "73",
+        "condition": "Degrado/Inutilizzo",
+        "condition_desc": "Ex Innse",
+        "typology": "Produttivo",
+        "cod_prog": "A96",
+        "zona": "3",
+        "panoId": null,
+        "category": "privato",
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.248846,
+          45.482219
+        ]
+      },
+      "properties": {
+        "name": "Via Arrighi 11",
+        "address": "Via Arrighi 11",
+        "FID": "75",
+        "condition": "Degrado/Inutilizzo",
+        "condition_desc": "Area in zona  industriale artigianale",
+        "typology": "Produttivo",
+        "cod_prog": "A102",
+        "zona": "3",
+        "panoId": null,
+        "category": null,
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.246262,
+          45.481974
+        ]
+      },
+      "properties": {
+        "name": "Via Oslavia 1",
+        "address": "Via Oslavia 1",
+        "FID": "76",
+        "condition": "Degrado/Inutilizzo",
+        "condition_desc": "Area in zona  industriale artigianale",
+        "typology": "Produttivo",
+        "cod_prog": "A104",
+        "zona": "3",
+        "panoId": "4bfavp-JSM-hV83k0Lhblw",
+        "category": "area_dismessa",
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.248074,
+          45.482124
+        ]
+      },
+      "properties": {
+        "name": "Via Oslavia 21",
+        "address": "Via Oslavia 21",
+        "FID": "77",
+        "condition": "Degrado/Inutilizzo",
+        "condition_desc": "Area in zona  industriale artigianale",
+        "typology": "Produttivo",
+        "cod_prog": "A108",
+        "zona": "3",
+        "panoId": null,
+        "category": "area_dismessa",
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.246135,
+          45.4811
+        ]
+      },
+      "properties": {
+        "name": "Via Oslavia 8",
+        "address": "Via Oslavia 8",
+        "FID": "78",
+        "condition": "Degrado/Inutilizzo",
+        "condition_desc": "Area in zona  industriale artigianale",
+        "typology": "Produttivo",
+        "cod_prog": "A109",
+        "zona": "3",
+        "panoId": null,
+        "category": "area_dismessa",
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.211689,
+          45.481952
+        ]
+      },
+      "properties": {
+        "name": "Via Tamagno 2",
+        "address": "Via Tamagno 2",
+        "FID": "79",
+        "condition": "Non operativo",
+        "condition_desc": "Abitazione",
+        "typology": "Residenza",
+        "cod_prog": "A112",
+        "zona": "3",
+        "panoId": "oXsNIeT3x6yUEPn3u2w6Pg",
+        "category": "privato",
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.244959,
+          45.472106
+        ]
+      },
+      "properties": {
+        "name": "Via Bistolfi Leonardo 7",
+        "address": "Via Bistolfi Leonardo 7",
+        "FID": "80",
+        "condition": "Scheletro",
+        "condition_desc": "Uffici",
+        "typology": "Terziario",
+        "cod_prog": "A127",
+        "zona": "3",
+        "panoId": "lHrC5_7yRlVZGHBXM5MSwg",
+        "category": "privato",
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.20444,
+          45.442539
+        ]
+      },
+      "properties": {
+        "name": "Via Adamello 7",
+        "address": "Via Adamello 7",
+        "FID": "81",
+        "condition": "Riqualificazione",
+        "condition_desc": "Area in zona  industriale artigianale",
+        "typology": "Produttivo",
+        "cod_prog": "R110",
+        "zona": "5",
+        "panoId": null,
+        "category": null,
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.176596,
+          45.432886
+        ]
+      },
+      "properties": {
+        "name": "Via Neera Anna 18",
+        "address": "Via Neera Anna 18",
+        "FID": "82",
+        "condition": "Degrado/Inutilizzo",
+        "condition_desc": "Abitazione",
+        "typology": "Residenza",
+        "cod_prog": "A116",
+        "zona": "5",
+        "panoId": "k8-Dn-JvnGPKzdsZMxbooQ",
+        "category": null,
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.198679,
+          45.426195
+        ]
+      },
+      "properties": {
+        "name": "Via Amidani 15, 17, 19",
+        "address": "Via Amidani 15, 17, 19",
+        "FID": "83",
+        "condition": "Degrado/Inutilizzo",
+        "condition_desc": "Uffici",
+        "typology": "Terziario",
+        "cod_prog": "A128",
+        "zona": "5",
+        "panoId": null,
+        "category": "privato",
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.198322,
+          45.425034
+        ]
+      },
+      "properties": {
+        "name": "Via Antegnati 7, 9,11, 13, 15",
+        "address": "Via Antegnati 7, 9,11, 13, 15",
+        "FID": "84",
+        "condition": "Riqualificazione",
+        "condition_desc": "Uffici",
+        "typology": "Terziario",
+        "cod_prog": "R129",
+        "zona": "5",
+        "panoId": null,
+        "category": "privato",
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.197985,
+          45.445757
+        ]
+      },
+      "properties": {
+        "name": "Via Ripamonti Giuseppe",
+        "address": "Via Ripamonti Giuseppe",
+        "FID": "85",
+        "condition": "Degrado/Inutilizzo",
+        "condition_desc": "Ex provveditorato agli studi di Milano",
+        "typology": "Terziario",
+        "cod_prog": "A140",
+        "zona": "5",
+        "panoId": "1vPeimvmgc3vwRuCYHVoVw",
+        "category": "pubblico",
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.204906,
+          45.438617
+        ]
+      },
+      "properties": {
+        "name": "Vle Ortles 36",
+        "address": "Vle Ortles 36",
+        "FID": "86",
+        "condition": "Cantiere",
+        "condition_desc": "Ex Montecatini",
+        "typology": "Produttivo",
+        "cod_prog": "A146",
+        "zona": "5",
+        "panoId": null,
+        "category": "privato",
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.207754,
+          45.43905
+        ]
+      },
+      "properties": {
+        "name": "Vle Ortles 58",
+        "address": "Vle Ortles 58",
+        "FID": "87",
+        "condition": "Degrado/Inutilizzo",
+        "condition_desc": "Area in zona residenziale",
+        "typology": "Produttivo",
+        "cod_prog": "A194",
+        "zona": "5",
+        "panoId": null,
+        "category": null,
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.174644,
+          45.435635
+        ]
+      },
+      "properties": {
+        "name": "Via Chiesa Rossa 9",
+        "address": "Via Chiesa Rossa 9",
+        "FID": "88",
+        "condition": "Degrado/Inutilizzo",
+        "condition_desc": "Magazzino",
+        "typology": "Produttivo",
+        "cod_prog": "A211",
+        "zona": "5",
+        "panoId": "Zc4bcqfmC_lH8MuMnZJ1DA",
+        "category": null,
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.176851,
+          45.43625
+        ]
+      },
+      "properties": {
+        "name": "Via Francesco del Sanctis 15",
+        "address": "Via Francesco del Sanctis 15",
+        "FID": "89",
+        "condition": "Degrado/Inutilizzo",
+        "condition_desc": "Abitazione",
+        "typology": "Residenza",
+        "cod_prog": "A212",
+        "zona": "5",
+        "panoId": "RgZbQGkeJlkyUEKxLUE2dA",
+        "category": null,
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.179767,
+          45.438777
+        ]
+      },
+      "properties": {
+        "name": "Via F.lli Vivarini 5",
+        "address": "Via F.lli Vivarini 5",
+        "FID": "90",
+        "condition": "Degrado/Inutilizzo",
+        "condition_desc": "Edifici industriali",
+        "typology": "Produttivo",
+        "cod_prog": "A213",
+        "zona": "5",
+        "panoId": "OM6dX5YYejc5YPIaThVEYQ",
+        "category": null,
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.178591,
+          45.427096
+        ]
+      },
+      "properties": {
+        "name": "Via Dei Missaglia 13-15",
+        "address": "Via Dei Missaglia 13-15",
+        "FID": "91",
+        "condition": "Degrado/Inutilizzo",
+        "condition_desc": "Spazi di vendita",
+        "typology": "Commercio",
+        "cod_prog": "A217",
+        "zona": "5",
+        "panoId": "FkYclA6njSV9X5ACwlK-iA",
+        "category": null,
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.241427,
+          45.415169
+        ]
+      },
+      "properties": {
+        "name": "Via San Bernardo 16",
+        "address": "Via San Bernardo 16",
+        "FID": "92",
+        "condition": "Degrado/Inutilizzo in parte",
+        "condition_desc": "Cascina Grangia",
+        "typology": "Edifici rurali",
+        "cod_prog": "A57",
+        "zona": "5",
+        "panoId": "sJWX3Z2Dgy791mlnx-025w",
+        "category": "rurale",
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.159842,
+          45.455379
+        ]
+      },
+      "properties": {
+        "name": "Via Osvaldo Gnocchi Viani 2",
+        "address": "Via Osvaldo Gnocchi Viani 2",
+        "FID": "93",
+        "condition": "Riqualificazione",
+        "condition_desc": "Stendhal",
+        "typology": "Residenza",
+        "cod_prog": "R130",
+        "zona": "6",
+        "panoId": "nCCj2tgJoRVxJ5D55QQTXA",
+        "category": null,
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.121509,
+          45.444287
+        ]
+      },
+      "properties": {
+        "name": "Via Giordani Pietro 30",
+        "address": "Via Giordani Pietro 30",
+        "FID": "94",
+        "condition": "Degrado/Inutilizzo",
+        "condition_desc": "Industria",
+        "typology": "Produttivo",
+        "cod_prog": "A198",
+        "zona": "6",
+        "panoId": null,
+        "category": null,
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.152958,
+          45.460465
+        ]
+      },
+      "properties": {
+        "name": "Pza Carlo Irnerio 18",
+        "address": "Pza Carlo Irnerio 18",
+        "FID": "95",
+        "condition": "Degrado/Inutilizzo",
+        "condition_desc": "Ex Borletti",
+        "typology": "Produttivo",
+        "cod_prog": "A76",
+        "zona": "7",
+        "panoId": "XCMj3UJA8v242EhJrWJ1UQ",
+        "category": null,
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.103217,
+          45.478344
+        ]
+      },
+      "properties": {
+        "name": "Via Caldera 21",
+        "address": "Via Caldera 21",
+        "FID": "96",
+        "condition": "Non operativo",
+        "condition_desc": "Gran Hotel Brun",
+        "typology": "Terziario",
+        "cod_prog": "A84",
+        "zona": "7",
+        "panoId": null,
+        "category": "privato",
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.10066,
+          45.502029
+        ]
+      },
+      "properties": {
+        "name": "Via Borsa Mario 33",
+        "address": "Via Borsa Mario 33",
+        "FID": "97",
+        "condition": "Non operativo",
+        "condition_desc": "Uffici",
+        "typology": "Terziario",
+        "cod_prog": "A68",
+        "zona": "8",
+        "panoId": "jk_2EgPrcD1nXqALAcVC2g",
+        "category": null,
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.145092,
+          45.49369600000001
+        ]
+      },
+      "properties": {
+        "name": "Ple Accursio Francesco 20",
+        "address": "Ple Accursio Francesco 20",
+        "FID": "98",
+        "condition": "Non operativo",
+        "condition_desc": "Uffici Poste Italiane",
+        "typology": "Terziario",
+        "cod_prog": "A69",
+        "zona": "8",
+        "panoId": "8ubO7xej6Kw3sk_bjcJIFA",
+        "category": "pubblico",
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.134847,
+          45.501543
+        ]
+      },
+      "properties": {
+        "name": "Via Barnaba Oriani 34",
+        "address": "Via Barnaba Oriani 34",
+        "FID": "99",
+        "condition": "Degrado/Inutilizzo",
+        "condition_desc": "Edificio residenziale e area libera",
+        "typology": "Residenza",
+        "cod_prog": "A135",
+        "zona": "8",
+        "panoId": "twZ8BgdDNd6uzSWTp7w4Lg",
+        "category": null,
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.103071,
+          45.506506
+        ]
+      },
+      "properties": {
+        "name": "Via Gallarate 430",
+        "address": "Via Gallarate 430",
+        "FID": "100",
+        "condition": "Riqualificazione",
+        "condition_desc": "Cascina Merlata",
+        "typology": "Edifici rurali",
+        "cod_prog": "R187",
+        "zona": "8",
+        "panoId": "om_f5g98b0PyXASr9_faUA",
+        "category": "rurale",
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.122208,
+          45.511281
+        ]
+      },
+      "properties": {
+        "name": "Via Stephenson 81",
+        "address": "Via Stephenson 81",
+        "FID": "101",
+        "condition": "Degrado/Inutilizzo",
+        "condition_desc": "Area in zona  industriale artigianale",
+        "typology": "Produttivo",
+        "cod_prog": "A191",
+        "zona": "8",
+        "panoId": null,
+        "category": null,
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.122222,
+          45.512532
+        ]
+      },
+      "properties": {
+        "name": "Via Stephenson 82",
+        "address": "Via Stephenson 82",
+        "FID": "102",
+        "condition": "Degrado/Inutilizzo",
+        "condition_desc": "Area in zona  industriale artigianale",
+        "typology": "Produttivo",
+        "cod_prog": "A192",
+        "zona": "8",
+        "panoId": "D0hQWEBQUnBe-k24wEfl9Q",
+        "category": null,
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.133098,
+          45.50524
+        ]
+      },
+      "properties": {
+        "name": "Via Angelo Brunetti 26",
+        "address": "Via Angelo Brunetti 26",
+        "FID": "103",
+        "condition": "Degrado/Inutilizzo",
+        "condition_desc": "Ex Italmondo",
+        "typology": "Produttivo",
+        "cod_prog": "A270",
+        "zona": "8",
+        "panoId": "fnV157PVUCmqvJQPYdqAkA",
+        "category": "privato",
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.147107,
+          45.477075
+        ]
+      },
+      "properties": {
+        "name": "Via Monte Rosa 66",
+        "address": "Via Monte Rosa 66",
+        "FID": "104",
+        "condition": "Degrado/Inutilizzo",
+        "condition_desc": "Area libera",
+        "typology": "Area libera",
+        "cod_prog": "A285",
+        "zona": "8",
+        "panoId": "RYPWxvJ-J4RwFat7SPxEWA",
+        "category": "area_dismessa",
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.164061,
+          45.496537
+        ]
+      },
+      "properties": {
+        "name": "Ple Lugano",
+        "address": "Ple Lugano",
+        "FID": "105",
+        "condition": "Degrado/Inutilizzo",
+        "condition_desc": "Ex Officina Treni Alta Velocità",
+        "typology": "Produttivo",
+        "cod_prog": "A78",
+        "zona": "9",
+        "panoId": null,
+        "category": null,
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.15871,
+          45.507537
+        ]
+      },
+      "properties": {
+        "name": "Via Bovisasca 65",
+        "address": "Via Bovisasca 65",
+        "FID": "106",
+        "condition": "Degrado/Inutilizzo",
+        "condition_desc": "Area in zona residenziale",
+        "typology": "Produttivo",
+        "cod_prog": "A105",
+        "zona": "9",
+        "panoId": "B5z2ujtT8pAusOV2bJQPsw",
+        "category": null,
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.165092,
+          45.496648
+        ]
+      },
+      "properties": {
+        "name": "Ple Lugano 23",
+        "address": "Ple Lugano 23",
+        "FID": "107",
+        "condition": "Degrado/Inutilizzo",
+        "condition_desc": "Uffici Poste Italiane",
+        "typology": "Terziario",
+        "cod_prog": "A131",
+        "zona": "9",
+        "panoId": "XmShdk-xKUpec8DpjBrD6g",
+        "category": "pubblico",
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.192535,
+          45.48625
+        ]
+      },
+      "properties": {
+        "name": "Via De Castilla Gaetano",
+        "address": "Via De Castilla Gaetano",
+        "FID": "108",
+        "condition": "Non operativo",
+        "condition_desc": "Uffici",
+        "typology": "Terziario",
+        "cod_prog": "A145",
+        "zona": "9",
+        "panoId": "bjDMvm1oy6U4yq1iA_9C-w",
+        "category": null,
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.198864,
+          45.486402
+        ]
+      },
+      "properties": {
+        "name": "Via Galvani Luigi 13",
+        "address": "Via Galvani Luigi 13",
+        "FID": "109",
+        "condition": "Riqualificazione",
+        "condition_desc": "Torre Galfa",
+        "typology": "Terziario",
+        "cod_prog": "R152",
+        "zona": "9",
+        "panoId": "YYdF3tj47xOzRVBvJyCNfg",
+        "category": "privato",
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.188026,
+          45.481116
+        ]
+      },
+      "properties": {
+        "name": "Via Rosales Gaspare 1",
+        "address": "Via Rosales Gaspare 1",
+        "FID": "110",
+        "condition": "Riqualificazione",
+        "condition_desc": "Casa del Volontariato",
+        "typology": "Terziario",
+        "cod_prog": "R158",
+        "zona": "9",
+        "panoId": "heYL5GzBXxvhf2dhcBgreQ",
+        "category": null,
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.161438,
+          45.506369
+        ]
+      },
+      "properties": {
+        "name": "Via Enrico Cosenz 63-65",
+        "address": "Via Enrico Cosenz 63-65",
+        "FID": "111",
+        "condition": "Degrado/Inutilizzo",
+        "condition_desc": "Area in zona residenziale",
+        "typology": "Produttivo",
+        "cod_prog": "A196",
+        "zona": "9",
+        "panoId": "hYb4WIsSu8jS1FBmoHOkig",
+        "category": null,
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.20429,
+          45.518795
+        ]
+      },
+      "properties": {
+        "name": "Vle Giovanni Suzzani 225",
+        "address": "Vle Giovanni Suzzani 225",
+        "FID": "112",
+        "condition": "Riqualificazione",
+        "condition_desc": "Raffineria \"Roma\"",
+        "typology": "Produttivo",
+        "cod_prog": "R272",
+        "zona": "9",
+        "panoId": "FbPuGwYJ8YPOj41xaGme_A",
+        "category": null,
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.215227,
+          45.525809
+        ]
+      },
+      "properties": {
+        "name": "Via Emilio Bignami",
+        "address": "Via Emilio Bignami",
+        "FID": "113",
+        "condition": "Scheletro",
+        "condition_desc": "Albergo",
+        "typology": "Residenza",
+        "cod_prog": "A273",
+        "zona": "9",
+        "panoId": "j0R65g-N8uvOX8phrhifmQ",
+        "category": null,
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.210881,
+          45.509273
+        ]
+      },
+      "properties": {
+        "name": "Via Cozzi Roberto 42",
+        "address": "Via Cozzi Roberto 42",
+        "FID": "114",
+        "condition": "Degrado/Inutilizzo",
+        "condition_desc": "Abitazione",
+        "typology": "Residenza",
+        "cod_prog": "A274",
+        "zona": "9",
+        "panoId": "HoUFE8OSfUhemQsG_KIVpA",
+        "category": null,
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.189829,
+          45.517162
+        ]
+      },
+      "properties": {
+        "name": "Via Terruggia Giovanni 11",
+        "address": "Via Terruggia Giovanni 11",
+        "FID": "115",
+        "condition": "Degrado/Inutilizzo",
+        "condition_desc": "Abitazione",
+        "typology": "Residenza",
+        "cod_prog": "A275",
+        "zona": "9",
+        "panoId": "9U0wfjrfaeFkf103A0QflA",
+        "category": null,
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.173897,
+          45.500594
+        ]
+      },
+      "properties": {
+        "name": "Via Caianello 13",
+        "address": "Via Caianello 13",
+        "FID": "116",
+        "condition": "Degrado/Inutilizzo",
+        "condition_desc": "Abitazione",
+        "typology": "Residenza",
+        "cod_prog": "A278",
+        "zona": "9",
+        "panoId": "1taqedtMiID3bJcYdxeVog",
+        "category": null,
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.16323,
+          45.505426
+        ]
+      },
+      "properties": {
+        "name": "Via Durando Giovanni",
+        "address": "Via Durando Giovanni",
+        "FID": "117",
+        "condition": "Riqualificazione",
+        "condition_desc": "Palazzina",
+        "typology": "Residenza",
+        "cod_prog": "R279",
+        "zona": "9",
+        "panoId": "qX6a00GnjPD18oGgwRyHbg",
+        "category": null,
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.169505,
+          45.508664
+        ]
+      },
+      "properties": {
+        "name": "Via Don Bartolomeo Grazioli 72",
+        "address": "Via Don Bartolomeo Grazioli 72",
+        "FID": "118",
+        "condition": "Scheletro",
+        "condition_desc": "Palazzina",
+        "typology": "Residenza",
+        "cod_prog": "A125",
+        "zona": "9",
+        "panoId": "glNJKsGK3To1Lw28meAgtw",
+        "category": null,
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.166054,
+          45.507413
+        ]
+      },
+      "properties": {
+        "name": "Via Enrico Cosenz 13",
+        "address": "Via Enrico Cosenz 13",
+        "FID": "119",
+        "condition": "Cantiere",
+        "condition_desc": "Albergo",
+        "typology": "Terziario",
+        "cod_prog": "A281",
+        "zona": "9",
+        "panoId": "DUa145fa8vkK6fn764LIqg",
+        "category": null,
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.143554,
+          45.498431
+        ]
+      },
+      "properties": {
+        "name": "Via Mola Pier Francesco 4",
+        "address": "Via Mola Pier Francesco 4",
+        "FID": "120",
+        "condition": "Degrado/Inutilizzo",
+        "condition_desc": "Abitazione",
+        "typology": "Residenza",
+        "cod_prog": "A329",
+        "zona": "8",
+        "panoId": "cR_sCed4R12A3jUD6jmT2w",
+        "category": null,
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.251,
+          45.470564
+        ]
+      },
+      "properties": {
+        "name": "Via Corelli Arcangelo",
+        "address": "Via Corelli Arcangelo",
+        "FID": "121",
+        "condition": "Degrado",
+        "condition_desc": "Spazi residuali e verde incolto",
+        "typology": "Area libera",
+        "cod_prog": "A299",
+        "zona": "3",
+        "panoId": null,
+        "category": "area_dismessa",
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.179614,
+          45.507789
+        ]
+      },
+      "properties": {
+        "name": "Via Trevi",
+        "address": "Via Trevi",
+        "FID": "122",
+        "condition": "Degrado",
+        "condition_desc": "Spazi residuali e verde incolto",
+        "typology": "Area libera",
+        "cod_prog": "A300",
+        "zona": "9",
+        "panoId": "awxwGFSlhbh-4wfmJUskmw",
+        "category": "area_dismessa",
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.194955,
+          45.440403
+        ]
+      },
+      "properties": {
+        "name": "via Rutilia, 34 - ang. Via Astura",
+        "address": "via Rutilia, 34 - ang. Via Astura",
+        "FID": "123",
+        "condition": "Degrado/Inutilizzo",
+        "condition_desc": "Spazi residuali e verde incolto",
+        "typology": "Area libera",
+        "cod_prog": "A301",
+        "zona": "5",
+        "panoId": "n1WSENwNAmvArYe_L7qMjQ",
+        "category": "area_dismessa",
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.183685,
+          45.436697
+        ]
+      },
+      "properties": {
+        "name": "via Volvinio 7",
+        "address": "via Volvinio 7",
+        "FID": "124",
+        "condition": "Degrado/Inutilizzo",
+        "condition_desc": "Abitazione",
+        "typology": "Residenza",
+        "cod_prog": "A302",
+        "zona": "5",
+        "panoId": "7MbkJ_UG6A_QS1zdlPf9yw",
+        "category": null,
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.199804,
+          45.43868
+        ]
+      },
+      "properties": {
+        "name": "Via Tirso 1",
+        "address": "Via Tirso 1",
+        "FID": "125",
+        "condition": "Degrado/Inutilizzo",
+        "condition_desc": "Palazzo",
+        "typology": "Residenza",
+        "cod_prog": "A303",
+        "zona": "5",
+        "panoId": "53XXO9yuteZ797Zvh8mm4g",
+        "category": null,
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.20083,
+          45.436228
+        ]
+      },
+      "properties": {
+        "name": "Via Quaranta Bernardo 1",
+        "address": "Via Quaranta Bernardo 1",
+        "FID": "126",
+        "condition": "Degrado/Inutilizzo",
+        "condition_desc": "Palazzina",
+        "typology": "Residenza",
+        "cod_prog": "A304",
+        "zona": "5",
+        "panoId": "TNxi1RqxFFV8DzHD5tt73g",
+        "category": null,
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.201823,
+          45.43579
+        ]
+      },
+      "properties": {
+        "name": "Via Quaranta Bernardo 6",
+        "address": "Via Quaranta Bernardo 6",
+        "FID": "127",
+        "condition": "Degrado",
+        "condition_desc": "Spazi residuali e verde incolto",
+        "typology": "Area libera",
+        "cod_prog": "A305",
+        "zona": "5",
+        "panoId": "NlGw_jRYrKVnDvcYvPhxGg",
+        "category": "area_dismessa",
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.214184,
+          45.437942
+        ]
+      },
+      "properties": {
+        "name": "Via Riva di Trento 11",
+        "address": "Via Riva di Trento 11",
+        "FID": "128",
+        "condition": "Degrado/Inutilizzo",
+        "condition_desc": "Uffici ex-PRF",
+        "typology": "Terziario",
+        "cod_prog": "A317",
+        "zona": "5",
+        "panoId": "lvviD3WUc2vJMCknSIzsLg",
+        "category": null,
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.202915,
+          45.439602
+        ]
+      },
+      "properties": {
+        "name": "Vle Ortles 19-21",
+        "address": "Vle Ortles 19-21",
+        "FID": "129",
+        "condition": "Degrado/Inutilizzo",
+        "condition_desc": "Magazzino",
+        "typology": "Produttivo",
+        "cod_prog": "A319",
+        "zona": "5",
+        "panoId": "5W6UlKZvi0s-2G8rxHSabQ",
+        "category": null,
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.134733,
+          45.464941
+        ]
+      },
+      "properties": {
+        "name": "Via Tommaso Gulli 9",
+        "address": "Via Tommaso Gulli 9",
+        "FID": "130",
+        "condition": "Degrado/Inutilizzo",
+        "condition_desc": "Ex cinema Adriano",
+        "typology": "Terziario",
+        "cod_prog": "A325",
+        "zona": "7",
+        "panoId": "XkyPLzfTOFDIoo7Ryw9oBg",
+        "category": null,
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.137197,
+          45.508195
+        ]
+      },
+      "properties": {
+        "name": "Via Palizzi Filippo 86",
+        "address": "Via Palizzi Filippo 86",
+        "FID": "131",
+        "condition": "Degrado/Inutilizzo",
+        "condition_desc": "Abitazione",
+        "typology": "Residenza",
+        "cod_prog": "A328",
+        "zona": "8",
+        "panoId": "uChJ2vhc3F4yLSrNXg6Z9g",
+        "category": null,
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.165269,
+          45.482298
+        ]
+      },
+      "properties": {
+        "name": "Via Agudio Tommaso 4",
+        "address": "Via Agudio Tommaso 4",
+        "FID": "132",
+        "condition": "Degrado/Inutilizzo",
+        "condition_desc": "Ex Banca",
+        "typology": "Terziario",
+        "cod_prog": "A330",
+        "zona": "8",
+        "panoId": "k1wArjTn7NFlONZkCRLrsA",
+        "category": null,
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.131988,
+          45.504062
+        ]
+      },
+      "properties": {
+        "name": "Via Montefeltro",
+        "address": "Via Montefeltro",
+        "FID": "133",
+        "condition": "Riqualificazione",
+        "condition_desc": "Ex deposito auto",
+        "typology": "Produttivo",
+        "cod_prog": "R332",
+        "zona": "8",
+        "panoId": null,
+        "category": null,
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.237995000000002,
+          45.452018
+        ]
+      },
+      "properties": {
+        "name": "Via Zama 23",
+        "address": "Via Zama 23",
+        "FID": "134",
+        "condition": "Degrado/Inutilizzo",
+        "condition_desc": "Scuola via Zama",
+        "typology": "Terziario",
+        "cod_prog": "A250",
+        "zona": "4",
+        "panoId": "XUmdvd6ymlEvguwx02JXdQ",
+        "category": "pubblico",
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.139277,
+          45.500129
+        ]
+      },
+      "properties": {
+        "name": "Via Espinasse Carlo 101",
+        "address": "Via Espinasse Carlo 101",
+        "FID": "135",
+        "condition": "Degrado/Inutilizzo",
+        "condition_desc": "Edifici industriali",
+        "typology": "Produttivo",
+        "cod_prog": "A334",
+        "zona": "8",
+        "panoId": "y2g-yN07Q6_a73NZxHKwKQ",
+        "category": null,
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.164231,
+          45.485272
+        ]
+      },
+      "properties": {
+        "name": "Via Fauchè Giovanni Battista 13",
+        "address": "Via Fauchè Giovanni Battista 13",
+        "FID": "136",
+        "condition": "Degrado/Inutilizzo",
+        "condition_desc": "Ex autofficina",
+        "typology": "Produttivo",
+        "cod_prog": "A337",
+        "zona": "8",
+        "panoId": "U9XKolCnuBmGdrZEKlL2sA",
+        "category": null,
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.13351,
+          45.501441
+        ]
+      },
+      "properties": {
+        "name": "Via Trapani 8",
+        "address": "Via Trapani 8",
+        "FID": "137",
+        "condition": "Rudere",
+        "condition_desc": "Abitazione",
+        "typology": "Residenza",
+        "cod_prog": "A338",
+        "zona": "8",
+        "panoId": "IwiBdnhmboH6El1_8wtEBQ",
+        "category": null,
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.164828,
+          45.490829
+        ]
+      },
+      "properties": {
+        "name": "Via Govone Giuseppe 43",
+        "address": "Via Govone Giuseppe 43",
+        "FID": "138",
+        "condition": "Degrado/Inutilizzo",
+        "condition_desc": "Spazi residuali e verde incolto",
+        "typology": "Area libera",
+        "cod_prog": "A339",
+        "zona": "8",
+        "panoId": "nwV9Dqmrmd3Hudh2DWAvXg",
+        "category": "area_dismessa",
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.133292,
+          45.502613
+        ]
+      },
+      "properties": {
+        "name": "Via Pannunzio/Oriani/Montefeltro/Trapani",
+        "address": "Via Pannunzio/Oriani/Montefeltro/Trapani",
+        "FID": "139",
+        "condition": "Degrado/Inutilizzo",
+        "condition_desc": "Comprensorio CIMEP lotto 67",
+        "typology": "Area libera",
+        "cod_prog": "A340",
+        "zona": "8",
+        "panoId": null,
+        "category": "area_dismessa",
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.136666,
+          45.498727
+        ]
+      },
+      "properties": {
+        "name": "Via Polidoro da Caravaggio 6",
+        "address": "Via Polidoro da Caravaggio 6",
+        "FID": "140",
+        "condition": "Degrado",
+        "condition_desc": "Spazi residuali e verde incolto",
+        "typology": "Area libera",
+        "cod_prog": "A342",
+        "zona": "8",
+        "panoId": "pv07jFLPH7g8m-ac0ZP1QQ",
+        "category": "area_dismessa",
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.136032,
+          45.502502
+        ]
+      },
+      "properties": {
+        "name": "Via Pannunzio/Brunetti",
+        "address": "Via Pannunzio/Brunetti",
+        "FID": "141",
+        "condition": "Degrado",
+        "condition_desc": "Spazi residuali e verde incolto",
+        "typology": "Area libera",
+        "cod_prog": "A343",
+        "zona": "8",
+        "panoId": "b-Bvwnifi69NBjBS9v2qFA",
+        "category": "area_dismessa",
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.139271,
+          45.501743
+        ]
+      },
+      "properties": {
+        "name": "Via Montanelli Giuseppe 5",
+        "address": "Via Montanelli Giuseppe 5",
+        "FID": "142",
+        "condition": "Degrado/Inutilizzo",
+        "condition_desc": "Capanni artigianato",
+        "typology": "Produttivo",
+        "cod_prog": "A346",
+        "zona": "8",
+        "panoId": "Vj2pzT_4y1O-ET317ia5rg",
+        "category": null,
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.132512,
+          45.500789
+        ]
+      },
+      "properties": {
+        "name": "Via Oriani Barnaba 60",
+        "address": "Via Oriani Barnaba 60",
+        "FID": "143",
+        "condition": "Degrado",
+        "condition_desc": "Spazi residuali e verde incolto",
+        "typology": "Area libera",
+        "cod_prog": "A349",
+        "zona": "8",
+        "panoId": "XK1uaoq_Keyi9mM_8ELvyw",
+        "category": "area_dismessa",
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.213497,
+          45.47566
+        ]
+      },
+      "properties": {
+        "name": "Via Maiocchi Achille 13",
+        "address": "Via Maiocchi Achille 13",
+        "FID": "144",
+        "condition": "Cantiere",
+        "condition_desc": "Abitazione",
+        "typology": "Residenza",
+        "cod_prog": "A351",
+        "zona": "3",
+        "panoId": "mNB3JY8sRQlbr40CAlyIyw",
+        "category": "privato",
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.215437,
+          45.485177
+        ]
+      },
+      "properties": {
+        "name": "cso Buenos Aires 77-79",
+        "address": "cso Buenos Aires 77-79",
+        "FID": "145",
+        "condition": "Cantiere",
+        "condition_desc": "Abitazione",
+        "typology": "Residenza",
+        "cod_prog": "A352",
+        "zona": "3",
+        "panoId": "U7fnws-n9KKqb1XHl6pV1w",
+        "category": "privato",
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.206668,
+          45.505449
+        ]
+      },
+      "properties": {
+        "name": "Via Ugolini Giuseppe 20",
+        "address": "Via Ugolini Giuseppe 20",
+        "FID": "146",
+        "condition": "Non utilizzato in parte",
+        "condition_desc": "Abitazione",
+        "typology": "Residenza",
+        "cod_prog": "A354",
+        "zona": "9",
+        "panoId": "Ti5E_X17KqrJJ4N9UQ3NTQ",
+        "category": null,
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.231787,
+          45.414837
+        ]
+      },
+      "properties": {
+        "name": "Via Sant'Arialdo 90",
+        "address": "Via Sant'Arialdo 90",
+        "FID": "147",
+        "condition": "Rudere",
+        "condition_desc": "Cascina Gerola",
+        "typology": "Edifici rurali",
+        "cod_prog": "A190",
+        "zona": "5",
+        "panoId": null,
+        "category": "rurale",
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.177576,
+          45.502762
+        ]
+      },
+      "properties": {
+        "name": "Via Abba Giuseppe Cesare 38",
+        "address": "Via Abba Giuseppe Cesare 38",
+        "FID": "148",
+        "condition": "Degrado/Inutilizzo",
+        "condition_desc": "Capannoni",
+        "typology": "Produttivo",
+        "cod_prog": "A367",
+        "zona": "9",
+        "panoId": "RtNrTtsCd-puQ-a9goVd6g",
+        "category": null,
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.174667,
+          45.500318
+        ]
+      },
+      "properties": {
+        "name": "Via Bruni Leonardo 9",
+        "address": "Via Bruni Leonardo 9",
+        "FID": "149",
+        "condition": "Degrado/Inutilizzo",
+        "condition_desc": "Abitazione",
+        "typology": "Residenza",
+        "cod_prog": "A369",
+        "zona": "9",
+        "panoId": "EZobY5SB8wM5osF9UIN9gA",
+        "category": null,
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.175067,
+          45.500519
+        ]
+      },
+      "properties": {
+        "name": "Via Bruni Leonardo 10",
+        "address": "Via Bruni Leonardo 10",
+        "FID": "150",
+        "condition": "Degrado/Inutilizzo",
+        "condition_desc": "Capannoni",
+        "typology": "Produttivo",
+        "cod_prog": "A368",
+        "zona": "9",
+        "panoId": "D5Npy1U2kI8u8t1YAOhE1g",
+        "category": null,
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.149883,
+          45.493173
+        ]
+      },
+      "properties": {
+        "name": "Via Bodoni Giambattista 11",
+        "address": "Via Bodoni Giambattista 11",
+        "FID": "151",
+        "condition": "Degrado/Inutilizzo",
+        "condition_desc": "Abitazione",
+        "typology": "Residenza",
+        "cod_prog": "A370",
+        "zona": "8",
+        "panoId": "Evv9xwLSg6mv3O67v7kPkA",
+        "category": null,
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.141597,
+          45.495957
+        ]
+      },
+      "properties": {
+        "name": "Via Figino Ambrogio 13",
+        "address": "Via Figino Ambrogio 13",
+        "FID": "152",
+        "condition": "Degrado/Inutilizzo",
+        "condition_desc": "Ex Comitex",
+        "typology": "Produttivo",
+        "cod_prog": "A371",
+        "zona": "8",
+        "panoId": "Tr-Oqa2dS3xVebt7BzHIjg",
+        "category": "privato",
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.139628,
+          45.463865
+        ]
+      },
+      "properties": {
+        "name": "Via Frà Galgario 10",
+        "address": "Via Frà Galgario 10",
+        "FID": "153",
+        "condition": "Degrado",
+        "condition_desc": "Abitazione",
+        "typology": "Residenza",
+        "cod_prog": "A373",
+        "zona": "7",
+        "panoId": "RCmPVMpw9VrKQbt3uPFa8g",
+        "category": null,
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.175987,
+          45.425121
+        ]
+      },
+      "properties": {
+        "name": "Via Sant'Abbondio",
+        "address": "Via Sant'Abbondio",
+        "FID": "154",
+        "condition": "Degrado/Inutilizzo",
+        "condition_desc": "Ex concessionario Renault",
+        "typology": "Commercio",
+        "cod_prog": "A375",
+        "zona": "5",
+        "panoId": "CcthIkeRE1BGxzJiVEc_cg",
+        "category": "privato",
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.089787,
+          45.46769900000001
+        ]
+      },
+      "properties": {
+        "name": "Via Franceco Rismondo 124",
+        "address": "Via Franceco Rismondo 124",
+        "FID": "155",
+        "condition": "Scheletro",
+        "condition_desc": "Abitazione",
+        "typology": "Residenza",
+        "cod_prog": "A377",
+        "zona": "7",
+        "panoId": "mkTgj_YZ3QhmeNpkRWjiQQ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.154130000000002,
+          45.434247
+        ]
+      },
+      "properties": {
+        "name": "Via Voltri",
+        "address": "Via Voltri",
+        "FID": "156",
+        "condition": "Degrado",
+        "condition_desc": "Spazi residuali e verde incolto",
+        "typology": "Area libera",
+        "cod_prog": "A378",
+        "zona": "6",
+        "panoId": "e-jCl4hi1GPMisvrsQTpzQ",
+        "category": "area_dismessa",
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.15611,
+          45.447228
+        ]
+      },
+      "properties": {
+        "name": "Via Ponti Andrea 3",
+        "address": "Via Ponti Andrea 3",
+        "FID": "157",
+        "condition": "Cantiere",
+        "condition_desc": "Abitazione",
+        "typology": "Residenza",
+        "cod_prog": "A331",
+        "zona": "6",
+        "panoId": "OpLVobfp_FZYLcGoRRW3-g",
+        "category": null,
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.144474,
+          45.493572
+        ]
+      },
+      "properties": {
+        "name": "Ple Accursio Francesco",
+        "address": "Ple Accursio Francesco",
+        "FID": "158",
+        "condition": "Degrado/Inutilizzo",
+        "condition_desc": "Stazione Agip",
+        "typology": "Commercio",
+        "cod_prog": "A380",
+        "zona": "8",
+        "panoId": "OX4WMgPBEh2SGsqIoBx7cQ",
+        "category": null,
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.132353,
+          45.441399
+        ]
+      },
+      "properties": {
+        "name": "Via Manfredonia 4",
+        "address": "Via Manfredonia 4",
+        "FID": "159",
+        "condition": "Degrado/Inutilizzo",
+        "condition_desc": "Edificio artigianale",
+        "typology": "Produttivo",
+        "cod_prog": "A381",
+        "zona": "6",
+        "panoId": "0AeqWZ2GOiHXp5a_qejSYA",
+        "category": null,
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.134728,
+          45.496804
+        ]
+      },
+      "properties": {
+        "name": "Via Catullo 9",
+        "address": "Via Catullo 9",
+        "FID": "160",
+        "condition": "Degrado/Inutilizzo",
+        "condition_desc": "Stabile a usi industriali",
+        "typology": "Produttivo",
+        "cod_prog": "A382",
+        "zona": "8",
+        "panoId": "wK4u3l_oIo1SI4x4bD3a2A",
+        "category": null,
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.169044,
+          45.511085
+        ]
+      },
+      "properties": {
+        "name": "Via Pedroni Lisiade 28",
+        "address": "Via Pedroni Lisiade 28",
+        "FID": "161",
+        "condition": "Degrado/Inutilizzo",
+        "condition_desc": "Complesso ex industriale",
+        "typology": "Produttivo",
+        "cod_prog": "A412",
+        "zona": "9",
+        "panoId": "XcU8w8cuNVJR5l7OVEIdRw",
+        "category": null,
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.168479,
+          45.51215200000001
+        ]
+      },
+      "properties": {
+        "name": "Via Pozzuoli",
+        "address": "Via Pozzuoli",
+        "FID": "162",
+        "condition": "Degrado/Inutilizzo",
+        "condition_desc": "Area a prato degradata",
+        "typology": "Area libera",
+        "cod_prog": "A413",
+        "zona": "9",
+        "panoId": "LRxjkZ99MFIdjQGWilrGVw",
+        "category": "area_dismessa",
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.20751,
+          45.50774
+        ]
+      },
+      "properties": {
+        "name": "Via Cozzi Roberto 1",
+        "address": "Via Cozzi Roberto 1",
+        "FID": "163",
+        "condition": "Degrado/Inutilizzo",
+        "condition_desc": "Abitazione",
+        "typology": "Residenza",
+        "cod_prog": "A391",
+        "zona": "9",
+        "panoId": "LJ-hkMC5sdGAR_nrV-019A",
+        "category": null,
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.203471,
+          45.401293
+        ]
+      },
+      "properties": {
+        "name": "Via Quintosole 37",
+        "address": "Via Quintosole 37",
+        "FID": "164",
+        "condition": "Degrado/Inutilizzo",
+        "condition_desc": "Cascina Quintosole",
+        "typology": "Edifici rurali",
+        "cod_prog": "A388",
+        "zona": "5",
+        "panoId": null,
+        "category": "rurale",
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.196819,
+          45.463202
+        ]
+      },
+      "properties": {
+        "name": "Lgo Augusto 1",
+        "address": "Lgo Augusto 1",
+        "FID": "165",
+        "condition": "Degrado/Inutilizzo",
+        "condition_desc": "Cinema President",
+        "typology": "Terziario",
+        "cod_prog": "A389",
+        "zona": "1",
+        "panoId": "OYnqYCo6DKzOnM8XNrBnaA",
+        "category": null,
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.233143,
+          45.414581
+        ]
+      },
+      "properties": {
+        "name": "Via Sant'Arialdo 91",
+        "address": "Via Sant'Arialdo 91",
+        "FID": "166",
+        "condition": "Riqualificazione",
+        "condition_desc": "Rudere fronte Cascina Gerola",
+        "typology": "Edifici rurali",
+        "cod_prog": "R390",
+        "zona": "5",
+        "panoId": "-oJ-Gu0wBQOLIDtULPay8Q",
+        "category": "rurale",
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.187286,
+          45.445303
+        ]
+      },
+      "properties": {
+        "name": "Via Carlo Bazzi 12",
+        "address": "Via Carlo Bazzi 12",
+        "FID": "167",
+        "condition": "Degrado/Inutilizzo",
+        "condition_desc": "Stabili produttivi degradati",
+        "typology": "Produttivo",
+        "cod_prog": "A394",
+        "zona": "5",
+        "panoId": "PoYlqiZXU34pyu1Hur7jDw",
+        "category": "privato",
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.210509,
+          45.434911
+        ]
+      },
+      "properties": {
+        "name": "Via dell'Assunta 67",
+        "address": "Via dell'Assunta 67",
+        "FID": "168",
+        "condition": "Degrado/Inutilizzo",
+        "condition_desc": "Edificio terziario",
+        "typology": "Terziario",
+        "cod_prog": "A395",
+        "zona": "5",
+        "panoId": "oHGuWUEnXl_jpa5WJjShzw",
+        "category": null,
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.202276,
+          45.401703
+        ]
+      },
+      "properties": {
+        "name": "Via Quintosole 50",
+        "address": "Via Quintosole 50",
+        "FID": "169",
+        "condition": "Degrado/Inutilizzo",
+        "condition_desc": "Cascina",
+        "typology": "Edifici rurali",
+        "cod_prog": "A396",
+        "zona": "5",
+        "panoId": "Oit4saAURXMURrcD7NZXLA",
+        "category": "rurale",
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.232667,
+          45.505927
+        ]
+      },
+      "properties": {
+        "name": "Via Asiago 72",
+        "address": "Via Asiago 72",
+        "FID": "170",
+        "condition": "Degrado/Inutilizzo",
+        "condition_desc": "Area industriale/artigianale",
+        "typology": "Produttivo",
+        "cod_prog": "A393",
+        "zona": "2",
+        "panoId": null,
+        "category": null,
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.141451,
+          45.465414
+        ]
+      },
+      "properties": {
+        "name": "Via Moroni Giovanni Battista 5",
+        "address": "Via Moroni Giovanni Battista 5",
+        "FID": "171",
+        "condition": "Degrado/Inutilizzo",
+        "condition_desc": "Ex Doxa",
+        "typology": "Terziario",
+        "cod_prog": "A399",
+        "zona": "7",
+        "panoId": "TMSMv5Gv4557ytgv2y_dOg",
+        "category": null,
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.135038,
+          45.456207
+        ]
+      },
+      "properties": {
+        "name": "Via Arzaga 20",
+        "address": "Via Arzaga 20",
+        "FID": "172",
+        "condition": "Degrado/Inutilizzo",
+        "condition_desc": "Ex distributore di benzina",
+        "typology": "Terziario",
+        "cod_prog": "A401",
+        "zona": "7",
+        "panoId": "JLvVxLoRo8-7Ty9rKhNjFg",
+        "category": null,
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.154204,
+          45.442869
+        ]
+      },
+      "properties": {
+        "name": "Via Binda Ambrogio 16",
+        "address": "Via Binda Ambrogio 16",
+        "FID": "173",
+        "condition": "Degrado/Inutilizzo",
+        "condition_desc": "Area libera ex cantiere",
+        "typology": "Area libera",
+        "cod_prog": "A397",
+        "zona": "6",
+        "panoId": null,
+        "category": "area_dismessa",
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.152643,
+          45.443878
+        ]
+      },
+      "properties": {
+        "name": "Via Watt Giacomo 13A",
+        "address": "Via Watt Giacomo 13A",
+        "FID": "174",
+        "condition": "Degrado/Inutilizzo",
+        "condition_desc": "Area industriale",
+        "typology": "Produttivo",
+        "cod_prog": "A398",
+        "zona": "6",
+        "panoId": "LdY8l3gJPcvWc2J7Rey9fA",
+        "category": null,
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.175704,
+          45.506149
+        ]
+      },
+      "properties": {
+        "name": "Via De Stael Germana 6",
+        "address": "Via De Stael Germana 6",
+        "FID": "175",
+        "condition": "Inutilizzo",
+        "condition_desc": "Edificio ad uffici",
+        "typology": "Terziario",
+        "cod_prog": "A404",
+        "zona": "9",
+        "panoId": "x4qQjis4shhqoT-SG_SsDQ",
+        "category": null,
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.101258,
+          45.506246
+        ]
+      },
+      "properties": {
+        "name": "Via Gallarate 448",
+        "address": "Via Gallarate 448",
+        "FID": "176",
+        "condition": "Degrado/Inutilizzo",
+        "condition_desc": "Edificio fortemente degradato",
+        "typology": "Edifici rurali",
+        "cod_prog": "A402",
+        "zona": "8",
+        "panoId": "wgQsXCRKUhRqmok9ht0gjQ",
+        "category": "rurale",
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.123709,
+          45.504727
+        ]
+      },
+      "properties": {
+        "name": "Via Sapri 9",
+        "address": "Via Sapri 9",
+        "FID": "177",
+        "condition": "Degrado/Inutilizzo",
+        "condition_desc": "Palazzina ex Enel",
+        "typology": "Residenza",
+        "cod_prog": "A403",
+        "zona": "8",
+        "panoId": "0lZCQ1Ei2Pa2Cmpt3hZa5g",
+        "category": null,
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.170863,
+          45.533095
+        ]
+      },
+      "properties": {
+        "name": "Via Senigallia 6",
+        "address": "Via Senigallia 6",
+        "FID": "178",
+        "condition": "Degrado/Inutilizzo",
+        "condition_desc": "Residence leonardo Da Vinci",
+        "typology": "Terziario",
+        "cod_prog": "A405",
+        "zona": "9",
+        "panoId": null,
+        "category": null,
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.243001,
+          45.431852
+        ]
+      },
+      "properties": {
+        "name": "Via Monte Peralba 5",
+        "address": "Via Monte Peralba 5",
+        "FID": "179",
+        "condition": "Degrado/Inutilizzo",
+        "condition_desc": "Abitazione",
+        "typology": "Residenza",
+        "cod_prog": "A406",
+        "zona": "4",
+        "panoId": "Yd4LbN3gJNiNy4ikaHScWg",
+        "category": null,
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.231542,
+          45.505425
+        ]
+      },
+      "properties": {
+        "name": "Via Iglesias 33",
+        "address": "Via Iglesias 33",
+        "FID": "180",
+        "condition": "Inutilizzo",
+        "condition_desc": "Abitazione quasi terminata non utilizzata",
+        "typology": "Residenza",
+        "cod_prog": "A392",
+        "zona": "2",
+        "panoId": "ejqQjLkOkRDANdukLjul2g",
+        "category": "privata",
+        "focus":false
       }
     }
   ]
