@@ -293,7 +293,7 @@
 
     }
 
-    //var rotateMapAnim = setInterval(autoRotate, 10);
+    var rotateMapAnim = setInterval(autoRotate, 10);
     var stopRotation = function(){
       clearInterval(rotateMapAnim);
     }
