@@ -1,0 +1,17 @@
+---
+layout: default
+---
+<div id="home" class="container">
+  <div class="row">
+    <div class="col-sm-12 col-md-6 col-md-offset-1">
+      {{ content }}
+      {% for place in site.places %}
+        {% if place.layout == 'placelist' %}
+          <p class="placesList">
+            <a href="{{ place.url | prepend: site.baseurl }}">{{ place.title }}</a>
+          </p>
+        {% endif%}
+      {% endfor %}
+    </div>
+  </div>
+</div>

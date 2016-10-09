@@ -1,0 +1,23 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Scandaglio
+#email: your-email@domain.com
+description: Track urban evolution through Google Street View timemachine
+baseurl: "/molo" # the subpath of your site, e.g. /blog
+url: "http://uf0.github.io" # the base hostname & protocol for your site
+twitter_username: ufo_inthesky
+github_username:  uf0
+permalink: /:categories/:title
+include: ['_pages']
+collections:
+  places:
+    output: true
+
+# Build settings
+markdown: kramdown

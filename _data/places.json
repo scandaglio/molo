@@ -1,0 +1,105 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.209851,
+          45.44803000000001
+        ]
+      },
+      "properties": {
+        "name": "Pza Lodi 39",
+        "address": "Pza Lodi 39",
+        "FID": "0",
+        "condition": "Degrado/Inutilizzo",
+        "condition_desc": "Ex cinema Maestoso",
+        "typology": "Terziario",
+        "cod_prog": "A120",
+        "zona": "4",
+        "panoId": "J6xiHZJxMssb5gBctak_lg",
+        "category": "area_dismessa",
+        "focus":true,
+        "timemachine": [
+          {
+            "year":2014,
+            "panoid" :"IvKTxdCcx2o_D3uUPoJmAw"
+          },
+          {
+            "year":2013,
+            "panoid": "82vEiHNvcK7wO0baUsechw"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.247131,
+          45.445144
+        ]
+      },
+      "properties": {
+        "name": "Via Bonfadini Romualdo 107",
+        "address": "Via Bonfadini Romualdo 107",
+        "FID": "1",
+        "condition": "Degrado/Inutilizzo",
+        "condition_desc": "Ex officina",
+        "typology": "Produttivo",
+        "cod_prog": "A124",
+        "zona": "4",
+        "panoId": "vDxpYl6TrpOiApeJow0q2Q",
+        "category": "area_dismessa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.222874,
+          45.448577
+        ]
+      },
+      "properties": {
+        "name": "Via Tertulliano 65",
+        "address": "Via Tertulliano 65",
+        "FID": "2",
+        "condition": "Rudere",
+        "condition_desc": "Cascina Boffalora",
+        "typology": "Edifici rurali",
+        "cod_prog": "A137",
+        "zona": "4",
+        "panoId": "oR5TZVhdUuVll9kGTPmctQ",
+        "category": "scalo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.23226,
+          45.438013,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Via Pietro Gaggia 11",
+        "address": "Via Pietro Gaggia 11",
+        "FID": "4",
+        "condition": "Degrado/Inutilizzo",
+        "condition_desc": "Area in zona  industriale artigianale",
+        "typology": "Produttivo",
+        "cod_prog": "A195",
+        "zona": "4",
+        "panoId": "a28WlJKyBI6ZNnT8xMwZ4Q",
+        "category": "scalo"
+      }
+    }
+  ]
+}

@@ -1,0 +1,370 @@
+body{
+  padding-top: 70px;
+  font-family: 'Noto Serif', serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing : grayscale;
+  text-rendering: optimizeLegibility;
+  background-color: black;
+  color: white;
+
+}
+
+body:after {
+  content: "";
+  background-image: url('../media/home.jpg');
+  background-size: cover;
+  background-position: center center;
+  background-color: black;
+  opacity: 0.5;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  position: absolute;
+  z-index: -1;
+}
+
+h1,h2,h3,h4,h5,h6{
+  font-family: 'Space Mono', monospace;
+}
+
+.navbar {
+  font-family: 'Space Mono', monospace;
+  font-size: 28px;
+  color: #FFFFFF;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+
+.navbar .navbar-brand{
+  font-weight: bold;
+}
+
+.navbar-default .navbar-brand:focus,
+.navbar-default .navbar-brand:hover{
+  color: white
+}
+
+#aboutus{
+  position: fixed;
+  bottom: 0px;
+  top: 0px;
+  left: 0px;
+  display: none;
+  flex-direction: column;
+  justify-content: center;
+
+  -webkit-flex-direction: column;
+  -webkit-justify-content: center;
+
+  padding: 0px 15px;
+}
+
+#aboutus a{
+  font-family: 'Space Mono', monospace;
+  font-size: 14px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  writing-mode: vertical-lr;
+  -webkit-writing-mode: vertical-lr;
+  font-weight: bold;
+  cursor: pointer;
+  color: white;
+  text-decoration: none;
+  transform: rotate(180deg);
+}
+
+
+#aboutus a:hover{
+  text-decoration: none;
+  color: white;
+}
+
+#contactus{
+  position: fixed;
+  bottom: 0px;
+  top: 0px;
+  right: 0px;
+  display: none;
+  flex-direction: column;
+  justify-content: center;
+
+  -webkit-flex-direction: column;
+  -webkit-justify-content: center;
+
+  padding: 0px 15px;
+  /*background-color: black;*/
+}
+
+#contactus a{
+  font-family: 'Space Mono', monospace;
+  font-size: 14px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  writing-mode: vertical-lr;
+  -webkit-writing-mode: vertical-lr;
+  font-weight: bold;
+  color: white;
+  text-decoration: none;
+}
+
+#contactus a{
+  cursor: help;
+}
+
+#contactus a:hover{
+  text-decoration: none;
+  color: white;
+}
+
+.navbar-default {
+  background-color: transparent;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-bottom: 1px solid white;
+}
+
+.navbar-default .navbar-brand,
+.navbar-default .navbar-nav>li>a {
+    color: white;
+}
+
+#home{
+  min-height: 100vh;
+  margin-top: -70px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  display: -webkit-flex;
+  -webkit-flex-direction: column;
+  -webkit-justify-content: center;
+  -webkit-align-items: center;
+}
+
+#home > .row{
+  width: 100%;
+}
+.introHome{
+  color: white;
+  text-decoration: underline;
+  font-size: 26px;
+  font-weight: bold;
+  margin-bottom: 30px;
+}
+
+.placesList a{
+  color: white;
+  text-decoration: underline;
+  font-size: 28px;
+  font-weight: bold;
+  margin-bottom: 30px;
+}
+
+.placesList a:hover{
+  text-decoration: underline;
+}
+
+#home .btn{
+  border-radius: 0px;
+  font-family: 'Space Mono', monospace;
+  font-weight: bold;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+
+#home .btn-default {
+    color: white;
+    background-color: transparent;
+    border-color: white;
+    transition: all 0.5s;
+}
+
+#home .btn-default:hover{
+  background-color: white;
+  color: black;
+}
+
+#home .btn.active, .btn:active{
+  box-shadow: none;
+}
+
+.placeList #map{
+  height: 300px;
+  border: 1px solid white;
+}
+
+.placeList{
+  font-family: 'Space Mono', monospace;
+}
+
+.placeList h5,
+.pano h5{
+  text-transform: uppercase;
+  font-size: 13px;
+  font-weight: bold;
+  letter-spacing: 1px;
+}
+
+.placeList .table>thead>tr>th {
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-size: 13px;
+}
+
+.placeList .table .placeName {
+  font-size: 17px;
+}
+
+.placeList .table{
+  margin-top: 20px;
+}
+.placeList .table th,
+.placeList .table td {
+  text-align: center;
+}
+
+.placeList .table a {
+  color: white;
+  text-decoration: none;
+}
+
+.placeList .table>tbody>tr>td,
+.placeList .table>tbody>tr>th,
+.placeList .table>tfoot>tr>td,
+.placeList .table>tfoot>tr>th,
+.placeList .table>thead>tr>td,
+.placeList .table>thead>tr>th{
+  vertical-align: middle;
+}
+
+.table-hover>tbody>tr,
+.placeList .table-hover>tbody>tr a{
+  transition: all 0.5s;
+}
+.placeList .table-hover>tbody>tr:hover {
+    background-color: #fff;
+    color: black;
+}
+
+.placeList .table-hover>tbody>tr:hover a {
+    color: black;
+}
+
+.placeList .desc{
+  font-size: 15px;
+}
+
+.placeList .table-bordered {
+    border: 1px solid #fff;
+}
+
+.placeList .table-bordered>tbody>tr>td,
+.placeList .table-bordered>tbody>tr>th,
+.placeList .table-bordered>tfoot>tr>td,
+.placeList .table-bordered>tfoot>tr>th,
+.placeList .table-bordered>thead>tr>td,
+.placeList .table-bordered>thead>tr>th {
+  border: 1px solid #fff;
+ }
+
+#pano {
+  position: absolute;
+  top:0px;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  pointer-events: none;
+  z-index: 0;
+}
+
+.pano #map{
+  height: 200px;
+  margin: 0 -15px;
+}
+
+.panoInfo{
+  font-size: 25px;
+  font-family: 'Space Mono', monospace;
+}
+
+.panoInfo>.panoName{
+  text-transform: uppercase;
+  margin: 0 0 -5px;
+  font-weight: bold;
+}
+
+.pano .border{
+  border: 1px solid white;
+}
+
+.pano .arrows{
+  text-align: center;
+  font-size: 25px;
+  display: flex;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  flex-direction: row;
+  -webkit-flex-direction: row;
+  -webkit-align-items: center;
+  align-items: center;
+}
+
+.pano .arrows>a{
+  width: 100%;
+  color: white;
+  text-decoration: none;
+}
+
+.pano .arrows>a:hover{
+  text-decoration: none;
+  color: white;
+}
+
+.pano .flex{
+  display: flex;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+}
+
+.normalWeight{
+  font-weight: normal!important;
+}
+
+.page p{
+  font-size: 18px;
+}
+
+.page blockquote{
+  border-left: none;
+}
+.page blockquote p{
+  font-size: 24px;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+@media (min-width: 768px){
+  #contactus, #aboutus{
+    display: flex;
+    display: -webkit-flex;
+  }
+
+  #navbar {
+      display: none!important;
+  }
+
+}
+
+@media (min-width: 992px){
+  .page blockquote{
+    margin: 0 -150px 15px 25px;
+  }
+}
+
+@media (min-width: 1200px){
+  .container {
+      width: inherit;
+  }
+}

@@ -1,0 +1,27 @@
+body{
+  color: black!important;
+  background-color:white;
+}
+
+body:after {
+  background-image: none!important;
+  background-color: white!important;
+  z-index: -1;
+}
+
+#aboutus a,
+#contactus a,
+#contactus a:hover,
+#aboutus a:hover {
+  color: black!important;
+}
+
+.navbar-default .navbar-brand,
+.navbar-default .navbar-nav>li>a{
+  color: black!important;
+}
+
+.navbar-default {
+  background-color: white;
+  border-bottom: 1px solid black!important;
+}

@@ -1,0 +1,59 @@
+---
+layout: default
+---
+<div id="home" class="container placeList">
+  <div class="row">
+    <div class="col-sm-12 col-md-1">
+    </div>
+    <div class="col-sm-12 col-md-5">
+      <h5>Descrizione</h5>
+      <div class="desc">
+        {{ content }}
+      </div>
+      <table class="table table-bordered table-hover">
+        <thead>
+          <tr>
+            <th>#</th>
+            <th>info</th>
+            <th>play</th>
+            <th>focus</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for place in site.data.places.features %}
+            {% if place.properties.category == page.category %}
+              <tr>
+                <td>
+                   {{ forloop.index + 1 }}
+                </td>
+                <td>
+                  <span class="placeName">{{ place.properties.condition_desc }}</span><br />
+                  {{ place.properties.address}}
+                </td>
+                <td>
+                  <a href="{{'/places/timemachine?panoid=' | append: place.properties.panoId | prepend: site.baseurl}}">
+                    <span class="glyphicon glyphicon-play" aria-hidden="true"></span>
+                  </a>
+                </td>
+                <td>
+                  {% if place.properties.focus %}
+                    <span class="glyphicon glyphicon-ok" aria-hidden="true"></span>
+                  {% endif %}
+                </td>
+              </tr>
+            {% endif %}
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+    <div class="col-sm-12 col-md-5">
+      <h5>Mappa</h5>
+      <div id="map">
+      </div>
+    </div>
+  </div>
+</div>
+<script>
+  var CATEGORY = {{ page.category | jsonify }}
+  var PLACES = {{site.data.places | jsonify }}
+</script>

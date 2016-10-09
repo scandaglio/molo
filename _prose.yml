@@ -1,0 +1,20 @@
+prose:
+  media: 'media'
+  metadata:
+    _explorations:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
+      - name: "author"
+        field:
+          element: "multiselect"
+          label: "Author"
+          alterable: true
+          options:
+            - name: 'Group 1'
+              value: 'Group 1'
+            - name: 'Group 2'
+              value: 'Group 2'
+            - name: 'Group 3'
+              value: 'Group 3'

@@ -1,0 +1,31 @@
+---
+layout: default
+---
+<div id="pano">
+
+</div>
+<div id="home" class="container pano">
+  <div class="row flex">
+    <div class="col-md-1 arrows prev">
+    </div>
+    <div class="col-md-5 panoInfo border">
+      <h5>informazioni</h5>
+    </div>
+    <div class="col-md-5 panoTimeline border">
+      <h5>timeline</h5>
+    </div>
+    <div class="col-md-1 arrows next">
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-4 col-md-offset-1 border">
+      <div id="map">
+
+      </div>
+    </div>
+  </div>
+</div>
+<script>
+  var BASE_URL = '{{ site.baseurl}}';
+  var LUOGHI_DICT = {{ site.data.luoghidict | jsonify}};
+</script>

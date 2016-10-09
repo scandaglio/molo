@@ -1,0 +1,24 @@
+---
+layout: default
+---
+<div id="home" class="container">
+  <div class="row">
+    <div class="col-sm-12 col-md-6 col-md-offset-1">
+      {{ content }}
+      <div class="btn-toolbar" role="toolbar">
+        <div class="btn-group" role="group">
+          <a class="btn btn-default" href="{{ "/manifesto" | prepend: site.baseurl }}" role="button">manifesto</a>
+        </div>
+        <div class="btn-group" role="group">
+          <a class="btn btn-default" href="{{ "/places" | prepend: site.baseurl }}" role="button">esplora</a>
+        </div>
+        <div class="btn-group" role="group">
+          <a class="btn btn-default" href="{{ "/data" | prepend: site.baseurl }}" role="button">dati</a>
+        </div>
+        <div class="btn-group" role="group">
+          <a class="btn btn-default" href="{{ "/about" | prepend: site.baseurl }}" role="button">info</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
