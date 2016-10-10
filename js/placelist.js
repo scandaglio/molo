@@ -39,25 +39,6 @@
       });
 
       map.addLayer({
-          "id": "label",
-          "type": "symbol",
-          "source": "points",
-          "layout": {
-              // "icon-image": "square-15",
-              "text-field": "{condition_desc}",
-              "text-font": ["Open Sans Semibold", "Arial Unicode MS Bold"],
-              "text-offset": [0, 0.3],
-              "text-size": 14,
-              "text-anchor": "top"
-          },
-          "paint":{
-            "text-color": "#fff",
-            "text-halo-color": "#000000",
-            "text-halo-width": 2
-          }
-      });
-
-      map.addLayer({
           "id": "pointsBorder",
           "type": "circle",
           "source": "points",
@@ -74,6 +55,25 @@
           "paint": {
             "circle-radius": 3,
             "circle-color": "#ffffff"
+          }
+      });
+
+      map.addLayer({
+          "id": "label",
+          "type": "symbol",
+          "source": "points",
+          "layout": {
+              // "icon-image": "square-15",
+              "text-field": "{condition_desc}",
+              "text-font": ["Open Sans Semibold", "Arial Unicode MS Bold"],
+              "text-offset": [0, 0.3],
+              "text-size": 14,
+              "text-anchor": "top"
+          },
+          "paint":{
+            "text-color": "#fff",
+            "text-halo-color": "#000000",
+            "text-halo-width": 2
           }
       });
 

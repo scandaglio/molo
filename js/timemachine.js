@@ -12,12 +12,13 @@
 
     var category = place.properties.category;
 
-    var breadcrumb = LUOGHI_DICT[category];
+    var url = LUOGHI_DICT[category].url,
+        breadcrumb = LUOGHI_DICT[category].title;
 
     d3.select('.navbar-header')
       .append('a')
       .attr("class", "navbar-brand")
-      .attr("href", BASE_URL + 'places/' + breadcrumb)
+      .attr("href", BASE_URL + '/places/' + url)
       .text(breadcrumb)
 
     var catFilter = data.features.filter(function(d){
@@ -131,7 +132,9 @@
       {date: '2016/10', panoid: panoid}
     ];
 
-    timelineData = timelineData.concat(place.properties.timemachine)
+    if(place.properties.timemachine){
+      timelineData = timelineData.concat(place.properties.timemachine)
+    }
 
     var parseTime = d3.timeParse("%Y/%m");
 

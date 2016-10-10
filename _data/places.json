@@ -1708,7 +1708,7 @@
         "typology": "Produttivo",
         "cod_prog": "A96",
         "zona": "3",
-        "panoId": null,
+        "panoId": "bwmXIVcobj1FAHYHZHhMNA",
         "category": "privato",
         "focus":false
       }
@@ -1777,7 +1777,7 @@
         "typology": "Produttivo",
         "cod_prog": "A108",
         "zona": "3",
-        "panoId": null,
+        "panoId": "D_7XQAosKmud1vme_G952w",
         "category": "area_dismessa",
         "focus":false
       }
@@ -1800,7 +1800,7 @@
         "typology": "Produttivo",
         "cod_prog": "A109",
         "zona": "3",
-        "panoId": null,
+        "panoId": "QJl0w0QbDNkAdGB6KRj-_w",
         "category": "area_dismessa",
         "focus":false
       }
@@ -1915,7 +1915,7 @@
         "typology": "Terziario",
         "cod_prog": "A128",
         "zona": "5",
-        "panoId": null,
+        "panoId": "J36IvtM45qwoWqrxeETUhA",
         "category": "privato",
         "focus":false
       }
@@ -1938,7 +1938,7 @@
         "typology": "Terziario",
         "cod_prog": "R129",
         "zona": "5",
-        "panoId": null,
+        "panoId": "HHFMG_F1NEMY-TnC03fLkg",
         "category": "privato",
         "focus":false
       }
@@ -1984,7 +1984,7 @@
         "typology": "Produttivo",
         "cod_prog": "A146",
         "zona": "5",
-        "panoId": null,
+        "panoId": "zkt6y61-3zc6nVL3e6VWjw",
         "category": "privato",
         "focus":false
       }
@@ -2214,7 +2214,7 @@
         "typology": "Terziario",
         "cod_prog": "A84",
         "zona": "7",
-        "panoId": null,
+        "panoId": "fwI1Nn3Iola_C6GmCXY7LA",
         "category": "privato",
         "focus":false
       }
@@ -2789,7 +2789,7 @@
         "typology": "Area libera",
         "cod_prog": "A299",
         "zona": "3",
-        "panoId": null,
+        "panoId": "ge72ervHryaW3PnsfAdXsg",
         "category": "area_dismessa",
         "focus":false
       }
@@ -3203,7 +3203,7 @@
         "typology": "Area libera",
         "cod_prog": "A340",
         "zona": "8",
-        "panoId": null,
+        "panoId": "IwiBdnhmboH6El1_8wtEBQ",
         "category": "area_dismessa",
         "focus":false
       }
@@ -3387,7 +3387,7 @@
         "typology": "Edifici rurali",
         "cod_prog": "A190",
         "zona": "5",
-        "panoId": null,
+        "panoId": "9q-fX7Ps7X7TRsnGWHRnoA",
         "category": "rurale",
         "focus":false
       }
@@ -3776,7 +3776,7 @@
         "typology": "Edifici rurali",
         "cod_prog": "A388",
         "zona": "5",
-        "panoId": null,
+        "panoId": "bFl_UVj5oPOwE1g_rHyQiQ",
         "category": "rurale",
         "focus":false
       }
@@ -3983,7 +3983,7 @@
         "typology": "Area libera",
         "cod_prog": "A397",
         "zona": "6",
-        "panoId": null,
+        "panoId": "T6TDnY78mSXofzgT97BLmA",
         "category": "area_dismessa",
         "focus":false
       }
@@ -4146,6 +4146,282 @@
         "zona": "2",
         "panoId": "ejqQjLkOkRDANdukLjul2g",
         "category": "privata",
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.18117533218205,
+          45.49027088325253
+        ]
+      },
+      "properties": {
+        "name": "Via Valtellina 5",
+        "address": "Via Valtellina 5",
+        "FID": null,
+        "condition": "Semi utilizzo",
+        "condition_desc": "Scalo Ferroviario Farini-Lugano",
+        "typology": "Scalo Ferroviario",
+        "cod_prog": null,
+        "zona": "9",
+        "panoId": "gqbvYjk2XHncHG3at5V3Eg",
+        "category": "scalo",
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.125107,
+          45.304649
+        ]
+      },
+      "properties": {
+        "name": "Piazzale Egeo 10",
+        "address": "Piazzale Egeo 10",
+        "FID": null,
+        "condition": "Semi utilizzo",
+        "condition_desc": "Scalo Ferroviario Grego-Breda",
+        "typology": "Scalo Ferroviario",
+        "cod_prog": null,
+        "zona": "10",
+        "panoId": "HlaYwIXYOi6x_JkNcTUDPg",
+        "category": "scalo",
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.236546440987695,
+          45.48465586303189
+        ]
+      },
+      "properties": {
+        "name": "Piazza Enrico Bottini",
+        "address": "Piazza Enrico Bottini",
+        "FID": null,
+        "condition": "Utilizzato",
+        "condition_desc": "Scalo Ferroviario Lambrate",
+        "typology": "Scalo Ferroviario",
+        "cod_prog": null,
+        "zona": "10",
+        "panoId": "4VTw4sVwVamLIZZ4LDivcQ",
+        "category": "scalo",
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.237997246048621,
+          45.43368556500553
+        ]
+      },
+      "properties": {
+        "name": "Piazza Enrico Bottini",
+        "address": "Piazza Enrico Bottini",
+        "FID": null,
+        "condition": "Utilizzato",
+        "condition_desc": "Scalo Ferroviario Rogoredo",
+        "typology": "Scalo Ferroviario",
+        "cod_prog": null,
+        "zona": "10",
+        "panoId": "KQgunN3d6Gr4LiOMJ5FQkA",
+        "category": "scalo",
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.237997246048621,
+          45.43368556500553
+        ]
+      },
+      "properties": {
+        "name": "Viale Isonzo 7",
+        "address": "Viale Isonzo 7",
+        "FID": null,
+        "condition": "Inutilizzato",
+        "condition_desc": "Scalo Ferroviario Romana",
+        "typology": "Scalo Ferroviario",
+        "cod_prog": null,
+        "zona": "10",
+        "panoId": "PAHcWseRzcWkkPyjpqD1tg",
+        "category": "scalo",
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.237997246048621,
+          45.43368556500553
+        ]
+      },
+      "properties": {
+        "name": "Porta Genova",
+        "address": "Porta Genova",
+        "FID": null,
+        "condition": "Semi utilizzato",
+        "condition_desc": "Scalo Ferroviario P.ta Genova",
+        "typology": "Scalo Ferroviario",
+        "cod_prog": null,
+        "zona": "10",
+        "panoId": "viQMJfuyK-IDTsHQJGJlbg",
+        "category": "scalo",
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.237997246048621,
+          45.43368556500553
+        ]
+      },
+      "properties": {
+        "name": "Piazza Tirana",
+        "address": "Piazza Tirana",
+        "FID": null,
+        "condition": "Semi utilizzato",
+        "condition_desc": "Scalo Ferroviario San Cristoforo",
+        "typology": "Scalo Ferroviario",
+        "cod_prog": null,
+        "zona": "10",
+        "panoId": "XmUxzPeUHpFDrfcm_jafCQ",
+        "category": "scalo",
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.202130455806497,
+          45.51415801616619
+        ]
+      },
+      "properties": {
+        "name": "Vle Giovanni Suzzani 125",
+        "address": "Vle Giovanni Suzzani 125",
+        "FID": null,
+        "condition": "Semi utilizzato",
+        "condition_desc": "Caserma Mameli",
+        "typology": "Caserma",
+        "cod_prog": null,
+        "zona": "10",
+        "panoId": "yP4gyO61M1wskEanaty3fg",
+        "category": "caserma",
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.24507153771009,
+          45.47712741040391
+        ]
+      },
+      "properties": {
+        "name": "Via Antonio Tanzi 5",
+        "address": "Via Antonio Tanzi 5",
+        "FID": null,
+        "condition": "Semi utilizzato",
+        "condition_desc": "Caserma Mercanti",
+        "typology": "Caserma",
+        "cod_prog": null,
+        "zona": "10",
+        "panoId": "SLcczMzi4YeDqTGDQt2gsQ",
+        "category": "caserma",
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.127294634580096,
+          45.46537734322243
+        ]
+      },
+      "properties": {
+        "name": "Piazzale Giuseppe Perrucchetti 1",
+        "address": "Piazzale Giuseppe Perrucchetti 1",
+        "FID": null,
+        "condition": "Semi utilizzato",
+        "condition_desc": "Caserma Santa Barbara",
+        "typology": "Caserma",
+        "cod_prog": null,
+        "zona": "10",
+        "panoId": "LBEuGPUq1DcbXrIv1FHSSw",
+        "category": "caserma",
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.164715939634618,
+          45.47483580717233
+        ]
+      },
+      "properties": {
+        "name": "Via Reggimento Savoia Cavalleria, 1",
+        "address": "Via Reggimento Savoia Cavalleria, 1",
+        "FID": null,
+        "condition": "Semi utilizzato",
+        "condition_desc": "Caserma Magenta Caroccio XXIV Maggio",
+        "typology": "Caserma",
+        "cod_prog": null,
+        "zona": "10",
+        "panoId": "yWzHWytAQ0jl4Vw9ACqRPw",
+        "category": "caserma",
+        "focus":false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.158800341976644,
+          45.48951721889176
+        ]
+      },
+      "properties": {
+        "name": "Via Francesco Caracciolo, 29",
+        "address": "Via Francesco Caracciolo, 29",
+        "FID": null,
+        "condition": "Semi utilizzato",
+        "condition_desc": "Caserma Montello",
+        "typology": "Caserma",
+        "cod_prog": null,
+        "zona": "10",
+        "panoId": "-ttK6Dy5BvysUDvNt6hrPQ",
+        "category": "caserma",
         "focus":false
       }
     }
