@@ -19,16 +19,16 @@
         "typology": "Terziario",
         "cod_prog": "A120",
         "zona": "4",
-        "panoId": "qtmt8Qi-KCx2cYXkI5YoIA",
+        "panoId": "J6xiHZJxMssb5gBctak_lg",
         "category": "privato",
         "focus":true,
         "timemachine": [
           {
-            "year":2014,
+            "date":"2014/02",
             "panoid" :"IvKTxdCcx2o_D3uUPoJmAw"
           },
           {
-            "year":2013,
+            "date":"2013/05",
             "panoid": "82vEiHNvcK7wO0baUsechw"
           }
         ]

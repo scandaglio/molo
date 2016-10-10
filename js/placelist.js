@@ -2,6 +2,9 @@
   var category = CATEGORY,
       places = PLACES;
 
+    var $affixElement = $('div[data-spy="affix"]');
+    $affixElement.width($affixElement.parent().width());
+
   places.features = places.features.filter(function(d){
     return d.properties.category == category;
   });
@@ -74,5 +77,10 @@
           }
       });
 
+  });
+
+  $(window).resize(function () {
+    var $affixElement = $('div[data-spy="affix"]');
+    $affixElement.width($affixElement.parent().width());
   });
 })()

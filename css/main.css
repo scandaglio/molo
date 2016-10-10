@@ -6,24 +6,21 @@ body{
   text-rendering: optimizeLegibility;
   background-color: black;
   color: white;
+  background-image: url('../media/home.jpg');
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
 
 }
 
 body:after {
   content: "";
-  background-image: url('../media/home.jpg');
-  background-size: cover;
-  background-position: center center;
-  background-color: black;
-  background-attachment: fixed;
-  opacity: 0.5;
-  top: 0;
-  left: 0;
-  /*bottom: 0;*/
-  right: 0;
-  position: absolute;
+  background-color: rgba(0, 0, 0, 0.5);
+  position: fixed;
+  height: 100%;
+  width: 100%;
+  top:0;
   z-index: -1;
-  height: 100%
 }
 
 h1,h2,h3,h4,h5,h6{
@@ -144,6 +141,7 @@ h1,h2,h3,h4,h5,h6{
   -webkit-justify-content: center;
   -webkit-align-items: center;
   padding-top:70px;
+  /*background-color: rgba(0,0,0,0.5);*/
 }
 
 #home > .row{
@@ -326,9 +324,7 @@ h1,h2,h3,h4,h5,h6{
 }
 
 .pano .flex{
-  display: flex;
-  display: -webkit-flex;
-  display: -ms-flexbox;
+  display: block;
 }
 
 .normalWeight{
@@ -348,6 +344,16 @@ h1,h2,h3,h4,h5,h6{
   text-decoration: underline;
 }
 
+.affix{
+  position: static;
+  width: auto;
+}
+
+.affix-top{
+  position: static;
+  width: auto;
+}
+
 @media (min-width: 768px){
   #contactus, #aboutus{
     display: flex;
@@ -356,6 +362,12 @@ h1,h2,h3,h4,h5,h6{
 
   #navbar {
       display: none!important;
+  }
+
+  .pano .flex{
+    display: flex;
+    display: -webkit-flex;
+    display: -ms-flexbox;
   }
 
 }
@@ -369,5 +381,12 @@ h1,h2,h3,h4,h5,h6{
 @media (min-width: 1200px){
   .container {
       width: inherit;
+  }
+}
+
+@media (min-width: 769px){
+  .affix{
+    position: fixed;
+    width: auto;
   }
 }

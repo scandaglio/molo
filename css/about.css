@@ -1,12 +1,11 @@
 body{
   color: black!important;
   background-color:white;
+  background-image: none!important;
 }
 
 body:after {
-  background-image: none!important;
-  background-color: white!important;
-  z-index: -1;
+  background-color: transparent;
 }
 
 #aboutus a,
