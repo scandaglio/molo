@@ -21,51 +21,15 @@
         "zona": "4",
         "panoId": "J6xiHZJxMssb5gBctak_lg",
         "category": "privato",
-        "focus": true,
+        "focus":true,
         "timemachine": [
           {
-            "date": "Apr 2008",
+            "date":"2014/02",
+            "panoid" :"IvKTxdCcx2o_D3uUPoJmAw"
+          },
+          {
+            "date":"2013/05",
             "panoid": "82vEiHNvcK7wO0baUsechw"
-          },
-          {
-            "date": "Sep 2008",
-            "panoid": "pLoDLPWtVByp8emSXwLQyA"
-          },
-          {
-            "date": "Oct 2008",
-            "panoid": "dKQlzecBNJnCMU9tAsgviw"
-          },
-          {
-            "date": "Sep 2010",
-            "panoid": "QqYEA4kKZ3QsxU5ipHxOCg"
-          },
-          {
-            "date": "May 2012",
-            "panoid": "KteUnfjeh3_C9NURWJvqMw"
-          },
-          {
-            "date": "May 2014",
-            "panoid": "90Czz2q6AxCks3GqzmvHbQ"
-          },
-          {
-            "date": "Aug 2014",
-            "panoid": "ui4YcsHpbz4Ws86qJGAUTQ"
-          },
-          {
-            "date": "May 2015",
-            "panoid": "IvKTxdCcx2o_D3uUPoJmAw"
-          },
-          {
-            "date": "Aug 2015",
-            "panoid": "fLIEjjg4PuOIbqF2UltvpQ"
-          },
-          {
-            "date": "May 2016",
-            "panoid": "3QmjxLE6h1QtC4zh4qm7xQ"
-          },
-          {
-            "date": "Jul 2016",
-            "panoid": "J6xiHZJxMssb5gBctak_lg"
           }
         ]
       }
@@ -90,7 +54,7 @@
         "zona": "4",
         "panoId": "LAYeGUKyYZZGPV_IvFfvcg",
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -113,45 +77,7 @@
         "zona": "4",
         "panoId": "xv0RdQYaw4Nm6dAzZsfnpw",
         "category": "rurale",
-        "focus": false,
-        "timemachine": [
-          {
-            "date": "Apr 2008",
-            "panoid": "xFhtKNA_MaFutee1-8W7aA"
-          },
-          {
-            "date": "Sep 2008",
-            "panoid": "HOwl9AGdSCZiOozyBYQ-MA"
-          },
-          {
-            "date": "Oct 2008",
-            "panoid": "Ly4jmkWX_d71wazfCioN-Q"
-          },
-          {
-            "date": "Sep 2010",
-            "panoid": "iZYs2ZzpJA4KGSySa8gPlw"
-          },
-          {
-            "date": "May 2012",
-            "panoid": "Yfhiob7YgfSn9_2pipK_AQ"
-          },
-          {
-            "date": "May 2014",
-            "panoid": "t35cWnjewrTpYvhziMZ6cA"
-          },
-          {
-            "date": "Aug 2014",
-            "panoid": "JpgPJAoeoTZsWC8eobj1bg"
-          },
-          {
-            "date": "May 2015",
-            "panoid": "KTFvOSn3TbUIsBKMPGMxhg"
-          },
-          {
-            "date": "May 2016",
-            "panoid": "xv0RdQYaw4Nm6dAzZsfnpw"
-          }
-        ]
+        "focus":false
       }
     },
     {
@@ -174,7 +100,7 @@
         "zona": "4",
         "panoId": null,
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -197,7 +123,7 @@
         "zona": "4",
         "panoId": "3hcGECWu42jfRnmeDHIFQA",
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -220,7 +146,7 @@
         "zona": "4",
         "panoId": "hK4MasFl2MlKNv_anL0EwA",
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -243,7 +169,7 @@
         "zona": "4",
         "panoId": null,
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -266,7 +192,7 @@
         "zona": "4",
         "panoId": null,
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -289,7 +215,7 @@
         "zona": "4",
         "panoId": null,
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -312,7 +238,7 @@
         "zona": "4",
         "panoId": null,
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -335,7 +261,7 @@
         "zona": "4",
         "panoId": "IcrgJdc3F-4aMMdYsY85eQ",
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -358,17 +284,7 @@
         "zona": "4",
         "panoId": "cHPsmkA4kKxIKGZEPt8w9A",
         "category": "rurale",
-        "focus": false,
-        "timemachine": [
-          {
-            "date": "Jun 2014",
-            "panoid": "_gzWV5wU_09AUAqJXvAvZg"
-          },
-          {
-            "date": "May 2015",
-            "panoid": "cHPsmkA4kKxIKGZEPt8w9A"
-          }
-        ]
+        "focus":false
       }
     },
     {
@@ -391,7 +307,7 @@
         "zona": "4",
         "panoId": "TyC8-zPqGX9uZXRXErLplQ",
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -414,7 +330,7 @@
         "zona": "4",
         "panoId": "Vv3dJ8f3jwzYevpDemkEzw",
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -437,7 +353,7 @@
         "zona": "4",
         "panoId": "9Xsv_7DQ-aen6LJlu8NOsw",
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -460,7 +376,7 @@
         "zona": "4",
         "panoId": "-AA7tlzDhNukdxmr4h4kXA",
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -483,7 +399,7 @@
         "zona": "4",
         "panoId": "aIPjxw0eHz4hY12z3EgqGQ",
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -506,7 +422,7 @@
         "zona": "4",
         "panoId": "o5dRmTetVulUygXt-AAUzw",
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -529,49 +445,7 @@
         "zona": "4",
         "panoId": "1FRZiQab7Une9dlapoDaCQ",
         "category": "area_dismessa",
-        "focus": false,
-        "timemachine": [
-          {
-            "date": "Sep 2008",
-            "panoid": "KHYO5PhI7klv7zXGWNi-Uw"
-          },
-          {
-            "date": "Oct 2008",
-            "panoid": "flaR4ay8ldzquVRsAPiW7A"
-          },
-          {
-            "date": "Sep 2010",
-            "panoid": "Z96vFI2itiF202r0t7CRxQ"
-          },
-          {
-            "date": "May 2012",
-            "panoid": "hbfQLPZFng4DNDK0vRBKtA"
-          },
-          {
-            "date": "May 2014",
-            "panoid": "ScL8uG8f9cutdfCS_OHRsQ"
-          },
-          {
-            "date": "Aug 2014",
-            "panoid": "4ApW_h6FzwE1ShKu4p23-w"
-          },
-          {
-            "date": "May 2015",
-            "panoid": "aZosk6EoWutuKzmKcEzKIQ"
-          },
-          {
-            "date": "Aug 2015",
-            "panoid": "C7HbGTPLDRj3kqIKka5Y0Q"
-          },
-          {
-            "date": "May 2016",
-            "panoid": "hYP1cNr22p_WhFeMIWLi-Q"
-          },
-          {
-            "date": "Jul 2016",
-            "panoid": "1FRZiQab7Une9dlapoDaCQ"
-          }
-        ]
+        "focus":false
       }
     },
     {
@@ -594,7 +468,7 @@
         "zona": "4",
         "panoId": "4nBA1jDe58K8RjgPLIA9vA",
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -617,25 +491,7 @@
         "zona": "4",
         "panoId": "gqRZBU1w5zGWLBgIydMS7g",
         "category": "pubblico",
-        "focus": false,
-        "timemachine": [
-          {
-            "date": "Oct 2008",
-            "panoid": "arnAeG9_NOR_uI11jyZSCg"
-          },
-          {
-            "date": "May 2012",
-            "panoid": "BSyJMzliz27leqU7DHSLIg"
-          },
-          {
-            "date": "Jun 2014",
-            "panoid": "9X0GhcO_sgMFXXmGVGA5mA"
-          },
-          {
-            "date": "May 2015",
-            "panoid": "gqRZBU1w5zGWLBgIydMS7g"
-          }
-        ]
+        "focus":false
       }
     },
     {
@@ -658,7 +514,7 @@
         "zona": "4",
         "panoId": "_35jrBP8TO2bIKZBRd2QQg",
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -681,7 +537,7 @@
         "zona": "4",
         "panoId": "FgrmPFZiT8BEqdIZfDeHSw",
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -704,7 +560,7 @@
         "zona": "4",
         "panoId": "mLGtqb30zs088ItlXT6c3A",
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -727,33 +583,7 @@
         "zona": "4",
         "panoId": "yBB_Gbsbs-ciHA_QRGhYqQ",
         "category": "area_dismessa",
-        "focus": false,
-        "timemachine": [
-          {
-            "date": "Oct 2008",
-            "panoid": "KlZ7G2RrykgHsD2OnVerKg"
-          },
-          {
-            "date": "Sep 2010",
-            "panoid": "ILcq3VJj6m03_BtO-wTc8A"
-          },
-          {
-            "date": "May 2012",
-            "panoid": "Juh29eN7d34QQ0NHpxbp8g"
-          },
-          {
-            "date": "Jun 2014",
-            "panoid": "TscuyEUEP_CrHCFvt9oAlA"
-          },
-          {
-            "date": "May 2015",
-            "panoid": "LmRzMM3PFSenM4vh9SwlyQ"
-          },
-          {
-            "date": "Apr 2016",
-            "panoid": "yBB_Gbsbs-ciHA_QRGhYqQ"
-          }
-        ]
+        "focus":false
       }
     },
     {
@@ -776,7 +606,7 @@
         "zona": "4",
         "panoId": "LVDEj-fe0CZnaFQFNog-Gg",
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -799,7 +629,7 @@
         "zona": "4",
         "panoId": "pPDxf-FaxcqMfUHExWVwsw",
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -822,7 +652,7 @@
         "zona": "4",
         "panoId": "W1ccciKE-dUl76nk3YL-aQ",
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -845,33 +675,7 @@
         "zona": "4",
         "panoId": "u-1t0GbNL1EIMkmRxzgNCQ",
         "category": "area_dismessa",
-        "focus": false,
-        "timemachine": [
-          {
-            "date": "Apr 2008",
-            "panoid": "kUP2rQiY6kNXWNTh1gZm7Q"
-          },
-          {
-            "date": "Sep 2010",
-            "panoid": "cGXvhn1ph4rR7yUySb82tg"
-          },
-          {
-            "date": "May 2012",
-            "panoid": "sa8A8VM-1hdXBgHlM-l1wQ"
-          },
-          {
-            "date": "Jun 2014",
-            "panoid": "BYtX1pHE7Mmm2LQHZ8gYHA"
-          },
-          {
-            "date": "May 2015",
-            "panoid": "2m1VvL0cmN5MN61ckxfD8Q"
-          },
-          {
-            "date": "May 2016",
-            "panoid": "u-1t0GbNL1EIMkmRxzgNCQ"
-          }
-        ]
+        "focus":false
       }
     },
     {
@@ -894,7 +698,7 @@
         "zona": "4",
         "panoId": "odTJ4IqJtb422bkI-ZlBbg",
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -917,25 +721,7 @@
         "zona": "4",
         "panoId": "DbT4UJVYdGAA19CLvf4waw",
         "category": "rurale",
-        "focus": false,
-        "timemachine": [
-          {
-            "date": "Apr 2008",
-            "panoid": "DFDKHsxXeX2s4shw5bc1bA"
-          },
-          {
-            "date": "May 2012",
-            "panoid": "2zxgOGJqk06JF28ylNFyIQ"
-          },
-          {
-            "date": "May 2014",
-            "panoid": "flt8JXczWuzxCGgRvv0_Dw"
-          },
-          {
-            "date": "May 2015",
-            "panoid": "DbT4UJVYdGAA19CLvf4waw"
-          }
-        ]
+        "focus":false
       }
     },
     {
@@ -958,37 +744,7 @@
         "zona": "4",
         "panoId": "IA2R5VRJ4O6TWdsaA84WEg",
         "category": "area_dismessa",
-        "focus": false,
-        "timemachine": [
-          {
-            "date": "Apr 2008",
-            "panoid": "ZRctQREL0tP1cGqqwhWg5g"
-          },
-          {
-            "date": "Oct 2008",
-            "panoid": "_lGWWDdB8fDvT8ni9KM87w"
-          },
-          {
-            "date": "Sep 2010",
-            "panoid": "5CiIEUSUEZd-gsYZp43A_g"
-          },
-          {
-            "date": "May 2012",
-            "panoid": "mLIuFOeJyp6sxsI_4afH5g"
-          },
-          {
-            "date": "Jun 2014",
-            "panoid": "QY6ArHLo0U5Fc2_ax_72eQ"
-          },
-          {
-            "date": "May 2015",
-            "panoid": "rdaLsaJE3TDnV9Zdp-O6mg"
-          },
-          {
-            "date": "May 2016",
-            "panoid": "IA2R5VRJ4O6TWdsaA84WEg"
-          }
-        ]
+        "focus":false
       }
     },
     {
@@ -1011,7 +767,7 @@
         "zona": "4",
         "panoId": "Pcqqnm7-0OuUNyrb3KqKAg",
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -1034,7 +790,7 @@
         "zona": "4",
         "panoId": "cJW31-wfOPwhJ5a6D36cIw",
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -1057,7 +813,7 @@
         "zona": "4",
         "panoId": "-i_mXeRmZetMcVHFRb5Big",
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -1080,7 +836,7 @@
         "zona": "4",
         "panoId": null,
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -1103,7 +859,7 @@
         "zona": "4",
         "panoId": "eiNswcpA5lcReLxrXvrkbg",
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -1126,7 +882,7 @@
         "zona": "4",
         "panoId": "6KqbFaQC6OxkeyP966F-uw",
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -1149,7 +905,7 @@
         "zona": "4",
         "panoId": null,
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -1172,7 +928,7 @@
         "zona": "4",
         "panoId": "WvKSXdnOzPbi29P4CYUynA",
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -1195,7 +951,7 @@
         "zona": "4",
         "panoId": "LKZdRM5OM6Vu-q2zUGrbhg",
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -1218,37 +974,7 @@
         "zona": "4",
         "panoId": "GTszQae4qaJMrz6lwV8GKA",
         "category": "area_dismessa",
-        "focus": false,
-        "timemachine": [
-          {
-            "date": "Apr 2008",
-            "panoid": "fkylk8sSMqx9VK_XKeyxeg"
-          },
-          {
-            "date": "Oct 2008",
-            "panoid": "ZrFE5pwj0ea6w8eNcNYDgw"
-          },
-          {
-            "date": "Sep 2010",
-            "panoid": "2Z8tlpSg68aD-lrWrW_6sw"
-          },
-          {
-            "date": "May 2012",
-            "panoid": "oOAFdVVUd-xjI3QO7hY17Q"
-          },
-          {
-            "date": "Jun 2014",
-            "panoid": "amvsxpagWq1qTaf5gSfarg"
-          },
-          {
-            "date": "May 2015",
-            "panoid": "0ACiKwwUt0eBhLUe_O2GWA"
-          },
-          {
-            "date": "May 2016",
-            "panoid": "GTszQae4qaJMrz6lwV8GKA"
-          }
-        ]
+        "focus":false
       }
     },
     {
@@ -1271,7 +997,7 @@
         "zona": "4",
         "panoId": "LgeYEadEUtzNkJf_qfMpvA",
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -1294,7 +1020,7 @@
         "zona": "4",
         "panoId": "_ka1MrKOx0dBansPXeaHqg",
         "category": "area_dismessa",
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -1317,7 +1043,7 @@
         "zona": "4",
         "panoId": "8RsjxQeJAyYGGg3rENMYeA",
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -1340,7 +1066,7 @@
         "zona": "4",
         "panoId": "dSyq-70Tf9O1JVClbpzxqQ",
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -1363,7 +1089,7 @@
         "zona": "4",
         "panoId": "VIed1tsYumWcVzA_X1Ku2Q",
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -1386,25 +1112,7 @@
         "zona": "1",
         "panoId": "QuKV43-9sZ18yFzJHxK-UA",
         "category": "area_dismessa",
-        "focus": false,
-        "timemachine": [
-          {
-            "date": "May 2012",
-            "panoid": "oIyeEVrhzDOZwZtl-OCPvA"
-          },
-          {
-            "date": "Sep 2014",
-            "panoid": "djjKZDCmwYtcTcikz2INnw"
-          },
-          {
-            "date": "Jun 2015",
-            "panoid": "7J2Gw3dNB1k4PW6Uyk0KGg"
-          },
-          {
-            "date": "May 2016",
-            "panoid": "QuKV43-9sZ18yFzJHxK-UA"
-          }
-        ]
+        "focus":false
       }
     },
     {
@@ -1427,7 +1135,7 @@
         "zona": "1",
         "panoId": "CNOAxD-det5ouTXqUJgDZw",
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -1450,29 +1158,7 @@
         "zona": "1",
         "panoId": "IVkKCfGOXXsbDFtKGhTO7A",
         "category": "Pubblico",
-        "focus": false,
-        "timemachine": [
-          {
-            "date": "Apr 2008",
-            "panoid": "hhXZNkP_tca5uj-cFndKbQ"
-          },
-          {
-            "date": "Aug 2012",
-            "panoid": "RwvnIEWhBlS0pIHdF8eCzw"
-          },
-          {
-            "date": "Jul 2014",
-            "panoid": "k6uzss5iUB5IBhNRrvw6sg"
-          },
-          {
-            "date": "Jun 2015",
-            "panoid": "Dus_CLjtyJ95cKj3r0oIMQ"
-          },
-          {
-            "date": "Jun 2016",
-            "panoid": "IVkKCfGOXXsbDFtKGhTO7A"
-          }
-        ]
+        "focus":false
       }
     },
     {
@@ -1495,7 +1181,7 @@
         "zona": "1",
         "panoId": null,
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -1518,7 +1204,7 @@
         "zona": "5",
         "panoId": "6Kd1gj7CnZ8j9lIhM_8w_w",
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -1541,7 +1227,7 @@
         "zona": "5",
         "panoId": "g9Ynrz6Bkw821SH5MvhUiQ",
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -1564,7 +1250,7 @@
         "zona": "5",
         "panoId": "kaEEZ5qqpvq0oPGicHn2LQ",
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -1587,7 +1273,7 @@
         "zona": "5",
         "panoId": "bsMSJzTXISVasB4n_Gpu1Q",
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -1610,7 +1296,7 @@
         "zona": "5",
         "panoId": "I0kkwsF62T8HejsY0FY8RQ",
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -1633,7 +1319,7 @@
         "zona": "5",
         "panoId": "XsJ1fMnf_IQsmj1zAIFS-A",
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -1656,7 +1342,7 @@
         "zona": "1",
         "panoId": "ay7V5cQ9gM9uNl4LYJtx9w",
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -1679,7 +1365,7 @@
         "zona": "1",
         "panoId": "AbW3HgvGVbO_EMTGlkm51Q",
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -1702,7 +1388,7 @@
         "zona": "2",
         "panoId": "hu5iUR6qQIyIYU-x80V0BQ",
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -1725,7 +1411,7 @@
         "zona": "2",
         "panoId": "sHiSrEWikLJTp2fdWIXfmg",
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -1748,25 +1434,7 @@
         "zona": "2",
         "panoId": "7NIGvhgwTNGTCdRwIdZYAw",
         "category": "rurale",
-        "focus": false,
-        "timemachine": [
-          {
-            "date": "Apr 2008",
-            "panoid": "L3nl7kGmU4x1PSQ4_icwNw"
-          },
-          {
-            "date": "May 2012",
-            "panoid": "I-8_6yTLQ1kCHLA8KOiSfg"
-          },
-          {
-            "date": "Sep 2014",
-            "panoid": "IhpdjjkT5wbdZTQzeSxfaA"
-          },
-          {
-            "date": "Jun 2015",
-            "panoid": "7NIGvhgwTNGTCdRwIdZYAw"
-          }
-        ]
+        "focus":false
       }
     },
     {
@@ -1789,7 +1457,7 @@
         "zona": "2",
         "panoId": "V7w6PGDl0PspjCMfQWbURQ",
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -1812,7 +1480,7 @@
         "zona": "2",
         "panoId": "Cr0B0WgO0shRWxXhhnW-cA",
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -1835,7 +1503,7 @@
         "zona": "2",
         "panoId": "mWO3m8uiqE9zk9s2vku9zA",
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -1858,7 +1526,7 @@
         "zona": "2",
         "panoId": "1-jhu4Z37XuyAywiKNdfQg",
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -1881,7 +1549,7 @@
         "zona": "2",
         "panoId": "i4_Nxc4q_iMb6y4fYEg-_g",
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -1904,7 +1572,7 @@
         "zona": "2",
         "panoId": "oa1e40B01VUAxAnQu5BaRg",
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -1927,7 +1595,7 @@
         "zona": "2",
         "panoId": "AOnBwetx2xIM0YrDNdlM7g",
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -1950,7 +1618,7 @@
         "zona": "2",
         "panoId": "PlT89_jcvMvgmS2TLhR5rw",
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -1973,7 +1641,7 @@
         "zona": "2",
         "panoId": "4MIrghvmCapqzzUECZHIWQ",
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -1996,33 +1664,7 @@
         "zona": "3",
         "panoId": "Raqpw84wa7IXHeoBad_MzQ",
         "category": "pubblico",
-        "focus": false,
-        "timemachine": [
-          {
-            "date": "Sep 2010",
-            "panoid": "hA8DiMRVPq-hkASiczgHOA"
-          },
-          {
-            "date": "May 2012",
-            "panoid": "n-XdMKIug7lADST7VB46VA"
-          },
-          {
-            "date": "Jun 2014",
-            "panoid": "1ACQp27QCz7FFYyRptuE3w"
-          },
-          {
-            "date": "May 2015",
-            "panoid": "Rqu8Vx8EfyTr8dAXe6d1Zg"
-          },
-          {
-            "date": "Jul 2015",
-            "panoid": "h0tD7VPCGsk3Sh19tS5o2w"
-          },
-          {
-            "date": "Jun 2016",
-            "panoid": "Raqpw84wa7IXHeoBad_MzQ"
-          }
-        ]
+        "focus":false
       }
     },
     {
@@ -2045,37 +1687,7 @@
         "zona": "3",
         "panoId": "_IpoKpaZbeda-ViLS7h_5w",
         "category": "privato",
-        "focus": false,
-        "timemachine": [
-          {
-            "date": "Apr 2008",
-            "panoid": "cCgGArWM1hSYP9_brDs9kA"
-          },
-          {
-            "date": "Nov 2008",
-            "panoid": "i6EgTLDYON-W7hEaxkKrUQ"
-          },
-          {
-            "date": "May 2012",
-            "panoid": "UF0r93BwymFSF4LktlofDQ"
-          },
-          {
-            "date": "Aug 2014",
-            "panoid": "2MO7Ak2nYqcg6mvyfUJrCA"
-          },
-          {
-            "date": "Jun 2015",
-            "panoid": "RAlnoi8Y1k1WtRzTxn0SRw"
-          },
-          {
-            "date": "Jun 2016",
-            "panoid": "zGZfBmwzAJXjOU2BMHEivw"
-          },
-          {
-            "date": "Jul 2016",
-            "panoid": "_IpoKpaZbeda-ViLS7h_5w"
-          }
-        ]
+        "focus":false
       }
     },
     {
@@ -2098,37 +1710,7 @@
         "zona": "3",
         "panoId": "bwmXIVcobj1FAHYHZHhMNA",
         "category": "privato",
-        "focus": false,
-        "timemachine": [
-          {
-            "date": "Sep 2010",
-            "panoid": "McI6x2kD_UhEA5fpawW_SQ"
-          },
-          {
-            "date": "Oct 2011",
-            "panoid": "nmfz3fScGh2lq_420MKs_g"
-          },
-          {
-            "date": "May 2012",
-            "panoid": "jvvKOZRPA76szkvZHmhMdQ"
-          },
-          {
-            "date": "Jun 2014",
-            "panoid": "nu6sQeNvD1KuaZbnmY7ebw"
-          },
-          {
-            "date": "May 2015",
-            "panoid": "bwmXIVcobj1FAHYHZHhMNA"
-          },
-          {
-            "date": "May 2015",
-            "panoid": "yjJleLtCNYhuglmC4D-83g"
-          },
-          {
-            "date": "May 2015",
-            "panoid": "BSnM0ugNRhAYdQRBlz8zkw"
-          }
-        ]
+        "focus":false
       }
     },
     {
@@ -2151,7 +1733,7 @@
         "zona": "3",
         "panoId": null,
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -2174,29 +1756,7 @@
         "zona": "3",
         "panoId": "4bfavp-JSM-hV83k0Lhblw",
         "category": "area_dismessa",
-        "focus": false,
-        "timemachine": [
-          {
-            "date": "Sep 2010",
-            "panoid": "6yl8X_3m5dBRJwzN-IvbTw"
-          },
-          {
-            "date": "May 2012",
-            "panoid": "8KCZtzZrBJgSP9tk7hPF6g"
-          },
-          {
-            "date": "Jun 2014",
-            "panoid": "g3vPtuo6fWIahhNR04yPfw"
-          },
-          {
-            "date": "May 2015",
-            "panoid": "HlK7aOj8Kwmb399dEZgodQ"
-          },
-          {
-            "date": "Jun 2016",
-            "panoid": "4bfavp-JSM-hV83k0Lhblw"
-          }
-        ]
+        "focus":false
       }
     },
     {
@@ -2219,29 +1779,7 @@
         "zona": "3",
         "panoId": "D_7XQAosKmud1vme_G952w",
         "category": "area_dismessa",
-        "focus": false,
-        "timemachine": [
-          {
-            "date": "Sep 2010",
-            "panoid": "-amSMtcTMs9aM5X96jSZuA"
-          },
-          {
-            "date": "May 2012",
-            "panoid": "6G4Q_Vk-1JNWXQ33tJVLjg"
-          },
-          {
-            "date": "Jun 2014",
-            "panoid": "iPEszHNZynj-vRZUrbsTzg"
-          },
-          {
-            "date": "May 2015",
-            "panoid": "D_7XQAosKmud1vme_G952w"
-          },
-          {
-            "date": "May 2015",
-            "panoid": "azgAjEA6hfgUCgYCYiL97w"
-          }
-        ]
+        "focus":false
       }
     },
     {
@@ -2264,7 +1802,7 @@
         "zona": "3",
         "panoId": null,
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -2287,7 +1825,7 @@
         "zona": "3",
         "panoId": "oXsNIeT3x6yUEPn3u2w6Pg",
         "category": "privato",
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -2310,25 +1848,7 @@
         "zona": "3",
         "panoId": "lHrC5_7yRlVZGHBXM5MSwg",
         "category": "privato",
-        "focus": false,
-        "timemachine": [
-          {
-            "date": "Sep 2010",
-            "panoid": "qml3jAIHmPJqMpGXud-dNg"
-          },
-          {
-            "date": "May 2012",
-            "panoid": "7NjNRU94ogf_CmFw758a3g"
-          },
-          {
-            "date": "Jun 2014",
-            "panoid": "BV1hrbHAwaPfK6dFwh56hg"
-          },
-          {
-            "date": "May 2015",
-            "panoid": "lHrC5_7yRlVZGHBXM5MSwg"
-          }
-        ]
+        "focus":false
       }
     },
     {
@@ -2351,7 +1871,7 @@
         "zona": "5",
         "panoId": null,
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -2374,7 +1894,7 @@
         "zona": "5",
         "panoId": "k8-Dn-JvnGPKzdsZMxbooQ",
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -2397,7 +1917,7 @@
         "zona": "5",
         "panoId": null,
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -2420,7 +1940,7 @@
         "zona": "5",
         "panoId": "HHFMG_F1NEMY-TnC03fLkg",
         "category": "privato",
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -2443,33 +1963,7 @@
         "zona": "5",
         "panoId": "1vPeimvmgc3vwRuCYHVoVw",
         "category": "pubblico",
-        "focus": false,
-        "timemachine": [
-          {
-            "date": "Oct 2008",
-            "panoid": "_X1itzauKpCFJ10jdgzSCw"
-          },
-          {
-            "date": "May 2014",
-            "panoid": "PCq4-KOZfOUQtPqRG5n88Q"
-          },
-          {
-            "date": "Aug 2014",
-            "panoid": "eX24J6hlABETIMXVPgTVzg"
-          },
-          {
-            "date": "May 2015",
-            "panoid": "Cwrr6xsTFmVBIJAmpy-Tbg"
-          },
-          {
-            "date": "May 2016",
-            "panoid": "3JsdfS0Yci7MVF-hBKm-Rg"
-          },
-          {
-            "date": "Jul 2016",
-            "panoid": "1vPeimvmgc3vwRuCYHVoVw"
-          }
-        ]
+        "focus":false
       }
     },
     {
@@ -2492,7 +1986,7 @@
         "zona": "5",
         "panoId": "eM6zXok-PK3qrKCy_qAPFA",
         "category": "privato",
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -2515,7 +2009,7 @@
         "zona": "5",
         "panoId": null,
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -2538,7 +2032,7 @@
         "zona": "5",
         "panoId": "Zc4bcqfmC_lH8MuMnZJ1DA",
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -2561,7 +2055,7 @@
         "zona": "5",
         "panoId": "RgZbQGkeJlkyUEKxLUE2dA",
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -2584,7 +2078,7 @@
         "zona": "5",
         "panoId": "OM6dX5YYejc5YPIaThVEYQ",
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -2607,7 +2101,7 @@
         "zona": "5",
         "panoId": "FkYclA6njSV9X5ACwlK-iA",
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -2630,33 +2124,7 @@
         "zona": "5",
         "panoId": "sJWX3Z2Dgy791mlnx-025w",
         "category": "rurale",
-        "focus": false,
-        "timemachine": [
-          {
-            "date": "Jun 2008",
-            "panoid": "FLrOrFmtnX-P9zeuu8u1LQ"
-          },
-          {
-            "date": "Oct 2008",
-            "panoid": "rfIze2sH4NtVcEk09y4jvg"
-          },
-          {
-            "date": "Sep 2011",
-            "panoid": "AXERZEGYLrhLk5BPD8goRg"
-          },
-          {
-            "date": "Oct 2011",
-            "panoid": "w2uzf9m-ochV0HENUoOLgQ"
-          },
-          {
-            "date": "May 2014",
-            "panoid": "jHgAZubb2_ulsgihCepdGA"
-          },
-          {
-            "date": "May 2015",
-            "panoid": "sJWX3Z2Dgy791mlnx-025w"
-          }
-        ]
+        "focus":false
       }
     },
     {
@@ -2679,7 +2147,7 @@
         "zona": "6",
         "panoId": "nCCj2tgJoRVxJ5D55QQTXA",
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -2702,7 +2170,7 @@
         "zona": "6",
         "panoId": null,
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -2725,7 +2193,7 @@
         "zona": "7",
         "panoId": "XCMj3UJA8v242EhJrWJ1UQ",
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -2748,37 +2216,7 @@
         "zona": "7",
         "panoId": "fwI1Nn3Iola_C6GmCXY7LA",
         "category": "privato",
-        "focus": false,
-        "timemachine": [
-          {
-            "date": "May 2008",
-            "panoid": "ODUX7wNIEkR2UTRdbr1bCA"
-          },
-          {
-            "date": "Nov 2008",
-            "panoid": "D7eSpwr9p1OCx43uD11_-A"
-          },
-          {
-            "date": "Sep 2010",
-            "panoid": "bRFhAjcOEf55AT7HQ_Shew"
-          },
-          {
-            "date": "May 2012",
-            "panoid": "6J8OB1XkAs5u1RwaRiRT3A"
-          },
-          {
-            "date": "May 2014",
-            "panoid": "xu5KHfamXX_NqwQvXG-CpA"
-          },
-          {
-            "date": "May 2015",
-            "panoid": "fwI1Nn3Iola_C6GmCXY7LA"
-          },
-          {
-            "date": "May 2015",
-            "panoid": "S6yJkA_UM3YFc2KbjcUdTQ"
-          }
-        ]
+        "focus":false
       }
     },
     {
@@ -2801,7 +2239,7 @@
         "zona": "8",
         "panoId": "jk_2EgPrcD1nXqALAcVC2g",
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -2824,33 +2262,7 @@
         "zona": "8",
         "panoId": "8ubO7xej6Kw3sk_bjcJIFA",
         "category": "pubblico",
-        "focus": false,
-        "timemachine": [
-          {
-            "date": "Apr 2008",
-            "panoid": "9_a0NP86tqaU7sKS4nyrgA"
-          },
-          {
-            "date": "May 2012",
-            "panoid": "im4XAcQV5IScYoiH03zvVA"
-          },
-          {
-            "date": "May 2014",
-            "panoid": "L3aA-Z6a5p0dQ4smmttwoA"
-          },
-          {
-            "date": "Aug 2014",
-            "panoid": "BlRGqV5gmYhY4EEk1YLmvQ"
-          },
-          {
-            "date": "Jun 2015",
-            "panoid": "mBO-TQ7vCRklY55EfR0clw"
-          },
-          {
-            "date": "Jun 2016",
-            "panoid": "8ubO7xej6Kw3sk_bjcJIFA"
-          }
-        ]
+        "focus":false
       }
     },
     {
@@ -2873,7 +2285,7 @@
         "zona": "8",
         "panoId": "twZ8BgdDNd6uzSWTp7w4Lg",
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -2896,41 +2308,7 @@
         "zona": "8",
         "panoId": "Ky6fSgMCOWFC-R-NGef31Q",
         "category": "rurale",
-        "focus": false,
-        "timemachine": [
-          {
-            "date": "Apr 2008",
-            "panoid": "CjdfejBaqzYMwYQKo8VQEg"
-          },
-          {
-            "date": "Nov 2008",
-            "panoid": "yBrEv7x97NQiUn8wF7GIVA"
-          },
-          {
-            "date": "Sep 2010",
-            "panoid": "Cn3FFJEleY2iby2MdfNSoA"
-          },
-          {
-            "date": "May 2012",
-            "panoid": "IR07fgKH3SOTwQl2VIBZRg"
-          },
-          {
-            "date": "May 2014",
-            "panoid": "EnGXjunG4UFNhWnp_b2AGA"
-          },
-          {
-            "date": "Apr 2015",
-            "panoid": "_D1Ce2uMVJE9dn435rfSYw"
-          },
-          {
-            "date": "Sep 2015",
-            "panoid": "-HAuVom7sU1SlybEFiBrtQ"
-          },
-          {
-            "date": "May 2016",
-            "panoid": "Ky6fSgMCOWFC-R-NGef31Q"
-          }
-        ]
+        "focus":false
       }
     },
     {
@@ -2953,7 +2331,7 @@
         "zona": "8",
         "panoId": null,
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -2976,7 +2354,7 @@
         "zona": "8",
         "panoId": "D0hQWEBQUnBe-k24wEfl9Q",
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -2999,25 +2377,7 @@
         "zona": "8",
         "panoId": "fnV157PVUCmqvJQPYdqAkA",
         "category": "privato",
-        "focus": false,
-        "timemachine": [
-          {
-            "date": "Sep 2010",
-            "panoid": "C6IqjQSwp5rOQyrQI905uQ"
-          },
-          {
-            "date": "May 2012",
-            "panoid": "1sslTSSX5vTO6eglUuaMTQ"
-          },
-          {
-            "date": "Jun 2014",
-            "panoid": "IvDWpgJSpdMX2hvQeESmHw"
-          },
-          {
-            "date": "Jun 2016",
-            "panoid": "fnV157PVUCmqvJQPYdqAkA"
-          }
-        ]
+        "focus":false
       }
     },
     {
@@ -3040,29 +2400,7 @@
         "zona": "8",
         "panoId": "RYPWxvJ-J4RwFat7SPxEWA",
         "category": "area_dismessa",
-        "focus": false,
-        "timemachine": [
-          {
-            "date": "Apr 2008",
-            "panoid": "gPF-AKhRMQc1Sx86NCElig"
-          },
-          {
-            "date": "May 2012",
-            "panoid": "hdPQYoyK8ugBJisUqMCerg"
-          },
-          {
-            "date": "May 2014",
-            "panoid": "VmUB5gjx3DM7GWe1xIEoZA"
-          },
-          {
-            "date": "Jun 2015",
-            "panoid": "o8ZTMVUOHGtR93EVN-rg5Q"
-          },
-          {
-            "date": "May 2016",
-            "panoid": "RYPWxvJ-J4RwFat7SPxEWA"
-          }
-        ]
+        "focus":false
       }
     },
     {
@@ -3085,7 +2423,7 @@
         "zona": "9",
         "panoId": null,
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -3108,7 +2446,7 @@
         "zona": "9",
         "panoId": "B5z2ujtT8pAusOV2bJQPsw",
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -3131,25 +2469,7 @@
         "zona": "9",
         "panoId": "XmShdk-xKUpec8DpjBrD6g",
         "category": "pubblico",
-        "focus": false,
-        "timemachine": [
-          {
-            "date": "May 2012",
-            "panoid": "EjF1BV2hWrXr03LJsl1feA"
-          },
-          {
-            "date": "May 2014",
-            "panoid": "m8ZTPlqkfaVjGFYLkwmAIw"
-          },
-          {
-            "date": "Aug 2014",
-            "panoid": "oeH3WuO9-0FgegQ2pP9KNw"
-          },
-          {
-            "date": "Jun 2015",
-            "panoid": "XmShdk-xKUpec8DpjBrD6g"
-          }
-        ]
+        "focus":false
       }
     },
     {
@@ -3172,7 +2492,7 @@
         "zona": "9",
         "panoId": "bjDMvm1oy6U4yq1iA_9C-w",
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -3195,37 +2515,7 @@
         "zona": "9",
         "panoId": "YYdF3tj47xOzRVBvJyCNfg",
         "category": "privato",
-        "focus": false,
-        "timemachine": [
-          {
-            "date": "Apr 2008",
-            "panoid": "FDKWgYA9c7lpJF3LoIzdHw"
-          },
-          {
-            "date": "May 2012",
-            "panoid": "vFMgsV40e2LS1PssZN4RBA"
-          },
-          {
-            "date": "May 2014",
-            "panoid": "Ql8ZCyzMFJANEUPtmrSRTA"
-          },
-          {
-            "date": "Aug 2014",
-            "panoid": "R_83LBCfAmcTAKZfdCg2Aw"
-          },
-          {
-            "date": "May 2015",
-            "panoid": "WhIolYfUcf-I5n7PBEAOcA"
-          },
-          {
-            "date": "Jul 2015",
-            "panoid": "3-gEz12vkQGNNagRI6m16A"
-          },
-          {
-            "date": "Jun 2016",
-            "panoid": "YYdF3tj47xOzRVBvJyCNfg"
-          }
-        ]
+        "focus":false
       }
     },
     {
@@ -3248,7 +2538,7 @@
         "zona": "9",
         "panoId": "heYL5GzBXxvhf2dhcBgreQ",
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -3271,7 +2561,7 @@
         "zona": "9",
         "panoId": "hYb4WIsSu8jS1FBmoHOkig",
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -3294,7 +2584,7 @@
         "zona": "9",
         "panoId": "FbPuGwYJ8YPOj41xaGme_A",
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -3317,7 +2607,7 @@
         "zona": "9",
         "panoId": "j0R65g-N8uvOX8phrhifmQ",
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -3340,7 +2630,7 @@
         "zona": "9",
         "panoId": "HoUFE8OSfUhemQsG_KIVpA",
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -3363,7 +2653,7 @@
         "zona": "9",
         "panoId": "9U0wfjrfaeFkf103A0QflA",
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -3386,7 +2676,7 @@
         "zona": "9",
         "panoId": "1taqedtMiID3bJcYdxeVog",
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -3409,7 +2699,7 @@
         "zona": "9",
         "panoId": "qX6a00GnjPD18oGgwRyHbg",
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -3432,7 +2722,7 @@
         "zona": "9",
         "panoId": "glNJKsGK3To1Lw28meAgtw",
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -3455,7 +2745,7 @@
         "zona": "9",
         "panoId": "DUa145fa8vkK6fn764LIqg",
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -3478,7 +2768,7 @@
         "zona": "8",
         "panoId": "cR_sCed4R12A3jUD6jmT2w",
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -3501,33 +2791,7 @@
         "zona": "3",
         "panoId": "ge72ervHryaW3PnsfAdXsg",
         "category": "area_dismessa",
-        "focus": false,
-        "timemachine": [
-          {
-            "date": "Jun 2008",
-            "panoid": "MoDW-fRoUAF2hF8Np4fmSA"
-          },
-          {
-            "date": "Sep 2010",
-            "panoid": "bD1IQBwJ6i8LWYKTRkbVcw"
-          },
-          {
-            "date": "May 2012",
-            "panoid": "Vz22445YjPsAD6SvFV9_Mg"
-          },
-          {
-            "date": "Jun 2014",
-            "panoid": "RuPsVSHsLjY8GWDvNE2yaw"
-          },
-          {
-            "date": "May 2015",
-            "panoid": "ge72ervHryaW3PnsfAdXsg"
-          },
-          {
-            "date": "May 2015",
-            "panoid": "CiRPL2rH-FFBJkjtIMp17g"
-          }
-        ]
+        "focus":false
       }
     },
     {
@@ -3550,13 +2814,7 @@
         "zona": "9",
         "panoId": "awxwGFSlhbh-4wfmJUskmw",
         "category": "area_dismessa",
-        "focus": false,
-        "timemachine": [
-          {
-            "date": "Apr 2008",
-            "panoid": "uu6igci1X0NvilQS_DW8Sg"
-          }
-        ]
+        "focus":false
       }
     },
     {
@@ -3579,29 +2837,7 @@
         "zona": "5",
         "panoId": "n1WSENwNAmvArYe_L7qMjQ",
         "category": "area_dismessa",
-        "focus": false,
-        "timemachine": [
-          {
-            "date": "Oct 2008",
-            "panoid": "KeWmgwYkdPtcY0pOPKLB9w"
-          },
-          {
-            "date": "May 2012",
-            "panoid": "rSEYoCOjqKh50CXBTygl2A"
-          },
-          {
-            "date": "May 2014",
-            "panoid": "bCaseFa56Y0hdnO89fitlg"
-          },
-          {
-            "date": "Aug 2014",
-            "panoid": "720BtcH99xtt7Kvij1kZ7w"
-          },
-          {
-            "date": "May 2015",
-            "panoid": "n1WSENwNAmvArYe_L7qMjQ"
-          }
-        ]
+        "focus":false
       }
     },
     {
@@ -3624,7 +2860,7 @@
         "zona": "5",
         "panoId": "7MbkJ_UG6A_QS1zdlPf9yw",
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -3647,7 +2883,7 @@
         "zona": "5",
         "panoId": "53XXO9yuteZ797Zvh8mm4g",
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -3670,7 +2906,7 @@
         "zona": "5",
         "panoId": "TNxi1RqxFFV8DzHD5tt73g",
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -3693,37 +2929,7 @@
         "zona": "5",
         "panoId": "NlGw_jRYrKVnDvcYvPhxGg",
         "category": "area_dismessa",
-        "focus": false,
-        "timemachine": [
-          {
-            "date": "Oct 2008",
-            "panoid": "h_0_psgSMKukgDvC3FJduw"
-          },
-          {
-            "date": "Sep 2010",
-            "panoid": "wcag20cKisXvCGYEjU6vwQ"
-          },
-          {
-            "date": "May 2012",
-            "panoid": "jh8wsONTofTADfuzfR7a9g"
-          },
-          {
-            "date": "May 2014",
-            "panoid": "I2hDjVuGob_Q8EI3Ip-y4g"
-          },
-          {
-            "date": "Aug 2014",
-            "panoid": "u_wfQWFV6yi58ZwcGSL6Tw"
-          },
-          {
-            "date": "Jun 2015",
-            "panoid": "Aaj1tP5819oJ5LNVsdCD2Q"
-          },
-          {
-            "date": "May 2016",
-            "panoid": "NlGw_jRYrKVnDvcYvPhxGg"
-          }
-        ]
+        "focus":false
       }
     },
     {
@@ -3746,7 +2952,7 @@
         "zona": "5",
         "panoId": "lvviD3WUc2vJMCknSIzsLg",
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -3769,7 +2975,7 @@
         "zona": "5",
         "panoId": "5W6UlKZvi0s-2G8rxHSabQ",
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -3792,7 +2998,7 @@
         "zona": "7",
         "panoId": "XkyPLzfTOFDIoo7Ryw9oBg",
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -3815,7 +3021,7 @@
         "zona": "8",
         "panoId": "uChJ2vhc3F4yLSrNXg6Z9g",
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -3838,7 +3044,7 @@
         "zona": "8",
         "panoId": "k1wArjTn7NFlONZkCRLrsA",
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -3861,7 +3067,7 @@
         "zona": "8",
         "panoId": null,
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -3884,33 +3090,7 @@
         "zona": "4",
         "panoId": "XUmdvd6ymlEvguwx02JXdQ",
         "category": "pubblico",
-        "focus": false,
-        "timemachine": [
-          {
-            "date": "Apr 2008",
-            "panoid": "mYxTmttPZg-t2Gqaq0gauA"
-          },
-          {
-            "date": "Oct 2008",
-            "panoid": "BBUkHqFcRyMGvs2bq3pz2Q"
-          },
-          {
-            "date": "May 2012",
-            "panoid": "dZ2Saekej7BCXDTmd_e4Pg"
-          },
-          {
-            "date": "Jun 2014",
-            "panoid": "Ca32a0U0lXfWhSBpzGvmJw"
-          },
-          {
-            "date": "May 2015",
-            "panoid": "iUs5YgI0RtoRGPEwZsUOvQ"
-          },
-          {
-            "date": "May 2016",
-            "panoid": "XUmdvd6ymlEvguwx02JXdQ"
-          }
-        ]
+        "focus":false
       }
     },
     {
@@ -3933,7 +3113,7 @@
         "zona": "8",
         "panoId": "y2g-yN07Q6_a73NZxHKwKQ",
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -3956,7 +3136,7 @@
         "zona": "8",
         "panoId": "U9XKolCnuBmGdrZEKlL2sA",
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -3979,17 +3159,7 @@
         "zona": "8",
         "panoId": "IwiBdnhmboH6El1_8wtEBQ",
         "category": null,
-        "focus": false,
-        "timemachine": [
-          {
-            "date": "Jun 2014",
-            "panoid": "ndIeKvv9qxI0iRZ8TybRzQ"
-          },
-          {
-            "date": "Jul 2015",
-            "panoid": "IwiBdnhmboH6El1_8wtEBQ"
-          }
-        ]
+        "focus":false
       }
     },
     {
@@ -4012,29 +3182,7 @@
         "zona": "8",
         "panoId": "nwV9Dqmrmd3Hudh2DWAvXg",
         "category": "area_dismessa",
-        "focus": false,
-        "timemachine": [
-          {
-            "date": "May 2012",
-            "panoid": "738MX_KnSfbeakwRa125RQ"
-          },
-          {
-            "date": "May 2014",
-            "panoid": "waoqeydX7Z_BsJt9G3ouiw"
-          },
-          {
-            "date": "Aug 2014",
-            "panoid": "6Y6YJTswh9L7lyEg3CN6Og"
-          },
-          {
-            "date": "Jun 2015",
-            "panoid": "mCNFuBk7BSXx6exDrvGrSw"
-          },
-          {
-            "date": "Jun 2016",
-            "panoid": "nwV9Dqmrmd3Hudh2DWAvXg"
-          }
-        ]
+        "focus":false
       }
     },
     {
@@ -4057,7 +3205,7 @@
         "zona": "8",
         "panoId": "IwiBdnhmboH6El1_8wtEBQ",
         "category": "area_dismessa",
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -4080,29 +3228,7 @@
         "zona": "8",
         "panoId": "pv07jFLPH7g8m-ac0ZP1QQ",
         "category": "area_dismessa",
-        "focus": false,
-        "timemachine": [
-          {
-            "date": "Apr 2008",
-            "panoid": "aZl-TvY6bXus77SFLYIglg"
-          },
-          {
-            "date": "May 2012",
-            "panoid": "yfK3qJI9b3cfKkjZzfUxdQ"
-          },
-          {
-            "date": "Jun 2014",
-            "panoid": "p7dfrAXc67FsL0Iemaqn0Q"
-          },
-          {
-            "date": "Jul 2015",
-            "panoid": "Ylg5sjee6510cSOl0GItLw"
-          },
-          {
-            "date": "Jun 2016",
-            "panoid": "pv07jFLPH7g8m-ac0ZP1QQ"
-          }
-        ]
+        "focus":false
       }
     },
     {
@@ -4125,17 +3251,7 @@
         "zona": "8",
         "panoId": "b-Bvwnifi69NBjBS9v2qFA",
         "category": "area_dismessa",
-        "focus": false,
-        "timemachine": [
-          {
-            "date": "Jun 2014",
-            "panoid": "ktLn-oXReMIKYNpfY7nusw"
-          },
-          {
-            "date": "Jul 2015",
-            "panoid": "b-Bvwnifi69NBjBS9v2qFA"
-          }
-        ]
+        "focus":false
       }
     },
     {
@@ -4158,7 +3274,7 @@
         "zona": "8",
         "panoId": "Vj2pzT_4y1O-ET317ia5rg",
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -4181,13 +3297,7 @@
         "zona": "8",
         "panoId": "XK1uaoq_Keyi9mM_8ELvyw",
         "category": "area_dismessa",
-        "focus": false,
-        "timemachine": [
-          {
-            "date": "Jun 2014",
-            "panoid": "OzBT4RJyP8Hud4LOdDWjmw"
-          }
-        ]
+        "focus":false
       }
     },
     {
@@ -4210,33 +3320,7 @@
         "zona": "3",
         "panoId": "mNB3JY8sRQlbr40CAlyIyw",
         "category": "privato",
-        "focus": false,
-        "timemachine": [
-          {
-            "date": "Apr 2008",
-            "panoid": "LJYuNs8MwmrEFzL1hEzGbg"
-          },
-          {
-            "date": "May 2012",
-            "panoid": "ckwI2R83dLc9pOiyKA8Gdw"
-          },
-          {
-            "date": "May 2014",
-            "panoid": "ukzHH7_JXCxsDXhfX6AUng"
-          },
-          {
-            "date": "Jul 2014",
-            "panoid": "Q5PAvMsMWPe5hSYEwc3JLw"
-          },
-          {
-            "date": "Jun 2015",
-            "panoid": "mNB3JY8sRQlbr40CAlyIyw"
-          },
-          {
-            "date": "Jun 2015",
-            "panoid": "ElXAzJDbZuMEKdJfPb9NfA"
-          }
-        ]
+        "focus":false
       }
     },
     {
@@ -4259,25 +3343,7 @@
         "zona": "3",
         "panoId": "U7fnws-n9KKqb1XHl6pV1w",
         "category": "privato",
-        "focus": false,
-        "timemachine": [
-          {
-            "date": "May 2012",
-            "panoid": "ndLOlgMS2hCqQ6JAZHf7ag"
-          },
-          {
-            "date": "Jul 2014",
-            "panoid": "en7-lQK8ExWnz9bgVL9A-Q"
-          },
-          {
-            "date": "Jun 2015",
-            "panoid": "U7fnws-n9KKqb1XHl6pV1w"
-          },
-          {
-            "date": "Jun 2015",
-            "panoid": "uBkVTgGeFck_nPNyZl-pyg"
-          }
-        ]
+        "focus":false
       }
     },
     {
@@ -4300,7 +3366,7 @@
         "zona": "9",
         "panoId": "Ti5E_X17KqrJJ4N9UQ3NTQ",
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -4323,73 +3389,7 @@
         "zona": "5",
         "panoId": "-oJ-Gu0wBQOLIDtULPay8Q",
         "category": "rurale",
-        "focus": false,
-        "timemachine": [
-          {
-            "date": "Jun 2008",
-            "panoid": "dII5Oq_ab_rG7vUNSkBPzw"
-          },
-          {
-            "date": "Oct 2008",
-            "panoid": "povK3A8v0uUOCLRHhtvtow"
-          },
-          {
-            "date": "Sep 2010",
-            "panoid": "JCBcSEZGJG_jPaaJZhgw-Q"
-          },
-          {
-            "date": "Sep 2011",
-            "panoid": "a2rF90Cbf6bccwkQPvf5cw"
-          },
-          {
-            "date": "Oct 2011",
-            "panoid": "qdiQaLLkovNr8ikHE2E7YA"
-          },
-          {
-            "date": "May 2012",
-            "panoid": "aKrYsYc5JqKkqDjRKrzf4w"
-          },
-          {
-            "date": "May 2015",
-            "panoid": "NrjMGPbWsFr58ICen9i0Jw"
-          },
-          {
-            "date": "Apr 2016",
-            "panoid": "-oJ-Gu0wBQOLIDtULPay8Q"
-          },
-          {
-            "date": "Jun 2008",
-            "panoid": "dII5Oq_ab_rG7vUNSkBPzw"
-          },
-          {
-            "date": "Oct 2008",
-            "panoid": "povK3A8v0uUOCLRHhtvtow"
-          },
-          {
-            "date": "Sep 2010",
-            "panoid": "JCBcSEZGJG_jPaaJZhgw-Q"
-          },
-          {
-            "date": "Sep 2011",
-            "panoid": "a2rF90Cbf6bccwkQPvf5cw"
-          },
-          {
-            "date": "Oct 2011",
-            "panoid": "qdiQaLLkovNr8ikHE2E7YA"
-          },
-          {
-            "date": "May 2012",
-            "panoid": "aKrYsYc5JqKkqDjRKrzf4w"
-          },
-          {
-            "date": "May 2015",
-            "panoid": "NrjMGPbWsFr58ICen9i0Jw"
-          },
-          {
-            "date": "Apr 2016",
-            "panoid": "-oJ-Gu0wBQOLIDtULPay8Q"
-          }
-        ]
+        "focus":false
       }
     },
     {
@@ -4412,7 +3412,7 @@
         "zona": "9",
         "panoId": "RtNrTtsCd-puQ-a9goVd6g",
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -4435,7 +3435,7 @@
         "zona": "9",
         "panoId": "EZobY5SB8wM5osF9UIN9gA",
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -4458,7 +3458,7 @@
         "zona": "9",
         "panoId": "D5Npy1U2kI8u8t1YAOhE1g",
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -4481,7 +3481,7 @@
         "zona": "8",
         "panoId": "Evv9xwLSg6mv3O67v7kPkA",
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -4504,25 +3504,7 @@
         "zona": "8",
         "panoId": "Tr-Oqa2dS3xVebt7BzHIjg",
         "category": "privato",
-        "focus": false,
-        "timemachine": [
-          {
-            "date": "May 2012",
-            "panoid": "ap3CmO-uAOdW_dVVV7smTA"
-          },
-          {
-            "date": "Jun 2014",
-            "panoid": "TGgYmgXR3ZCsEX233jkI5A"
-          },
-          {
-            "date": "Jul 2015",
-            "panoid": "_tZFlDGjWTGvJjZ2CpZIsQ"
-          },
-          {
-            "date": "Jun 2016",
-            "panoid": "Tr-Oqa2dS3xVebt7BzHIjg"
-          }
-        ]
+        "focus":false
       }
     },
     {
@@ -4545,7 +3527,7 @@
         "zona": "7",
         "panoId": "RCmPVMpw9VrKQbt3uPFa8g",
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -4568,33 +3550,7 @@
         "zona": "5",
         "panoId": "CcthIkeRE1BGxzJiVEc_cg",
         "category": "privato",
-        "focus": false,
-        "timemachine": [
-          {
-            "date": "Oct 2008",
-            "panoid": "GMIHJgqLFtNeUbxKRwJ0mw"
-          },
-          {
-            "date": "Sep 2010",
-            "panoid": "b8-nJFSZ3cwlcWCBuzuujw"
-          },
-          {
-            "date": "May 2012",
-            "panoid": "Oz6tl7HTzmQ93DB4jumQSw"
-          },
-          {
-            "date": "May 2014",
-            "panoid": "_S6xPCHFq3y2RxMm3B2Bng"
-          },
-          {
-            "date": "May 2015",
-            "panoid": "3PTptdw5uC9oZnOLI-tcOg"
-          },
-          {
-            "date": "Jun 2016",
-            "panoid": "CcthIkeRE1BGxzJiVEc_cg"
-          }
-        ]
+        "focus":false
       }
     },
     {
@@ -4638,17 +3594,7 @@
         "zona": "6",
         "panoId": "e-jCl4hi1GPMisvrsQTpzQ",
         "category": "area_dismessa",
-        "focus": false,
-        "timemachine": [
-          {
-            "date": "Sep 2010",
-            "panoid": "KPhVmGBJFmcQFDNpo1tQLQ"
-          },
-          {
-            "date": "May 2014",
-            "panoid": "e-jCl4hi1GPMisvrsQTpzQ"
-          }
-        ]
+        "focus":false
       }
     },
     {
@@ -4671,7 +3617,7 @@
         "zona": "6",
         "panoId": "OpLVobfp_FZYLcGoRRW3-g",
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -4694,7 +3640,7 @@
         "zona": "8",
         "panoId": "OX4WMgPBEh2SGsqIoBx7cQ",
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -4717,7 +3663,7 @@
         "zona": "6",
         "panoId": "0AeqWZ2GOiHXp5a_qejSYA",
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -4740,7 +3686,7 @@
         "zona": "8",
         "panoId": "wK4u3l_oIo1SI4x4bD3a2A",
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -4763,7 +3709,7 @@
         "zona": "9",
         "panoId": "XcU8w8cuNVJR5l7OVEIdRw",
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -4786,25 +3732,7 @@
         "zona": "9",
         "panoId": "LRxjkZ99MFIdjQGWilrGVw",
         "category": "area_dismessa",
-        "focus": false,
-        "timemachine": [
-          {
-            "date": "Apr 2008",
-            "panoid": "AmZEWtmXboettm5EwZt4dg"
-          },
-          {
-            "date": "May 2012",
-            "panoid": "tY663DluTokJ6cG5FaAhmA"
-          },
-          {
-            "date": "Jun 2014",
-            "panoid": "yg-VW86gTaH7xMj9aS-lrQ"
-          },
-          {
-            "date": "Jun 2015",
-            "panoid": "LRxjkZ99MFIdjQGWilrGVw"
-          }
-        ]
+        "focus":false
       }
     },
     {
@@ -4827,7 +3755,7 @@
         "zona": "9",
         "panoId": "LJ-hkMC5sdGAR_nrV-019A",
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -4850,25 +3778,7 @@
         "zona": "5",
         "panoId": "bFl_UVj5oPOwE1g_rHyQiQ",
         "category": "rurale",
-        "focus": false,
-        "timemachine": [
-          {
-            "date": "Oct 2008",
-            "panoid": "kZc3cmhGwi7QZkFdBn1Fsw"
-          },
-          {
-            "date": "Sep 2010",
-            "panoid": "rXtksaugpX3JHqKUoau5dg"
-          },
-          {
-            "date": "Sep 2011",
-            "panoid": "bFl_UVj5oPOwE1g_rHyQiQ"
-          },
-          {
-            "date": "Sep 2011",
-            "panoid": "IT7Nin5YZu98bIwJaJS9og"
-          }
-        ]
+        "focus":false
       }
     },
     {
@@ -4891,7 +3801,7 @@
         "zona": "1",
         "panoId": "OYnqYCo6DKzOnM8XNrBnaA",
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -4914,7 +3824,7 @@
         "zona": "5",
         "panoId": "-oJ-Gu0wBQOLIDtULPay8Q",
         "category": "rurale",
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -4937,33 +3847,7 @@
         "zona": "5",
         "panoId": "PoYlqiZXU34pyu1Hur7jDw",
         "category": "privato",
-        "focus": false,
-        "timemachine": [
-          {
-            "date": "Apr 2008",
-            "panoid": "-pRPn_V1kl1Hge-_JMo7ug"
-          },
-          {
-            "date": "May 2012",
-            "panoid": "-N13BvqHLCkYntCy7-Ldeg"
-          },
-          {
-            "date": "May 2014",
-            "panoid": "ZyVwJf2DcNonzPH_ZGUHGQ"
-          },
-          {
-            "date": "Aug 2014",
-            "panoid": "f4bMdzNIH4rCtq0vv7dT1Q"
-          },
-          {
-            "date": "May 2015",
-            "panoid": "X6uW6J-hAGtPOiK0wBwS2g"
-          },
-          {
-            "date": "Jun 2016",
-            "panoid": "PoYlqiZXU34pyu1Hur7jDw"
-          }
-        ]
+        "focus":false
       }
     },
     {
@@ -4986,7 +3870,7 @@
         "zona": "5",
         "panoId": "oHGuWUEnXl_jpa5WJjShzw",
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -5009,7 +3893,7 @@
         "zona": "5",
         "panoId": "Oit4saAURXMURrcD7NZXLA",
         "category": "rurale",
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -5032,7 +3916,7 @@
         "zona": "2",
         "panoId": null,
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -5055,7 +3939,7 @@
         "zona": "7",
         "panoId": "TMSMv5Gv4557ytgv2y_dOg",
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -5078,7 +3962,7 @@
         "zona": "7",
         "panoId": "JLvVxLoRo8-7Ty9rKhNjFg",
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -5101,33 +3985,7 @@
         "zona": "6",
         "panoId": "8WPNoio9rzIe8qH6ADjzmQ",
         "category": "area_dismessa",
-        "focus": false,
-        "timemachine": [
-          {
-            "date": "Apr 2008",
-            "panoid": "KqpTdetIUthekGsABDBSiQ"
-          },
-          {
-            "date": "May 2012",
-            "panoid": "Z2dckbBOyIvAEaCTRu_51Q"
-          },
-          {
-            "date": "May 2014",
-            "panoid": "me4hK2vQLm2d7GbA6YQV9A"
-          },
-          {
-            "date": "Aug 2014",
-            "panoid": "Cuqies47LwTZB0PsUl8xmg"
-          },
-          {
-            "date": "May 2015",
-            "panoid": "H3-3TyEQMe_dFR1Ew_qoTQ"
-          },
-          {
-            "date": "May 2016",
-            "panoid": "8WPNoio9rzIe8qH6ADjzmQ"
-          }
-        ]
+        "focus":false
       }
     },
     {
@@ -5150,7 +4008,7 @@
         "zona": "6",
         "panoId": "LdY8l3gJPcvWc2J7Rey9fA",
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -5173,7 +4031,7 @@
         "zona": "9",
         "panoId": "x4qQjis4shhqoT-SG_SsDQ",
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -5196,25 +4054,7 @@
         "zona": "8",
         "panoId": "wgQsXCRKUhRqmok9ht0gjQ",
         "category": "rurale",
-        "focus": false,
-        "timemachine": [
-          {
-            "date": "Nov 2008",
-            "panoid": "nj5TKnvLk3IreexvRi1EoQ"
-          },
-          {
-            "date": "May 2014",
-            "panoid": "XRr8hxd1zUGDtaBiF-LJ2w"
-          },
-          {
-            "date": "Apr 2015",
-            "panoid": "GXY7nItAz8Fm1V1JAVrzIQ"
-          },
-          {
-            "date": "May 2016",
-            "panoid": "wgQsXCRKUhRqmok9ht0gjQ"
-          }
-        ]
+        "focus":false
       }
     },
     {
@@ -5237,7 +4077,7 @@
         "zona": "8",
         "panoId": "0lZCQ1Ei2Pa2Cmpt3hZa5g",
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -5260,7 +4100,7 @@
         "zona": "9",
         "panoId": null,
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -5283,7 +4123,7 @@
         "zona": "4",
         "panoId": "Yd4LbN3gJNiNy4ikaHScWg",
         "category": null,
-        "focus": false
+        "focus":false
       }
     },
     {
@@ -5306,25 +4146,7 @@
         "zona": "2",
         "panoId": "ejqQjLkOkRDANdukLjul2g",
         "category": "privata",
-        "focus": false,
-        "timemachine": [
-          {
-            "date": "Apr 2008",
-            "panoid": "7LC3CG7Vu02LqlTYYqVzyg"
-          },
-          {
-            "date": "May 2012",
-            "panoid": "j0lDAzjlZ6ijtaceSmWwSQ"
-          },
-          {
-            "date": "Jul 2014",
-            "panoid": "1e74tmE_vh2c_PKvkX0PRQ"
-          },
-          {
-            "date": "Jun 2015",
-            "panoid": "ejqQjLkOkRDANdukLjul2g"
-          }
-        ]
+        "focus":false
       }
     },
     {
@@ -5347,33 +4169,7 @@
         "zona": "9",
         "panoId": "gqbvYjk2XHncHG3at5V3Eg",
         "category": "scalo",
-        "focus": false,
-        "timemachine": [
-          {
-            "date": "Apr 2008",
-            "panoid": "w4IOVR8AfiC7fTErxcuZ6g"
-          },
-          {
-            "date": "May 2012",
-            "panoid": "RPFbqbShJZJD7Z95XZllyA"
-          },
-          {
-            "date": "May 2014",
-            "panoid": "yLnnXcgs0J-Tctjls25mNg"
-          },
-          {
-            "date": "Aug 2014",
-            "panoid": "fAOnrGas7LtZJaeu9mwjlg"
-          },
-          {
-            "date": "Jun 2015",
-            "panoid": "6BpHyhiDLHxF5Dp3b3N44Q"
-          },
-          {
-            "date": "Jun 2016",
-            "panoid": "gqbvYjk2XHncHG3at5V3Eg"
-          }
-        ]
+        "focus":false
       }
     },
     {
@@ -5396,29 +4192,7 @@
         "zona": "10",
         "panoId": "HlaYwIXYOi6x_JkNcTUDPg",
         "category": "scalo",
-        "focus": false,
-        "timemachine": [
-          {
-            "date": "Jun 2008",
-            "panoid": "CfAGG0DODM-4B7lZe1-p6g"
-          },
-          {
-            "date": "May 2012",
-            "panoid": "G6uE-lFJHBKPWeIDJiATtw"
-          },
-          {
-            "date": "Jun 2014",
-            "panoid": "mY8D6DrUwAvEYYKqVmjhfw"
-          },
-          {
-            "date": "Jun 2015",
-            "panoid": "tB6_vSncor4JO65NstZUyQ"
-          },
-          {
-            "date": "Aug 2015",
-            "panoid": "HlaYwIXYOi6x_JkNcTUDPg"
-          }
-        ]
+        "focus":false
       }
     },
     {
@@ -5441,21 +4215,7 @@
         "zona": "10",
         "panoId": "4VTw4sVwVamLIZZ4LDivcQ",
         "category": "scalo",
-        "focus": false,
-        "timemachine": [
-          {
-            "date": "Apr 2008",
-            "panoid": "voUF9f25g6M26IZQBXUjOg"
-          },
-          {
-            "date": "May 2014",
-            "panoid": "f-YGKQuQBOaTtcl-XqamMQ"
-          },
-          {
-            "date": "Jun 2015",
-            "panoid": "4VTw4sVwVamLIZZ4LDivcQ"
-          }
-        ]
+        "focus":false
       }
     },
     {
@@ -5478,29 +4238,7 @@
         "zona": "10",
         "panoId": "KQgunN3d6Gr4LiOMJ5FQkA",
         "category": "scalo",
-        "focus": false,
-        "timemachine": [
-          {
-            "date": "Oct 2008",
-            "panoid": "ofdm3dQMhyrxP4XBEz6gMQ"
-          },
-          {
-            "date": "May 2012",
-            "panoid": "-1zs8F61fpAktlttcJhENQ"
-          },
-          {
-            "date": "May 2014",
-            "panoid": "8uOkAanvC9N2KB_XMN23LQ"
-          },
-          {
-            "date": "May 2015",
-            "panoid": "_kZ_so5HnXh04izeODBMEg"
-          },
-          {
-            "date": "Apr 2016",
-            "panoid": "KQgunN3d6Gr4LiOMJ5FQkA"
-          }
-        ]
+        "focus":false
       }
     },
     {
@@ -5523,41 +4261,7 @@
         "zona": "10",
         "panoId": "PAHcWseRzcWkkPyjpqD1tg",
         "category": "scalo",
-        "focus": false,
-        "timemachine": [
-          {
-            "date": "Oct 2008",
-            "panoid": "QEv08ekY5OzDJt3Tpl3_sw"
-          },
-          {
-            "date": "May 2012",
-            "panoid": "nCCqVbjiw7_5N9uWcoYy7A"
-          },
-          {
-            "date": "May 2014",
-            "panoid": "1cyGEGwO9MQ2CO1_6pCBrA"
-          },
-          {
-            "date": "Aug 2014",
-            "panoid": "YL7S1RWiWcFcqr6mRPqzyA"
-          },
-          {
-            "date": "May 2015",
-            "panoid": "qla5vhXUe8j0iksxz6NgtA"
-          },
-          {
-            "date": "Aug 2015",
-            "panoid": "o2iVm3jNmsvB24uBuyha_Q"
-          },
-          {
-            "date": "May 2016",
-            "panoid": "enDuXo3Vt2HJ2MRGowPn_Q"
-          },
-          {
-            "date": "Jul 2016",
-            "panoid": "PAHcWseRzcWkkPyjpqD1tg"
-          }
-        ]
+        "focus":false
       }
     },
     {
@@ -5580,25 +4284,7 @@
         "zona": "10",
         "panoId": "viQMJfuyK-IDTsHQJGJlbg",
         "category": "scalo",
-        "focus": false,
-        "timemachine": [
-          {
-            "date": "May 2014",
-            "panoid": "Fb7eG4h8xqNNPBY0-em8pw"
-          },
-          {
-            "date": "Aug 2014",
-            "panoid": "NQ6-o8nD-Im4pv7f9sIfpQ"
-          },
-          {
-            "date": "Jun 2015",
-            "panoid": "lEIBZWGujNAkctWBD5SzaQ"
-          },
-          {
-            "date": "Jun 2016",
-            "panoid": "viQMJfuyK-IDTsHQJGJlbg"
-          }
-        ]
+        "focus":false
       }
     },
     {
@@ -5621,33 +4307,7 @@
         "zona": "10",
         "panoId": "XmUxzPeUHpFDrfcm_jafCQ",
         "category": "scalo",
-        "focus": false,
-        "timemachine": [
-          {
-            "date": "Apr 2008",
-            "panoid": "XuldAEEwwJJQXUNG-bn20Q"
-          },
-          {
-            "date": "Sep 2010",
-            "panoid": "QhBLFBox0IdUzX_zY8B3rw"
-          },
-          {
-            "date": "May 2012",
-            "panoid": "BX7OPhOm8CFSY8W9-EjLlA"
-          },
-          {
-            "date": "May 2014",
-            "panoid": "FwJcu2z_u5C76JABRdJGew"
-          },
-          {
-            "date": "Sep 2014",
-            "panoid": "FyYcRvoLE8l6XqFiiiLt2A"
-          },
-          {
-            "date": "May 2015",
-            "panoid": "XmUxzPeUHpFDrfcm_jafCQ"
-          }
-        ]
+        "focus":false
       }
     },
     {
@@ -5670,41 +4330,7 @@
         "zona": "10",
         "panoId": "yP4gyO61M1wskEanaty3fg",
         "category": "caserma",
-        "focus": false,
-        "timemachine": [
-          {
-            "date": "Apr 2008",
-            "panoid": "R67Xffb-macPBmnf8Ebm0g"
-          },
-          {
-            "date": "Aug 2010",
-            "panoid": "C7_FfFwhg225Ht8Thjdzmw"
-          },
-          {
-            "date": "Oct 2010",
-            "panoid": "9iLThbPuLDNExXWF2-j7xw"
-          },
-          {
-            "date": "Jun 2011",
-            "panoid": "RvCzO8p-ExCh82oQiBCHOw"
-          },
-          {
-            "date": "Jul 2011",
-            "panoid": "cpQo9C4XL7OhoQpqIH3_-Q"
-          },
-          {
-            "date": "Jul 2014",
-            "panoid": "Ehezfd1aBpDq0A0iXL11pw"
-          },
-          {
-            "date": "Jun 2015",
-            "panoid": "_rwz0PzTJgC_Opi27UKN9w"
-          },
-          {
-            "date": "Aug 2015",
-            "panoid": "yP4gyO61M1wskEanaty3fg"
-          }
-        ]
+        "focus":false
       }
     },
     {
@@ -5727,25 +4353,7 @@
         "zona": "10",
         "panoId": "SLcczMzi4YeDqTGDQt2gsQ",
         "category": "caserma",
-        "focus": false,
-        "timemachine": [
-          {
-            "date": "Apr 2008",
-            "panoid": "skoOlBFs-JH-yeyQEykZOQ"
-          },
-          {
-            "date": "May 2012",
-            "panoid": "0fUvok2N0nrR0oWBjMBjUw"
-          },
-          {
-            "date": "Jun 2014",
-            "panoid": "J6cpiZYMNFqa5WK4b21VKA"
-          },
-          {
-            "date": "May 2015",
-            "panoid": "SLcczMzi4YeDqTGDQt2gsQ"
-          }
-        ]
+        "focus":false
       }
     },
     {
@@ -5768,41 +4376,7 @@
         "zona": "10",
         "panoId": "LBEuGPUq1DcbXrIv1FHSSw",
         "category": "caserma",
-        "focus": false,
-        "timemachine": [
-          {
-            "date": "Apr 2008",
-            "panoid": "5gJJ6Eq_rtoEXcLWqd7zXQ"
-          },
-          {
-            "date": "Nov 2008",
-            "panoid": "ZVIlbuAEh1o2BdAS3G4ttw"
-          },
-          {
-            "date": "Sep 2010",
-            "panoid": "1CkI2jLGo6C6mxGX-konEQ"
-          },
-          {
-            "date": "May 2012",
-            "panoid": "rker1VmP0JzuNWOvA-Lt9g"
-          },
-          {
-            "date": "Jul 2014",
-            "panoid": "OMJdZhPFI2_XxCNUSdeF8Q"
-          },
-          {
-            "date": "May 2015",
-            "panoid": "13rUR1sugaI1nt3iYZ2rog"
-          },
-          {
-            "date": "Jul 2015",
-            "panoid": "Wo4HvhTzIiSTJLXViw2TRA"
-          },
-          {
-            "date": "May 2016",
-            "panoid": "LBEuGPUq1DcbXrIv1FHSSw"
-          }
-        ]
+        "focus":false
       }
     },
     {
@@ -5825,29 +4399,7 @@
         "zona": "10",
         "panoId": "yWzHWytAQ0jl4Vw9ACqRPw",
         "category": "caserma",
-        "focus": false,
-        "timemachine": [
-          {
-            "date": "May 2012",
-            "panoid": "sBMG2njDrr3396UBtnKVkw"
-          },
-          {
-            "date": "Aug 2012",
-            "panoid": "fyeQp9ziSwXcr5X2-gKNMg"
-          },
-          {
-            "date": "Jul 2014",
-            "panoid": "PR_ajhG4zU2S5UmaSuk-GA"
-          },
-          {
-            "date": "Aug 2014",
-            "panoid": "G6UGlPcwWQZF3Bt3wtvuOQ"
-          },
-          {
-            "date": "Jun 2015",
-            "panoid": "yWzHWytAQ0jl4Vw9ACqRPw"
-          }
-        ]
+        "focus":false
       }
     },
     {
@@ -5870,29 +4422,7 @@
         "zona": "10",
         "panoId": "-ttK6Dy5BvysUDvNt6hrPQ",
         "category": "caserma",
-        "focus": false,
-        "timemachine": [
-          {
-            "date": "May 2012",
-            "panoid": "Apbf6ea5jBGeZ-HHgLu_kg"
-          },
-          {
-            "date": "May 2014",
-            "panoid": "9GsYsQWpWawUldVLUQYm2w"
-          },
-          {
-            "date": "Aug 2014",
-            "panoid": "KbgR8EO5d6JU43tYrP0zyg"
-          },
-          {
-            "date": "Jun 2015",
-            "panoid": "pyOvzOQyaJIppC7fgfg0Zw"
-          },
-          {
-            "date": "Jun 2016",
-            "panoid": "-ttK6Dy5BvysUDvNt6hrPQ"
-          }
-        ]
+        "focus":false
       }
     }
   ]

@@ -128,17 +128,14 @@
         .append("g")
         .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
-    var timelineData = [
-      {date: '2016/10', panoid: panoid}
-    ];
+    //if(place.properties.timemachine){
+      var timelineData = place.properties.timemachine;
+    // }
 
-    if(place.properties.timemachine){
-      timelineData = timelineData.concat(place.properties.timemachine)
-    }
+    var parseTime = d3.timeParse("%b %Y");
+    var formatTime = d3.timeFormat("%m/%Y")
 
-    var parseTime = d3.timeParse("%Y/%m");
-
-    var selDate = parseTime('2016/10');
+    var selDate = parseTime(timelineData[timelineData.length-1].date);
 
     timelineData.forEach(function(d){
       d.dateString = d.date;
@@ -189,19 +186,20 @@
       })
 
       chart.append("g")
-        .attr("transform", "translate(0," + chartHeight + ")")
+        .attr("transform", "translate(0," + (chartHeight-5) + ")")
         .selectAll(".date")
         .data(timelineData)
         .enter().append("text")
         .attr("class","date")
         .attr("x", function(d){return x(d.date)})
         .attr("text-anchor", "middle")
-        .text(function(d){
-          return d.dateString
-        })
         .attr("fill", "white")
         .attr("font-family", "'Space Mono', monospace")
         .attr("font-size", 13)
+        .each(function(d){
+          d3.select(this).append('tspan').text(d.dateString.split(' ')[0]).attr("x", function(d){return x(d.date)})
+          d3.select(this).append('tspan').text(d.dateString.split(' ')[1]).attr("dy","1.2em").attr("x", function(d){return x(d.date)})
+        })
 
     var lineData = [];
 
