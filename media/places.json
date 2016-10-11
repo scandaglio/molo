@@ -4057,6 +4057,16 @@
         "zona": "8",
         "panoId": "IwiBdnhmboH6El1_8wtEBQ",
         "category": "area_dismessa",
+        "timemachine": [
+          {
+            "date": "Jun 2014",
+            "panoid": "ndIeKvv9qxI0iRZ8TybRzQ"
+          },
+          {
+            "date": "Jul 2015",
+            "panoid": "IwiBdnhmboH6El1_8wtEBQ"
+          }
+        ],
         "focus": false
       }
     },
