@@ -7,8 +7,8 @@
 
 # Site settings
 title: Scandaglio
-#email: your-email@domain.com
-description: Track urban evolution through Google Street View timemachine
+email: offtopic@autoproduzioni.net
+description: strumenti e pratiche per sondare la città
 baseurl: "/molo" # the subpath of your site, e.g. /blog
 url: "http://uf0.github.io" # the base hostname & protocol for your site
 twitter_username: ufo_inthesky

@@ -187,6 +187,10 @@ h1,h2,h3,h4,h5,h6{
   color: black;
 }
 
+#home .btn:focus{
+  outline: none;
+}
+
 #home .btn.active, .btn:active{
   box-shadow: none;
 }
@@ -276,8 +280,16 @@ h1,h2,h3,h4,h5,h6{
   bottom: 0px;
   left: 0px;
   right: 0px;
-  pointer-events: none;
   z-index: 0;
+}
+
+.pano .row{
+  opacity: 0.5;
+  transition: 1s opacity;
+}
+
+.pano .row:hover{
+  opacity: 1;
 }
 
 .pano #map{
@@ -371,6 +383,49 @@ h1,h2,h3,h4,h5,h6{
   }
 
 }
+
+.placeName{
+  cursor: e-resize;
+}
+
+.controls{
+  display: flex;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+
+  flex-direction: row;
+  -webkit-flex-direction: row;
+
+  -webkit-align-items: center;
+  align-items: center;
+
+  flex-wrap: wrap;
+  -webkit-flex-wrap: wrap;
+
+  text-align: center;
+  border: none;
+}
+
+.controls .btnContPlay,
+.controls .btnContFocus{
+  width: 100%;
+}
+
+.mapboxgl-popup {
+    max-width: 300px;
+    color: black;
+    text-align: center;
+    font-family: 'Space Mono', monospace;
+}
+
+.mapboxgl-popup .popupTitle{
+  font-size: 16px;
+}
+
+.mapboxgl-popup .popupSubTitle{
+  font-size: 13px;
+}
+
 
 @media (min-width: 992px){
   .page blockquote{

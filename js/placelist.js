@@ -9,6 +9,28 @@
     return d.properties.category == category;
   });
 
+  d3.selectAll('.placeName')
+    .on('mouseover', function(d){
+
+      var panoid = d3.select(this).attr("panoid")
+      var coordinates = places.features.filter(function(e){
+        return e.properties.panoId == panoid;
+      })[0].geometry.coordinates;
+
+      map.flyTo({center: coordinates, zoom: 15});
+    })
+
+  d3.select('.table')
+    .on('mouseout', function(){
+      map.fitBounds([[
+          bbox[0],
+          bbox[1]
+      ], [
+          bbox[2],
+          bbox[3]
+      ]],{padding:100, maxZoom:14});
+    })
+
   var bbox = turf.bbox(places);
 
   var centerPt = turf.center(places);
@@ -78,6 +100,28 @@
       });
 
   });
+
+  map.on("mousemove", function(e) {
+      var features = map.queryRenderedFeatures(e.point, { layers: ["points"] });
+      map.getCanvas().style.cursor = (features.length) ? 'pointer' : '';
+  });
+
+  map.on('click', function (e) {
+    var features = map.queryRenderedFeatures(e.point, { layers: ['points'] });
+
+    if (!features.length) {
+        return;
+    }
+
+    var feature = features[0];
+
+    var text = '<span class="popupTitle">'+feature.properties.condition_desc + '</span><br><span class="popupSubTitle">' + feature.properties.address +'</span>';
+    var popup = new mapboxgl.Popup()
+        .setLngLat(feature.geometry.coordinates)
+        .setHTML(text)
+        .addTo(map);
+  });
+
 
   $(window).resize(function () {
     var $affixElement = $('div[data-spy="affix"]');

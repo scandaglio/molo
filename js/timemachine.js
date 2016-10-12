@@ -58,7 +58,7 @@
         container: 'map',
         style: 'mapbox://styles/teo/ciu1f5enw00i52iol853ypazc',
         center: place.geometry.coordinates,
-        zoom: 15,
+        zoom: 14,
         interactive: false
     });
 
@@ -71,31 +71,12 @@
             }
         });
 
-        // map.addLayer({
-        //     "id": "label",
-        //     "type": "symbol",
-        //     "source": "points",
-        //     "layout": {
-        //         // "icon-image": "square-15",
-        //         "text-field": "{condition_desc}",
-        //         "text-font": ["Open Sans Semibold", "Arial Unicode MS Bold"],
-        //         "text-offset": [0, 0.3],
-        //         "text-size": 14,
-        //         "text-anchor": "top"
-        //     },
-        //     "paint":{
-        //       "text-color": "#fff",
-        //       "text-halo-color": "#000000",
-        //       "text-halo-width": 2
-        //     }
-        // });
-
         map.addLayer({
             "id": "pointsBorder",
             "type": "circle",
             "source": "points",
             "paint": {
-              "circle-radius": 5,
+              "circle-radius": 8,
               "circle-color": "#000"
             }
         });
@@ -105,7 +86,7 @@
             "type": "circle",
             "source": "points",
             "paint": {
-              "circle-radius": 3,
+              "circle-radius": 5,
               "circle-color": "#ffffff"
             }
         });
@@ -128,9 +109,8 @@
         .append("g")
         .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
-    //if(place.properties.timemachine){
-      var timelineData = place.properties.timemachine;
-    // }
+    var timelineData = place.properties.timemachine;
+
 
     var parseTime = d3.timeParse("%b %Y");
     var formatTime = d3.timeFormat("%m/%Y")
@@ -153,8 +133,8 @@
         .domain([xMin,xMax])
         .range([0, chartWidth]);
 
-    var radius = 4,
-        linewidth = 1;
+    var radius = 6,
+        linewidth = 2;
 
     var points = chart.selectAll(".point")
       .data(timelineData)
@@ -252,14 +232,19 @@
           fullscreenControl:false,
           enableCloseButton: false,
           disableDefaultUI: true,
-          showRoadLabels: false
+          showRoadLabels: false,
+          clickToGo:false,
+          scrollwheel: false
         });
 
     var count = timelineData.length-1,
         totPano = timelineData.length;
 
     var autoRotate = function(){
-      heading+=0.1;
+
+      var pov = panorama.getPov();
+
+      heading = pov.heading + 0.1;
       heading = heading>=360?0:heading;
       if(heading == 0 ){
         count++;
@@ -287,6 +272,12 @@
         }
 
       }
+
+      if(pov.pitch){
+        pitch = pov.pitch;
+      }else{
+        pitch = 20;
+      }
       panorama.setPov({
         heading: heading,
         pitch: pitch
@@ -298,6 +289,25 @@
     var stopRotation = function(){
       clearInterval(rotateMapAnim);
     }
+
+    if(!place.properties.focus){
+      d3.select('.controls .btnContFocus').style('display','none')
+    }
+
+    d3.select('.controls .play')
+      .on('click', function(d){
+        var btn = $(this).find('span').hasClass('glyphicon-play');
+        if(btn){
+          rotateMapAnim = setInterval(autoRotate, 10);
+          $(this).find('span').removeClass('glyphicon-play')
+          $(this).find('span').addClass('glyphicon-pause')
+        }else{
+          stopRotation()
+          $(this).find('span').addClass('glyphicon-play')
+          $(this).find('span').removeClass('glyphicon-pause')
+        }
+
+      })
 
   })
 

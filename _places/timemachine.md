@@ -6,4 +6,5 @@ custom-libs:
   - https://npmcdn.com/@turf/turf@3.5.1/turf.min.js
 custom-js:
   - timemachine.js
+custom-css: timemachine.css
 ---
