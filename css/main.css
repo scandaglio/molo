@@ -372,6 +372,26 @@ animation-delay:3s;
   font-size: 18px;
 }
 
+.page a{
+  color: black;
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+.page a:hover{
+  text-decoration: line-through;
+}
+
+.page .img-about{
+  width: 400px;
+  margin-left: 0px;
+}
+
+.page .dida{
+  font-family: 'Space Mono', monospace;
+  margin: 0px;
+  font-size: 11px;
+}
 .page blockquote{
   border-left: none;
 }
@@ -455,6 +475,9 @@ animation-delay:3s;
 @media (min-width: 992px){
   .page blockquote{
     margin: 0 -150px 15px 25px;
+  }
+  .page .img-about{
+    margin-left: 45px;
   }
 }
 
