@@ -5531,41 +5531,29 @@
         "typology": "Scalo Ferroviario",
         "cod_prog": null,
         "zona": "10",
-        "panoId": "PAHcWseRzcWkkPyjpqD1tg",
+        "panoId": "-8TsBtXpjtqypHQhQ1i81w",
         "category": "scalo",
         "focus": false,
         "timemachine": [
           {
             "date": "Oct 2008",
-            "panoid": "QEv08ekY5OzDJt3Tpl3_sw"
+            "panoid": "lfVbybs78SR349lWSJHVvw"
           },
           {
             "date": "May 2012",
-            "panoid": "nCCqVbjiw7_5N9uWcoYy7A"
+            "panoid": "puq4vzdErmuIK4Lup2pNvQ"
           },
           {
             "date": "May 2014",
-            "panoid": "1cyGEGwO9MQ2CO1_6pCBrA"
-          },
-          {
-            "date": "Aug 2014",
-            "panoid": "YL7S1RWiWcFcqr6mRPqzyA"
+            "panoid": "jRfDA21SfRAAe5mADcUIrQ"
           },
           {
             "date": "May 2015",
-            "panoid": "qla5vhXUe8j0iksxz6NgtA"
-          },
-          {
-            "date": "Aug 2015",
-            "panoid": "o2iVm3jNmsvB24uBuyha_Q"
+            "panoid": "8CN5aQbniFiWLLq7rKI96Q"
           },
           {
             "date": "May 2016",
-            "panoid": "enDuXo3Vt2HJ2MRGowPn_Q"
-          },
-          {
-            "date": "Jul 2016",
-            "panoid": "PAHcWseRzcWkkPyjpqD1tg"
+            "panoid": "-8TsBtXpjtqypHQhQ1i81w"
           }
         ]
       }

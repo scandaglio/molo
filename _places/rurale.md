@@ -7,5 +7,6 @@ custom-libs:
   - https://npmcdn.com/@turf/turf@3.5.1/turf.min.js
 custom-js:
   - placelist.js
+custom-css: rurale.css
 ---
 Gated community per giovani smart, precari ma non troppo viste le soglie di accessibilità. Vecchie cascine si trasformano in progetti immobiliari redditizi per chi può trasformare un rudere in una gabbia dorata per famiglie, selezionatissime ovviamente. Socialità creata a tavolino, ma ne sentivamo davvero il bisogno?

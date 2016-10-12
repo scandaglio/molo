@@ -6,7 +6,7 @@ body{
   text-rendering: optimizeLegibility;
   background-color: black;
   color: white;
-  background-image: url('../media/home.jpg');
+  background-image: url('../media/privato.jpg');
   background-size: cover;
   background-position: center center;
   background-attachment: fixed;
@@ -387,9 +387,13 @@ animation-delay:3s;
   margin-left: 0px;
 }
 
+.page .img-incipit{
+  margin-left: 0px;
+}
+
 .page .dida{
   font-family: 'Space Mono', monospace;
-  margin: 0px;
+  margin: 0px 0px 10px 0px;
   font-size: 11px;
 }
 .page blockquote{
@@ -476,7 +480,8 @@ animation-delay:3s;
   .page blockquote{
     margin: 0 -150px 15px 25px;
   }
-  .page .img-about{
+  .page .img-about,
+  .page .img-incipit{
     margin-left: 45px;
   }
 }
