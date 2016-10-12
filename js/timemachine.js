@@ -58,7 +58,7 @@
         container: 'map',
         style: 'mapbox://styles/teo/ciu1f5enw00i52iol853ypazc',
         center: place.geometry.coordinates,
-        zoom: 14,
+        zoom: 11,
         interactive: false
     });
 

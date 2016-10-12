@@ -155,6 +155,11 @@ h1,h2,h3,h4,h5,h6{
   margin-bottom: 30px;
 }
 
+.homeControls{
+  text-align: right;
+  margin-top: 10px;
+}
+
 .placesList a{
   color: white;
   text-decoration: underline;
@@ -283,14 +288,34 @@ h1,h2,h3,h4,h5,h6{
   z-index: 0;
 }
 
-.pano .row{
+/*.pano .row{
   opacity: 0.5;
   transition: 1s opacity;
 }
 
 .pano .row:hover{
   opacity: 1;
+}*/
+
+/*.pano .row{
+  animation:fadeOut 3s 1;
+-webkit-animation:fadeOut 3s 1;
+animation-fill-mode: both;
+
+animation-delay:3s;
+-webkit-animation-delay:3s;
+-webkit-animation-fill-mode: both;
 }
+
+@-webkit-keyframes fadeOut{
+    0%   {opacity: 1;}
+    100% {opacity: 0.5;}
+}
+
+@keyframes fadeOut{
+    0%   {opacity: 1;}
+    100% {opacity: 0.5;}
+}*/
 
 .pano #map{
   height: 200px;
