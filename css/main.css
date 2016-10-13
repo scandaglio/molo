@@ -200,12 +200,22 @@ h1,h2,h3,h4,h5,h6{
   box-shadow: none;
 }
 
+.page #map{
+  height: 300px;
+  border: 1px solid black;
+  margin-bottom: 20px;
+}
+
 .placeList #map{
   height: 300px;
   border: 1px solid white;
 }
 
 .placeList{
+  font-family: 'Space Mono', monospace;
+}
+
+.page .table{
   font-family: 'Space Mono', monospace;
 }
 
@@ -232,6 +242,11 @@ h1,h2,h3,h4,h5,h6{
 }
 .placeList .table th,
 .placeList .table td {
+  text-align: center;
+}
+
+.page .table th,
+.page .table td {
   text-align: center;
 }
 
@@ -278,6 +293,19 @@ h1,h2,h3,h4,h5,h6{
 .placeList .table-bordered>thead>tr>th {
   border: 1px solid #fff;
  }
+
+ .page .table-bordered {
+     border: 1px solid #000;
+ }
+
+ .page .table-bordered>tbody>tr>td,
+ .page .table-bordered>tbody>tr>th,
+ .page .table-bordered>tfoot>tr>td,
+ .page .table-bordered>tfoot>tr>th,
+ .page .table-bordered>thead>tr>td,
+ .page .table-bordered>thead>tr>th {
+   border: 1px solid #000;
+  }
 
 #pano {
   position: absolute;

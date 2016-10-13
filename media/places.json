@@ -21,7 +21,7 @@
         "zona": "4",
         "panoId": "J6xiHZJxMssb5gBctak_lg",
         "category": "privato",
-        "focus": true,
+        "focus": false,
         "timemachine": [
           {
             "date": "Apr 2008",
@@ -2896,7 +2896,8 @@
         "zona": "8",
         "panoId": "Ky6fSgMCOWFC-R-NGef31Q",
         "category": "rurale",
-        "focus": false,
+        "focus": true,
+        "focusLink": "/cascina-merlata/",
         "timemachine": [
           {
             "date": "Apr 2008",
@@ -5533,7 +5534,8 @@
         "zona": "10",
         "panoId": "-8TsBtXpjtqypHQhQ1i81w",
         "category": "scalo",
-        "focus": false,
+        "focus": true,
+        "focusLink": "/scalo-romana/",
         "timemachine": [
           {
             "date": "Oct 2008",

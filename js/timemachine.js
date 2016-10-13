@@ -15,6 +15,8 @@
     var url = LUOGHI_DICT[category].url,
         breadcrumb = LUOGHI_DICT[category].title;
 
+    d3.select('.focusOpen').attr("href", BASE_URL + place.properties.focusLink)
+
     d3.select('.navbar-header')
       .append('a')
       .attr("class", "navbar-brand")
