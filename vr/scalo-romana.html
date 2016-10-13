@@ -1,0 +1,68 @@
+<!doctype html>
+<html>
+  <head>
+    <script type="text/javascript" src="https://aframe.io/releases/0.3.0/aframe.min.js"></script>
+  </head>
+  <body>
+    <script>
+      AFRAME.registerComponent('set-sky', {
+        schema: {default: ''},
+        init() {
+          const sky = document.querySelector('a-sky');
+          this.el.addEventListener('click', () => {
+            sky.setAttribute('src', this.data);
+          });
+        }
+      });
+    </script>
+
+    <a-scene>
+
+      <a-assets>
+        <img id="p2010" src="img/scalo-romana/panorama-2010.png">
+        <img id="p2010-thumb" src="img/thumb-panorama-2010.png">
+        <img id="p2014" src="img/scalo-romana/panorama-2014.png">
+        <img id="p2014-thumb" src="img/thumb-panorama-2014.png">
+        <img id="p2016" src="img/scalo-romana/panorama-2016.png">
+        <img id="p2016-thumb" src="img/thumb-panorama-2016.png">
+        </script>
+      </a-assets>
+
+      <a-camera position="0 2 4">
+        <a-cursor color="#000" fuse="false" timeout="200">
+        </a-cursor>
+      </a-camera>
+
+      <a-plane src="#p2010-thumb" opacity="0.5" height="1" width="1" position="-1.5 -0.5 -4" set-sky="#p2010">
+        <a-animation begin="mouseenter" attribute="scale" from="1 1 1" to="1.2 1.2 1.2"
+              easing="linear" dur="200" fill="forwards"></a-animation>
+        <a-animation begin="click" attribute="scale" from="1.2 1.2 1.2" to="1 1 1"
+              easing="linear" dur="200" fill="forwards"></a-animation>
+
+        <a-animation begin="mouseleave" attribute="scale" from="1.2 1.2 1.2" to="1 1 1"
+              easing="linear" dur="200" fill="forwards"></a-animation>
+      </a-plane>
+
+      <a-plane src="#p2014-thumb" opacity="0.5" height="1" width="1" position="-0 -0.5 -4" set-sky="#p2014">
+        <a-animation begin="mouseenter" attribute="scale" from="1 1 1" to="1.2 1.2 1.2"
+              easing="linear" dur="200" fill="forwards"></a-animation>
+        <a-animation begin="click" attribute="scale" from="1.2 1.2 1.2" to="1 1 1"
+              easing="linear" dur="200" fill="forwards"></a-animation>
+
+        <a-animation begin="mouseleave" attribute="scale" from="1.2 1.2 1.2" to="1 1 1"
+              easing="linear" dur="200" fill="forwards"></a-animation>
+      </a-plane>
+      <a-plane src="#p2016-thumb" opacity="0.5" height="1" width="1" position="1.5 -0.5 -4" set-sky="#p2016">
+        <a-animation begin="mouseenter" attribute="scale" from="1 1 1" to="1.2 1.2 1.2"
+              easing="linear" dur="200" fill="forwards"></a-animation>
+        <a-animation begin="click" attribute="scale" from="1.2 1.2 1.2" to="1 1 1"
+              easing="linear" dur="200" fill="forwards"></a-animation>
+
+        <a-animation begin="mouseleave" attribute="scale" from="1.2 1.2 1.2" to="1 1 1"
+              easing="linear" dur="200" fill="forwards"></a-animation>
+      </a-plane>
+
+      <a-sky src="#p2016"></a-sky>
+    </a-scene>
+  </body>
+</html>
