@@ -2,7 +2,7 @@
 
   d3.selectAll('img').attr("class",'img-responsive img-incipit')
 
-  d3.json('/molo/media/places.json', function(data){
+  d3.json('/scandaglio/media/places.json', function(data){
 
     var panoid = PANOID
 

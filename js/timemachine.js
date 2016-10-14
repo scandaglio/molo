@@ -1,6 +1,6 @@
 (function(){
 
-  d3.json('/molo/media/places.json', function(data){
+  d3.json('/scandaglio/media/places.json', function(data){
 
     var panoid = getUrlParameter('panoid'),
         heading = 0,
@@ -38,14 +38,14 @@
     if(placeIndex+1 <= catFilterLength){
       next = catFilter[placeIndex+1].properties.panoId;
       d3.select('.arrows.next').append('a')
-        .attr('href', '/molo/places/timemachine?panoid=' + next)
+        .attr('href', '/scandaglio/places/timemachine?panoid=' + next)
         .html('<span class="glyphicon glyphicon-menu-right" aria-hidden="true"></span>')
     }
 
     if(placeIndex-1 >= 0){
       prev = catFilter[placeIndex-1].properties.panoId;
       d3.select('.arrows.prev').append('a')
-        .attr('href', '/molo/places/timemachine?panoid=' + prev)
+        .attr('href', '/scandaglio/places/timemachine?panoid=' + prev)
         .html('<span class="glyphicon glyphicon-menu-left" aria-hidden="true"></span>')
     }
 

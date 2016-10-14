@@ -13,11 +13,12 @@ baseurl: "/scandaglio" # the subpath of your site, e.g. /blog
 url: "http://offtopiclab.org/scandaglio" # the base hostname & protocol for your site
 twitter_username: ufo_inthesky
 github_username:  uf0
-permalink: /:categories/:title
+permalink: /:categories/:title.html
 include: ['_pages']
 collections:
   places:
     output: true
+    permalink: /places/:path/
 
 # Build settings
 markdown: kramdown
