@@ -7,25 +7,30 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          {% if page.layout == 'home' or page.layout == 'page' or page.layout == 'focus'%}
-            <a class="navbar-brand" href="{{ "/" | prepend: site.baseurl }}">{{ site.title }}</a>
-          {% endif %}
-          {% if page.title == 'Places' %}
-            <a class="navbar-brand normalWeight" href="{{ "/" | prepend: site.baseurl }}">{{ site.title }} | </a>
-            <a class="navbar-brand" href="{{ "/places" | prepend: site.baseurl }}">luoghi</a>
-          {% endif %}
-          {% if page.layout == 'timemachine' %}
-            <a class="navbar-brand normalWeight" href="{{ "/" | prepend: site.baseurl }}">{{ site.title }} | </a>
-            <a class="navbar-brand normalWeight" href="{{ "/places/" | prepend: site.baseurl }}">luoghi | </a>
-          {% endif %}
-          {% if page.layout == 'placelist' %}
-            <a class="navbar-brand normalWeight" href="{{ "/" | prepend: site.baseurl }}">{{ site.title }} | </a>
-            <a class="navbar-brand normalWeight" href="{{ "/places" | prepend: site.baseurl }}">luoghi | </a>
-            <a class="navbar-brand" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-          {% endif%}
+          <a class="navbar-brand{% if page.url != '/' %} normalWeight {% endif %}" href="{{ "/" | prepend: site.baseurl }}">{{ site.title }}</a>
         </div>
         <div id="navbar" class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
+            {% if page.title == 'Places' %}
+            <li>
+              <a class="" href="{{ "/places" | prepend: site.baseurl }}">luoghi</a>
+            </li>
+            {% endif %}
+            {% if page.layout == 'timemachine' %}
+            <li>
+              <a class="normalWeight" href="{{ "/places/" | prepend: site.baseurl }}">luoghi</a>
+            </li>
+            {% endif %}
+            {% if page.layout == 'placelist' %}
+            <li>
+              <a class="normalWeight" href="{{ "/places" | prepend: site.baseurl }}">luoghi</a>
+            </li>
+            <li>
+              <a class="" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+            </li>
+            {% endif%}
+          </ul>
+          <ul class="nav navbar-nav navbar-right">
             <li><a href="{{ "/about" | prepend: site.baseurl }}">About</a></li>
             <li><a href="mailto:hello@calib.ro">offtopic@autoproduzioni.org</a></li>
           </ul>

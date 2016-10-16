@@ -128,6 +128,45 @@ h1,h2,h3,h4,h5,h6{
 .navbar-default .navbar-nav>li>a {
     color: white;
 }
+.navbar-default .navbar-nav>li>a {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.navbar-default .navbar-nav.navbar-right>li:not(:last-child){
+    border-bottom: 1px solid white;
+}
+
+.navbar-default .navbar-nav.navbar-right>li>a {
+    font-size: 14px;
+}
+
+.navbar-default .navbar-brand,
+.navbar-default .navbar-nav>li>a:hover {
+    color: white;
+}
+
+.navbar-default .navbar-toggle:focus,
+.navbar-default .navbar-toggle:hover {
+    background-color: transparent;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: white;
+}
+
+.navbar-fixed-bottom .navbar-collapse,
+.navbar-fixed-top .navbar-collapse {
+    background-color: rgba(0,0,0,0.70);
+}
+
+.navbar-nav:not(.navbar-right) {
+  border-bottom: 1px solid white;
+}
+
+#navbar>ul li>a:before{
+  content: ""
+}
 
 #home{
   min-height: 100vh;
@@ -156,7 +195,7 @@ h1,h2,h3,h4,h5,h6{
 }
 
 .homeControls{
-  text-align: right;
+  text-align: left;
   margin-top: 10px;
 }
 
@@ -200,6 +239,9 @@ h1,h2,h3,h4,h5,h6{
   box-shadow: none;
 }
 
+.btn-group.explore{
+  margin-bottom: 25px;
+}
 .page #map{
   height: 300px;
   border: 1px solid black;
@@ -308,42 +350,19 @@ h1,h2,h3,h4,h5,h6{
   }
 
 #pano {
-  position: absolute;
+  width: 100%;
+  height: calc(100% + 25px);
+}
+
+#panoContainer{
+  position: fixed;
   top:0px;
   bottom: 0px;
   left: 0px;
   right: 0px;
   z-index: 0;
+  overflow: hidden;
 }
-
-/*.pano .row{
-  opacity: 0.5;
-  transition: 1s opacity;
-}
-
-.pano .row:hover{
-  opacity: 1;
-}*/
-
-/*.pano .row{
-  animation:fadeOut 3s 1;
--webkit-animation:fadeOut 3s 1;
-animation-fill-mode: both;
-
-animation-delay:3s;
--webkit-animation-delay:3s;
--webkit-animation-fill-mode: both;
-}
-
-@-webkit-keyframes fadeOut{
-    0%   {opacity: 1;}
-    100% {opacity: 0.5;}
-}
-
-@keyframes fadeOut{
-    0%   {opacity: 1;}
-    100% {opacity: 0.5;}
-}*/
 
 .pano #map{
   height: 200px;
@@ -351,7 +370,7 @@ animation-delay:3s;
 }
 
 .panoInfo{
-  font-size: 25px;
+  font-size: 16px;
   font-family: 'Space Mono', monospace;
 }
 
@@ -436,6 +455,7 @@ animation-delay:3s;
 .affix{
   position: static;
   width: auto;
+  margin-bottom: 20px;
 }
 
 .affix-top{
@@ -443,23 +463,6 @@ animation-delay:3s;
   width: auto;
 }
 
-@media (min-width: 768px){
-  #contactus, #aboutus{
-    display: flex;
-    display: -webkit-flex;
-  }
-
-  #navbar {
-      display: none!important;
-  }
-
-  .pano .flex{
-    display: flex;
-    display: -webkit-flex;
-    display: -ms-flexbox;
-  }
-
-}
 
 .placeName{
   cursor: e-resize;
@@ -486,6 +489,7 @@ animation-delay:3s;
 .controls .btnContPlay,
 .controls .btnContFocus{
   width: 100%;
+  padding: 5px 0px;
 }
 
 .mapboxgl-popup {
@@ -503,6 +507,46 @@ animation-delay:3s;
   font-size: 13px;
 }
 
+
+
+@media (min-width: 768px){
+  #contactus, #aboutus{
+    display: flex;
+    display: -webkit-flex;
+  }
+
+  #navbar .navbar-right {
+      display: none!important;
+  }
+
+  .navbar-fixed-bottom .navbar-collapse,
+  .navbar-fixed-top .navbar-collapse {
+      background-color: transparent;
+  }
+
+  #navbar>ul:not(.navbar-right) li>a:before{
+    content: "| "
+  }
+
+  .navbar-nav:not(.navbar-right) {
+    border-bottom: none;
+  }
+
+  .pano .flex{
+    display: flex;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+  }
+
+  .homeControls{
+    text-align: right;
+  }
+
+  .panoInfo{
+    font-size: 25px;
+  }
+
+}
 
 @media (min-width: 992px){
   .page blockquote{

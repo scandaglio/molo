@@ -17,7 +17,8 @@
 
     d3.select('.focusOpen').attr("href", BASE_URL + place.properties.focusLink)
 
-    d3.select('.navbar-header')
+    d3.select('#navbar>ul')
+      .append('li')
       .append('a')
       .attr("class", "navbar-brand")
       .attr("href", BASE_URL + '/places/' + url)
