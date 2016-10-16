@@ -24,3 +24,19 @@ body:after {
   background-color: white;
   border-bottom: 1px solid black!important;
 }
+
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: black;
+}
+
+.navbar-default .navbar-toggle {
+    border-color: black;
+}
+
+.navbar-fixed-bottom .navbar-collapse, .navbar-fixed-top .navbar-collapse {
+    background-color: white;
+}
+
+.navbar-default .navbar-nav.navbar-right>li:not(:last-child) {
+    border-bottom: 1px solid black;
+}

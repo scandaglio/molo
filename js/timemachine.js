@@ -166,9 +166,18 @@
             return 0
           }
         })
+        legend.each(function(e,i,data){
+          if(i == 0 || (i == data.length-1) || selDate.getTime() == e.date.getTime()){
+            d3.select(this).selectAll('tspan').remove()
+            d3.select(this).append('tspan').text(e.dateString.split(' ')[0]).attr("x", function(f){return x(f.date)})
+            d3.select(this).append('tspan').text(e.dateString.split(' ')[1]).attr("dy","1.2em").attr("x", function(f){return x(f.date)})
+          }else{
+            d3.select(this).selectAll('tspan').remove()
+          }
+        })
       })
 
-      chart.append("g")
+      var legend = chart.append("g")
         .attr("transform", "translate(0," + (chartHeight-5) + ")")
         .selectAll(".date")
         .data(timelineData)
@@ -179,9 +188,11 @@
         .attr("fill", "white")
         .attr("font-family", "'Space Mono', monospace")
         .attr("font-size", 13)
-        .each(function(d){
-          d3.select(this).append('tspan').text(d.dateString.split(' ')[0]).attr("x", function(d){return x(d.date)})
-          d3.select(this).append('tspan').text(d.dateString.split(' ')[1]).attr("dy","1.2em").attr("x", function(d){return x(d.date)})
+        .each(function(d,i,data){
+          if(i == 0 || (i == data.length-1)){
+            d3.select(this).append('tspan').text(d.dateString.split(' ')[0]).attr("x", function(d){return x(d.date)})
+            d3.select(this).append('tspan').text(d.dateString.split(' ')[1]).attr("dy","1.2em").attr("x", function(d){return x(d.date)})
+          }
         })
 
     var lineData = [];
