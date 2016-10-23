@@ -507,7 +507,36 @@ h1,h2,h3,h4,h5,h6{
   font-size: 13px;
 }
 
+p.focusInfo{
+  font-family: 'Space Mono', monospace;
+  font-size: 12px;
+}
 
+#markdown-toc{
+  list-style-type: none;
+  font-family: 'Space Mono', monospace;
+  font-size: 12px;
+  position: fixed;
+  left: 58.3%;
+}
+
+#markdown-toc li{
+  margin-bottom: 5px;
+}
+
+#markdown-toc li a{
+  text-decoration: none;
+  border-bottom: 1px solid black;
+  background-color: transparent;
+  transition: all 0.5s;
+  color: black;
+}
+
+#markdown-toc li a:hover{
+  text-decoration: none;
+  background-color: black;
+  color: white;
+}
 
 @media (min-width: 768px){
   #contactus, #aboutus{
@@ -568,5 +597,13 @@ h1,h2,h3,h4,h5,h6{
   .affix{
     position: fixed;
     width: auto;
+  }
+}
+
+@media (max-width: 768px){
+  #markdown-toc{
+    position: initial;
+    text-align: center;
+    padding: 0px;
   }
 }

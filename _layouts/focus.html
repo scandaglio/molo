@@ -5,11 +5,20 @@ layout: default
   <div class="row">
     <div class="col-sm-12 col-md-offset-1 col-md-6">
       <h1>{{page.title}}</h1>
+      <p class="focusInfo">
+        data: {{ page.date | date: "%F" }}
+        | autori: {{page.authors | array_to_sentence_string}}
+        | lettura: {% assign words = content | number_of_words %}
+          {% if words < 360 %}
+            1 minuto
+          {% else %}
+            {{ words | divided_by:180 }} minuti
+          {% endif %}
+      </p>
       <div id="map"></div>
       <div class="table-responsive">
       <table class="table table-bordered">
         <tbody>
-          {% assign count = 0 %}
           {% for place in site.data.places.features %}
             {% if place.properties.panoId == page.panoid %}
               <tr>
@@ -17,7 +26,7 @@ layout: default
                   {{ place.properties.address}}
                 </td>
                 <td>
-                  {{ place.properties.typology }}
+                  {{ place.properties.category }}
                 </td>
                 <td>
                   <a href="{{'/places/timemachine?panoid=' | append: place.properties.panoId | prepend: site.baseurl}}">
@@ -35,5 +44,9 @@ layout: default
   </div>
 </div>
 <script>
-  var PANOID = '{{page.panoid}}';
+  var PLACE = {% for place in site.data.places.features %}
+                {% if place.properties.panoId == page.panoid %}
+                {{place | jsonify}};
+                {% endif %}
+              {% endfor %}
 </script>

@@ -15,6 +15,12 @@ Alcuni luoghi sono esplorabili tramite dei visori Google cardboard o [compatibil
 - [Cascina Merlata](http://offtopiclab.org/scandaglio/vr/cascina-merlata.html)
 - [Scalo Ferroviario Romana](http://offtopiclab.org/scandaglio/vr/porta-romana.html)
 
+###Licenze
+
+Il codice è distribuito sotto licenza [GNU GPL-3.0](https://github.com/uf0/scandaglio/blob/master/LICENSE)
+
+I dati sono rilasciati sotto licenza Creative Commons ![cc-by-nc](https://i.creativecommons.org/l/by-nc/4.0/80x15.png)
+
 ### Contatti
 
 [offtopic@autoproduzioni.net](mailto:offtopic@autoproduzioni.net) - [offtopiclab.org](http://www.offtopiclab.org/)- [@offtopic_lab](https://twitter.com/offtopic_lab)
