@@ -9,10 +9,10 @@
 title: Scandaglio
 email: offtopic@autoproduzioni.net
 description: strumenti e pratiche per sondare la città
-baseurl: "/scandaglio" # the subpath of your site, e.g. /blog
+baseurl: "/molo" # the subpath of your site, e.g. /blog
 url: "http://offtopiclab.org/scandaglio" # the base hostname & protocol for your site
-twitter_username: ufo_inthesky
-github_username:  uf0
+twitter_username: offtopic_lab
+github_username:  scandalgio
 permalink: /:categories/:title.html
 include: ['_pages']
 collections:

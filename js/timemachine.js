@@ -1,7 +1,7 @@
 (function(){
   d3.queue()
-    .defer(d3.json,'/scandaglio/media/places.json')
-    .defer(d3.json,'/scandaglio/media/posts.json')
+    .defer(d3.json,'/molo/media/places.json')
+    .defer(d3.json,'/molo/media/posts.json')
     .await(function(error, data, posts) {
       if (error) console.log(error);
 
@@ -51,14 +51,14 @@
       if(placeIndex+1 <= catFilterLength){
         next = catFilter[placeIndex+1].properties.panoId;
         d3.select('.arrows.next').append('a')
-          .attr('href', '/scandaglio/places/timemachine?panoid=' + next)
+          .attr('href', '/molo/places/timemachine?panoid=' + next)
           .html('<span class="glyphicon glyphicon-menu-right" aria-hidden="true"></span>')
       }
 
       if(placeIndex-1 >= 0){
         prev = catFilter[placeIndex-1].properties.panoId;
         d3.select('.arrows.prev').append('a')
-          .attr('href', '/scandaglio/places/timemachine?panoid=' + prev)
+          .attr('href', '/molo/places/timemachine?panoid=' + prev)
           .html('<span class="glyphicon glyphicon-menu-left" aria-hidden="true"></span>')
       }
 

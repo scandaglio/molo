@@ -70,15 +70,15 @@ Ora che anche ultimi dati mancanti erano stati _liberati_ avevamo a disposizione
 ## Dati e codice
 Potete trovare i dati in formato aperto/modificabile/riutilizzabile qui:
 
->[places.json](https://raw.githubusercontent.com/uf0/scandaglio/master/_data/places.json)
+>[places.json](https://raw.githubusercontent.com/scandaglio/molo/master/_data/places.json)
 
 Il codice del sito qui:
 
->[scandaglio](https://github.com/uf0/scandaglio)
+>[scandaglio](https://github.com/scandaglio/molo)
 
 Il codice delle scraper qui:
 
 >[coming soon]()
 
 ## Disclaimer
-Questa ricerca non è perfetta e non è terminata, è l'inizio di un laboratorio politico che verrà [portato avanti](/scandaglio/about/) presso PianoTerra. Ogni consiglio e critica costruttiva è benvenuta!
+Questa ricerca non è perfetta e non è terminata, è l'inizio di un laboratorio politico che verrà [portato avanti](/molo/about/) presso PianoTerra. Ogni consiglio e critica costruttiva è benvenuta!
